@@ -27,9 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.GH_TOKEN }}
+        uses: actions/checkout@v4
       - name: Install dependencies
         run: yarn
       - name: Build
