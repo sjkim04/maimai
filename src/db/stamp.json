@@ -1,0 +1,170 @@
+[
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/1c0acbba6cc5d80e.png",
+    "title": "ソルト（ぷりずむ）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/60a466c46cfa5b3a.png",
+    "title": "ラズ（ばでぃーず）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/66ff253d40aa49ad.png",
+    "title": "乙姫（ばでぃーず）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/bd5dff22b8a01577.png",
+    "title": "らいむっくま＆れもんっくま（ばでぃーず）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/2c0bf461478499e7.png",
+    "title": "黒姫",
+    "complete": true,
+    "stampCount": 10,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/5e986e798844059e.png",
+    "title": "ラズ（ふぇすてぃばる）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/ef567595e1e81020.png",
+    "title": "シフォン（ふぇすてぃばる）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/3dc276a1b659e33e.png",
+    "title": "ソルト（ふぇすてぃばる）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/5ac032ec087a91e7.png",
+    "title": "ちびみるく",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/689d29adbdb7d8fe.png",
+    "title": "百合咲ミカ",
+    "complete": false,
+    "stampCount": 1,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/25da565b1ceb62f2.png",
+    "title": "しゃま（ゆにばーす）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/b1b87682f19db7f8.png",
+    "title": "みるく（ゆにばーす）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/240b94b8dc3174b9.png",
+    "title": "乙姫（すぷらっしゅ）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/8e3cad1f597c0558.png",
+    "title": "One Step Ahead",
+    "complete": true,
+    "stampCount": 10,
+    "max": 10
+  },
+  {
+    "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/c095520ef94c76bb.png",
+    "title": "天狗の落とし文 feat. ｙｔｒ",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/17bd34442bb405c8.png",
+    "title": "ハッピーシンセサイザ",
+    "complete": true,
+    "stampCount": 10,
+    "max": 10
+  },
+  {
+    "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/937d88b9bec425ac.png",
+    "title": "sweet little sister",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "icon",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Icon/bf95231e5e4c1a0f.png",
+    "title": "PRiSM",
+    "complete": true,
+    "stampCount": 5,
+    "max": 5
+  },
+  {
+    "type": "nameplate",
+    "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/527ee5fc6fe14c16.png",
+    "title": "QuiQ",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "nameplate",
+    "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/7664c451db440f74.png",
+    "title": "Swift Swing",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "frame",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Frame/f831f03b2521becc.png",
+    "title": "Valsqotch",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  }
+]
