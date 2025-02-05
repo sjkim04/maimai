@@ -9,8 +9,9 @@ jobs:
       SEGA_PASSWORD: ${{ secrets.SEGA_PASSWORD }}
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GH_PAT }}
           ref: main
       - name: Install dependencies
         run: yarn
@@ -25,8 +26,9 @@ jobs:
     needs: generate
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GH_PAT }}
           ref: main
       - name: Setup Pages
         uses: actions/configure-pages@v5
