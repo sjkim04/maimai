@@ -1,7 +1,7 @@
 name: Daily Database Build
 on:
   schedule:
-    - cron: "30 22 * * *" # Every day at 7:30am KST
+    - cron: "30 22 * * *" # every day at 7:30am KST
   workflow_dispatch:
 jobs:
   generate:
@@ -48,7 +48,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist/maimai'
+          path: './dist'
   deploy:
     needs: build
     permissions:
