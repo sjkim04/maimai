@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   // base: "/",
-  base: "/maimai-shiftpsh",
+  base: "/maimai/",
   build: {
     outDir: "dist/maimai/",
   },
