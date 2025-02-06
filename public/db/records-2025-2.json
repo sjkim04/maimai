@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 10280,
+    "rating": 10486,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 20,
     "playCount": {
-      "total": 37,
-      "current": 25
+      "total": 39,
+      "current": 27
     }
   },
   "records": [
@@ -214,6 +214,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "系ぎて",
+        "type": "DX",
+        "difficulty": "ADVANCED"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979391,
+        "rank": "S",
+        "dxScore": {
+          "score": 1285,
+          "max": 1617,
+          "percentage": 79.46815089672232
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -514,6 +534,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "snooze",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984139,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1541,
+          "max": 1848,
+          "percentage": 83.38744588744589
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -1058,6 +1098,26 @@
     },
     {
       "track": {
+        "title": "ロキ",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 989920,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1289,
+          "max": 1488,
+          "percentage": 86.6263440860215
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "シャルル",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1284,12 +1344,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 955702,
-        "rank": "AAA",
+        "achievement": 972606,
+        "rank": "S",
         "dxScore": {
-          "score": 1195,
+          "score": 1224,
           "max": 1575,
-          "percentage": 75.87301587301587
+          "percentage": 77.71428571428571
         },
         "dxRank": 0,
         "combo": null,
@@ -1424,12 +1484,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 940092,
+        "achievement": 961629,
         "rank": "AAA",
         "dxScore": {
-          "score": 1368,
+          "score": 1402,
           "max": 1674,
-          "percentage": 81.72043010752688
+          "percentage": 83.75149342891278
         },
         "dxRank": 0,
         "combo": null,
@@ -1714,6 +1774,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "emomomo",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987912,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1287,
+          "max": 1491,
+          "percentage": 86.31790744466801
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
