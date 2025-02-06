@@ -1,5 +1,5 @@
 {
-  "chartCount": 5435,
+  "chartCount": 5442,
   "availableVersions": [
     {
       "value": 0,
@@ -10938,30 +10938,6 @@
       ]
     },
     {
-      "title": "うまぴょい伝説",
-      "type": "DX",
-      "version": 18,
-      "displayLevel": [
-        "5",
-        "6",
-        "9+",
-        "11",
-        "13"
-      ]
-    },
-    {
-      "title": "愛のシュプリーム！",
-      "type": "DX",
-      "version": 18,
-      "displayLevel": [
-        "1",
-        "6",
-        "8",
-        "12+",
-        null
-      ]
-    },
-    {
       "title": "エンヴィーベイビー",
       "type": "DX",
       "version": 18,
@@ -15998,6 +15974,54 @@
         "7",
         "11+",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "いちげき！のテーマ",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Resolution",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "5",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Radiance",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "6",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "R'N'R Monsta",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "14",
         null
       ]
     }

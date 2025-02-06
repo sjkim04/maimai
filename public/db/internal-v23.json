@@ -2766,6 +2766,12 @@
     "internalLevel": 139
   },
   {
+    "title": "HUMANBORG",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "六兆年と一夜物語",
     "type": "DX",
     "difficulty": "MASTER",
@@ -2940,6 +2946,12 @@
     "internalLevel": 139
   },
   {
+    "title": "Lunar Mare",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "Kairos",
     "type": "DX",
     "difficulty": "MASTER",
@@ -2950,6 +2962,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "c.s.q.n.",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "アトロポスと最果の探究者",
@@ -2970,6 +2988,12 @@
     "internalLevel": 139
   },
   {
+    "title": "Big Daddy",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "emomomo",
     "type": "DX",
     "difficulty": "MASTER",
@@ -2988,6 +3012,12 @@
     "internalLevel": 139
   },
   {
+    "title": "Upshift",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
+  },
+  {
     "title": "MAKE IT FUNKY NOW",
     "type": "DX",
     "difficulty": "MASTER",
@@ -2998,6 +3028,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 136
+  },
+  {
+    "title": "Dreadnought",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
   },
   {
     "title": "Lost Desire",
@@ -3067,6 +3103,18 @@
   },
   {
     "title": "月面基地",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "Reach For The Stars (Re-Colors)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
+  },
+  {
+    "title": "Halfway(>∀<)",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
