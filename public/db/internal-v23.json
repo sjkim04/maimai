@@ -1062,6 +1062,12 @@
     "internalLevel": 128
   },
   {
+    "title": "いちげき！のテーマ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
     "title": "YKWTD",
     "type": "DX",
     "difficulty": "MASTER",
@@ -1078,6 +1084,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "Resolution",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "天蓋",
@@ -1104,6 +1116,12 @@
     "internalLevel": 144
   },
   {
+    "title": "Radiance",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "Deicide",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -1116,10 +1134,22 @@
     "internalLevel": 142
   },
   {
+    "title": "R’N’R Monsta",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 141
+  },
+  {
     "title": "美夜月鏡",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
+  },
+  {
+    "title": "R’N’R Monsta",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 120
   },
   {
     "title": "美夜月鏡",
@@ -3270,6 +3300,12 @@
     "internalLevel": 139
   },
   {
+    "title": "ハジマリノピアノ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "Komplexe",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3316,6 +3352,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "MAGNETAR GIRL",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "とびだせ！TO THE COSMIC!!",
@@ -3426,6 +3468,12 @@
     "internalLevel": 139
   },
   {
+    "title": "VANTABLACK RAVER",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "my flow",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3436,6 +3484,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "Never Give Up!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "Beginning together!",
@@ -3538,6 +3592,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "星見草",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "Edelweiss",
@@ -3712,6 +3772,12 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "ぼくたちいつでも　しゅわっしゅわ！",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 138
   },
   {
     "title": "Rodeo Machine",
