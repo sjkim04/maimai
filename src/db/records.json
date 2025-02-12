@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 10486,
+    "rating": 10510,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 0,
     "classRank": 0,
-    "stars": 20,
+    "stars": 21,
     "playCount": {
-      "total": 39,
-      "current": 27
+      "total": 40,
+      "current": 28
     }
   },
   "records": [
@@ -404,7 +404,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 970752,
+        "achievement": 977012,
         "rank": "S",
         "dxScore": {
           "score": 1108,
@@ -594,6 +594,26 @@
         "dxRank": 0,
         "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "バグ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992976,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1558,
+          "max": 1854,
+          "percentage": 84.03451995685005
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -1750,6 +1770,26 @@
           "score": 709,
           "max": 1371,
           "percentage": 51.714077315827865
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "felys -final remix-",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 949273,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1308,
+          "max": 1794,
+          "percentage": 72.90969899665552
         },
         "dxRank": 0,
         "combo": null,
