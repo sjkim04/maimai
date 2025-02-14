@@ -1176,10 +1176,22 @@
     "internalLevel": 134
   },
   {
+    "title": "お願い！コンコンお稲荷さま",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 132
+  },
+  {
     "title": "Elemental Ethnic",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 140
+  },
+  {
+    "title": "いっぱい食べる君が好きだよ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 132
   },
   {
     "title": "Elemental Ethnic",
@@ -1210,6 +1222,12 @@
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 129
+  },
+  {
+    "title": "ピポピポ -People People- feat. ななひら\nNeko Hacker",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "One Step Ahead",
@@ -2874,6 +2892,12 @@
     "internalLevel": 138
   },
   {
+    "title": "マネマネサイコトロピック",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "HANIPAGANDA",
     "type": "DX",
     "difficulty": "MASTER",
@@ -2982,6 +3006,12 @@
     "internalLevel": 138
   },
   {
+    "title": "リスペク風神",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "Kairos",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3070,6 +3100,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "ヒミツCULT",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "エスオーエス",
@@ -3204,6 +3240,12 @@
     "internalLevel": 138
   },
   {
+    "title": "BOUNCE & DANCE",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "ドーナツホール",
     "type": "Standard",
     "difficulty": "MASTER",
@@ -3220,6 +3262,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "『ウソテイ』 ～一回戦せりなvsしろなvsなずな～",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "ナンセンス文学",
@@ -3262,6 +3310,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "oboro",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "進捗どうですか？",
@@ -3319,6 +3373,12 @@
   },
   {
     "title": "See The Light",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "Beautiful Future",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3415,6 +3475,12 @@
   },
   {
     "title": "PinqPiq (xovevox Remix)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "にゃーにゃー冒険譚",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3570,6 +3636,12 @@
     "internalLevel": 137
   },
   {
+    "title": "レーイレーイ",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "ツムギボシ",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3600,6 +3672,12 @@
     "internalLevel": 138
   },
   {
+    "title": "シエルブルーマルシェ",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "Edelweiss",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3616,6 +3694,12 @@
     "type": "DX",
     "difficulty": "Re:MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "単一指向性オーバーブルーム",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 138
   },
   {
     "title": "ここからはじまるプロローグ。 (Kanon Remix)",
@@ -3754,6 +3838,12 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "超常マイマイン",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 138
   },
   {
     "title": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.",

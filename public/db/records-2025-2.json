@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 10510,
+    "rating": 10644,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
-      "title": "\n\t\t\t\t\tドクター・キドリです\n\t\t\t\t"
+      "title": "\n\t\t\t\t\t食に人生かけてます\n\t\t\t\t"
     },
     "courseRank": 0,
     "classRank": 0,
     "stars": 21,
     "playCount": {
-      "total": 40,
-      "current": 28
+      "total": 41,
+      "current": 29
     }
   },
   "records": [
@@ -758,6 +758,26 @@
     },
     {
       "track": {
+        "title": "IMAWANOKIWA",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 993542,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1410,
+          "max": 1626,
+          "percentage": 86.71586715867159
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "匿名M",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1294,6 +1314,46 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "お願い！コンコンお稲荷さま",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980871,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1188,
+          "max": 1464,
+          "percentage": 81.14754098360656
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "いっぱい食べる君が好きだよ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985420,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1530,
+          "max": 1857,
+          "percentage": 82.39095315024232
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
