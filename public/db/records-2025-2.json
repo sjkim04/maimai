@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 10644,
+    "rating": 10692,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 21,
     "playCount": {
-      "total": 41,
-      "current": 29
+      "total": 42,
+      "current": 30
     }
   },
   "records": [
@@ -504,15 +504,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 964546,
-        "rank": "AAA",
+        "achievement": 1004193,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1201,
+          "score": 1277,
           "max": 1419,
-          "percentage": 84.63706835799859
+          "percentage": 89.99295278365047
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -752,8 +752,8 @@
           "percentage": 86.61710037174721
         },
         "dxRank": 1,
-        "combo": null,
-        "sync": null
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -1324,16 +1324,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 980871,
+        "achievement": 985297,
         "rank": "S+",
         "dxScore": {
-          "score": 1188,
+          "score": 1251,
           "max": 1464,
-          "percentage": 81.14754098360656
+          "percentage": 85.45081967213115
         },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "FULL SYNC"
       }
     },
     {
@@ -1934,6 +1934,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "♡マイマイマイラブ♡",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977110,
+        "rank": "S",
+        "dxScore": {
+          "score": 1102,
+          "max": 1299,
+          "percentage": 84.83448806774442
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {

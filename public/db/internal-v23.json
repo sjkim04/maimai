@@ -2994,6 +2994,12 @@
     "internalLevel": 137
   },
   {
+    "title": "バーチャルダム　ネーション",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
+  },
+  {
     "title": "Sound Chimera",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3217,6 +3223,12 @@
   },
   {
     "title": "MAGENTA POTION",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "CHOCOLATE BOMB!!!!",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3906,10 +3918,22 @@
     "internalLevel": 138
   },
   {
+    "title": "最終鬼畜妹・一部声",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 139
+  },
+  {
     "title": "エテルニタス・ルドロジー",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "儚きもの人間",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "夜咄ディセイブ",
