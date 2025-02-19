@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 10692,
+    "rating": 10760,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
-      "title": "\n\t\t\t\t\t食に人生かけてます\n\t\t\t\t"
+      "title": "\n\t\t\t\t\t『踊るか、踊られるか。』\n\t\t\t\t"
     },
     "courseRank": 0,
     "classRank": 0,
-    "stars": 21,
+    "stars": 22,
     "playCount": {
-      "total": 42,
-      "current": 30
+      "total": 43,
+      "current": 31
     }
   },
   "records": [
@@ -938,6 +938,26 @@
     },
     {
       "track": {
+        "title": "ヒバナ",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984919,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1192,
+          "max": 1422,
+          "percentage": 83.82559774964838
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ゴーストルール",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1054,6 +1074,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "初音ミクの消失",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 973575,
+        "rank": "S",
+        "dxScore": {
+          "score": 1475,
+          "max": 1899,
+          "percentage": 77.67245918904688
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -2174,6 +2214,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "INTERNET YAMERO",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 961436,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1751,
+          "max": 2241,
+          "percentage": 78.13476126729138
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
