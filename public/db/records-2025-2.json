@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 22,
     "playCount": {
-      "total": 43,
-      "current": 31
+      "total": 44,
+      "current": 32
     }
   },
   "records": [
@@ -2058,6 +2058,26 @@
     },
     {
       "track": {
+        "title": "チューリングの跡",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 861923,
+        "rank": "A",
+        "dxScore": {
+          "score": 918,
+          "max": 1617,
+          "percentage": 56.77179962894249
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "QZKago Requiem",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -2334,6 +2354,46 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "エータ・ベータ・イータ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 761154,
+        "rank": "BBB",
+        "dxScore": {
+          "score": 1564,
+          "max": 3162,
+          "percentage": 49.46236559139785
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "系ぎて",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 606312,
+        "rank": "B",
+        "dxScore": {
+          "score": 1516,
+          "max": 4200,
+          "percentage": 36.095238095238095
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     }
   ]
