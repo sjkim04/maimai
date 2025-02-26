@@ -1,5 +1,5 @@
 {
-  "chartCount": 5454,
+  "chartCount": 5466,
   "availableVersions": [
     {
       "value": 0,
@@ -16058,6 +16058,42 @@
         "8",
         "11",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "Flashback",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Colorfull:Encounter",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "5",
+        "7+",
+        "11+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "雨露霜雪",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "6",
+        "9",
+        "13",
+        "14+",
         null
       ]
     }
