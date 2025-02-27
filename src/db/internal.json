@@ -20989,6 +20989,14 @@
     }
   },
   {
+    "title": "Flashback",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "23": 139
+    }
+  },
+  {
     "title": "勇者",
     "type": "DX",
     "difficulty": "Re:MASTER",
