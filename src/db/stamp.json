@@ -75,8 +75,8 @@
     "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/689d29adbdb7d8fe.png",
     "title": "百合咲ミカ",
-    "complete": false,
-    "stampCount": 9,
+    "complete": true,
+    "stampCount": 10,
     "max": 10
   },
   {
@@ -164,7 +164,7 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/Frame/f831f03b2521becc.png",
     "title": "Valsqotch",
     "complete": false,
-    "stampCount": 0,
+    "stampCount": 1,
     "max": 10
   }
 ]
