@@ -1,5 +1,17 @@
 [
   {
+    "title": "Last Kingdom",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 125
+  },
+  {
+    "title": "GEOMETRIC DANCE",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 125
+  },
+  {
     "title": "カーニバルハッピー",
     "type": "DX",
     "difficulty": "MASTER",
@@ -184,6 +196,12 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 132
+  },
+  {
+    "title": "Y.Y.Y.計画!!!!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 133
   },
   {
     "title": "ガチャガチャきゅ～と・ふぃぎゅ＠メイト",
@@ -558,6 +576,12 @@
     "internalLevel": 134
   },
   {
+    "title": "Windy Hill -Zone 1",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
     "title": "ヒトガタ",
     "type": "DX",
     "difficulty": "MASTER",
@@ -642,6 +666,12 @@
     "internalLevel": 134
   },
   {
+    "title": "Rooftop Run: Act1",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 132
+  },
+  {
     "title": "ソリッド",
     "type": "DX",
     "difficulty": "MASTER",
@@ -682,6 +712,12 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 134
+  },
+  {
+    "title": "東方妖々夢 ～the maximum moving about～",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 133
   },
   {
     "title": "スピカの天秤",
@@ -4716,9 +4752,87 @@
     "internalLevel": 137
   },
   {
+    "title": "QuiQ",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 129
+  },
+  {
+    "title": "FLUFFY FLASH",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 128
+  },
+  {
+    "title": "白い雪のプリンセスは",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 129
+  },
+  {
+    "title": "ワールズエンド・ダンスホール",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 129
+  },
+  {
+    "title": "Good Bye, Mr. Jack",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 129
+  },
+  {
+    "title": "FREEDOM DiVE (tpz Overcute Remix)",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 128
+  },
+  {
+    "title": "VIIIbit Explorer",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 129
+  },
+  {
+    "title": "Imitation:Loud Lounge",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 128
+  },
+  {
+    "title": "過去を喰らう",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 129
+  },
+  {
+    "title": "不毛！",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 127
+  },
+  {
     "title": "KING",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
+  },
+  {
+    "title": "Calamity Fortune",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 129
+  },
+  {
+    "title": "Session High⤴",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 128
+  },
+  {
+    "title": "フラグメンツ -T.V. maimai edit-",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 128
   }
 ]
