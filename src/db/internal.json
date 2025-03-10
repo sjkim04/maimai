@@ -21048,6 +21048,14 @@
     }
   },
   {
+    "title": "Colorfull:Encounter",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "23": 138
+    }
+  },
+  {
     "title": "唱",
     "type": "DX",
     "difficulty": "MASTER",
@@ -21080,6 +21088,14 @@
     }
   },
   {
+    "title": "雨露霜雪",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "23": 147
+    }
+  },
+  {
     "title": "愛包ダンスホール",
     "type": "DX",
     "difficulty": "MASTER",
@@ -21109,6 +21125,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "23": 139
+    }
+  },
+  {
+    "title": "雨露霜雪",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "23": 135
     }
   },
   {
@@ -21176,6 +21200,14 @@
     }
   },
   {
+    "title": "宙天",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "23": 149
+    }
+  },
+  {
     "title": "リアライズ",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -21189,6 +21221,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "23": 134
+    }
+  },
+  {
+    "title": "宙天",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "23": 135
     }
   },
   {

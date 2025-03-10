@@ -840,6 +840,12 @@
     "internalLevel": 137
   },
   {
+    "title": "Colorfull:Encounter",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "唱",
     "type": "DX",
     "difficulty": "MASTER",
@@ -864,6 +870,12 @@
     "internalLevel": 137
   },
   {
+    "title": "雨露霜雪",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 147
+  },
+  {
     "title": "愛包ダンスホール",
     "type": "DX",
     "difficulty": "MASTER",
@@ -886,6 +898,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "雨露霜雪",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 135
   },
   {
     "title": "マツケンサンバⅡ",
@@ -936,6 +954,12 @@
     "internalLevel": 132
   },
   {
+    "title": "宙天",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 149
+  },
+  {
     "title": "リアライズ",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -946,6 +970,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 134
+  },
+  {
+    "title": "宙天",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 135
   },
   {
     "title": "病み垢ステロイド",
@@ -3246,7 +3276,7 @@
     "internalLevel": 137
   },
   {
-    "title": "ロストワンの号哭",
+    "title": "おちゃめ機能",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 136
@@ -3270,7 +3300,7 @@
     "internalLevel": 137
   },
   {
-    "title": "ありふれたせかいせいふく",
+    "title": "ロストワンの号哭",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 136
@@ -3294,7 +3324,7 @@
     "internalLevel": 137
   },
   {
-    "title": "おちゃめ機能",
+    "title": "ありふれたせかいせいふく",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 136
@@ -3486,7 +3516,7 @@
     "internalLevel": 137
   },
   {
-    "title": "Comet Panto Men!",
+    "title": "Selector",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -3504,7 +3534,7 @@
     "internalLevel": 137
   },
   {
-    "title": "Selector",
+    "title": "モ°ルモ°ル",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -3522,7 +3552,7 @@
     "internalLevel": 137
   },
   {
-    "title": "モ°ルモ°ル",
+    "title": "GRÄNDIR",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -3546,10 +3576,10 @@
     "internalLevel": 137
   },
   {
-    "title": "GRÄNDIR",
+    "title": "パラボラ",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 139
+    "internalLevel": 138
   },
   {
     "title": "PinqPiq (xovevox Remix)",
@@ -3570,10 +3600,10 @@
     "internalLevel": 138
   },
   {
-    "title": "パラボラ",
+    "title": "Last Samurai",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 138
+    "internalLevel": 139
   },
   {
     "title": "Baqeela",
@@ -3594,7 +3624,7 @@
     "internalLevel": 137
   },
   {
-    "title": "Last Samurai",
+    "title": "蒼穹舞楽",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -3618,7 +3648,7 @@
     "internalLevel": 137
   },
   {
-    "title": "蒼穹舞楽",
+    "title": "華の集落、秋のお届け",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -3642,7 +3672,7 @@
     "internalLevel": 137
   },
   {
-    "title": "華の集落、秋のお届け",
+    "title": "HAGAKIRI",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -3666,10 +3696,10 @@
     "internalLevel": 137
   },
   {
-    "title": "HAGAKIRI",
+    "title": "[X]",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 139
+    "internalLevel": 137
   },
   {
     "title": "前衛的Landscape",
@@ -3690,7 +3720,7 @@
     "internalLevel": 138
   },
   {
-    "title": "POWER OF UNITY",
+    "title": "群青シグナル",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
@@ -3708,10 +3738,10 @@
     "internalLevel": 137
   },
   {
-    "title": "[X]",
+    "title": "Comet Panto Men!",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 137
+    "internalLevel": 139
   },
   {
     "title": "Rainbow Rush Story",
@@ -3732,10 +3762,10 @@
     "internalLevel": 136
   },
   {
-    "title": "群青シグナル",
+    "title": "ツムギボシ",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 138
+    "internalLevel": 139
   },
   {
     "title": "You Mean the World to Me",
@@ -3756,7 +3786,7 @@
     "internalLevel": 137
   },
   {
-    "title": "ツムギボシ",
+    "title": "Ether Second",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -3780,10 +3810,10 @@
     "internalLevel": 139
   },
   {
-    "title": "Ether Second",
+    "title": "POWER OF UNITY",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 139
+    "internalLevel": 138
   },
   {
     "title": "星見草",
@@ -3984,10 +4014,10 @@
     "internalLevel": 137
   },
   {
-    "title": "デッドレッドガールズ",
+    "title": "裏表ラバーズ",
     "type": "Standard",
     "difficulty": "MASTER",
-    "internalLevel": 138
+    "internalLevel": 139
   },
   {
     "title": "青春コンプレックス",
@@ -4002,10 +4032,10 @@
     "internalLevel": 137
   },
   {
-    "title": "初音ミクの消失",
+    "title": "デッドレッドガールズ",
     "type": "Standard",
     "difficulty": "MASTER",
-    "internalLevel": 139
+    "internalLevel": 138
   },
   {
     "title": "INTERNET YAMERO",
@@ -4020,7 +4050,7 @@
     "internalLevel": 137
   },
   {
-    "title": "裏表ラバーズ",
+    "title": "初音ミクの消失",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -4128,10 +4158,10 @@
     "internalLevel": 138
   },
   {
-    "title": "Last Brave ～ Go to zero",
+    "title": "Party 4U ”holy nite mix”",
     "type": "Standard",
     "difficulty": "MASTER",
-    "internalLevel": 138
+    "internalLevel": 137
   },
   {
     "title": "Scream out! -maimai SONIC WASHER Edit-",
@@ -4146,16 +4176,16 @@
     "internalLevel": 138
   },
   {
-    "title": "終点",
+    "title": "ネトゲ廃人シュプレヒコール",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 137
   },
   {
-    "title": "Party 4U ”holy nite mix”",
+    "title": "Last Brave ～ Go to zero",
     "type": "Standard",
     "difficulty": "MASTER",
-    "internalLevel": 137
+    "internalLevel": 138
   },
   {
     "title": "アマノジャクリバース feat. ｙｔｒ",
@@ -4164,7 +4194,7 @@
     "internalLevel": 139
   },
   {
-    "title": "ネトゲ廃人シュプレヒコール",
+    "title": "magician's operation",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4188,7 +4218,7 @@
     "internalLevel": 138
   },
   {
-    "title": "magician's operation",
+    "title": "どうしてこうなった",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4212,7 +4242,7 @@
     "internalLevel": 138
   },
   {
-    "title": "どうしてこうなった",
+    "title": "赤心性：カマトト荒療治",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4236,10 +4266,10 @@
     "internalLevel": 138
   },
   {
-    "title": "赤心性：カマトト荒療治",
+    "title": "吉原ラメント",
     "type": "Standard",
     "difficulty": "MASTER",
-    "internalLevel": 137
+    "internalLevel": 138
   },
   {
     "title": "Life Feels Good",
@@ -4260,10 +4290,10 @@
     "internalLevel": 138
   },
   {
-    "title": "吉原ラメント",
+    "title": "すーぱーぬこになりたい",
     "type": "Standard",
     "difficulty": "MASTER",
-    "internalLevel": 138
+    "internalLevel": 137
   },
   {
     "title": "Sakura Fubuki",
@@ -4278,7 +4308,7 @@
     "internalLevel": 138
   },
   {
-    "title": "すーぱーぬこになりたい",
+    "title": "終点",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4392,7 +4422,7 @@
     "internalLevel": 137
   },
   {
-    "title": "華の集落、秋のお届け",
+    "title": "GEMINI -M-",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -4416,7 +4446,7 @@
     "internalLevel": 139
   },
   {
-    "title": "GEMINI -M-",
+    "title": "Hyper Active",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -4434,7 +4464,7 @@
     "internalLevel": 137
   },
   {
-    "title": "Hyper Active",
+    "title": "四月の雨",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -4458,7 +4488,7 @@
     "internalLevel": 139
   },
   {
-    "title": "四月の雨",
+    "title": "KING is BACK!!",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -4482,7 +4512,7 @@
     "internalLevel": 139
   },
   {
-    "title": "KING is BACK!!",
+    "title": "デスパレイト",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -4506,7 +4536,7 @@
     "internalLevel": 139
   },
   {
-    "title": "デスパレイト",
+    "title": "keep hopping",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
@@ -4530,7 +4560,7 @@
     "internalLevel": 139
   },
   {
-    "title": "keep hopping",
+    "title": "華の集落、秋のお届け",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 139
