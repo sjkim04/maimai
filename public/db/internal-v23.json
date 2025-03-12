@@ -438,6 +438,12 @@
     "internalLevel": 135
   },
   {
+    "title": "マーシャル・マキシマイザー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 132
+  },
+  {
     "title": "うまぴょい伝説",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -448,6 +454,12 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 133
+  },
+  {
+    "title": "ロウワー",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 135
   },
   {
     "title": "テオ",
@@ -594,6 +606,12 @@
     "internalLevel": 134
   },
   {
+    "title": "ジンギスカン",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 133
+  },
+  {
     "title": "Catch Me If You Can",
     "type": "DX",
     "difficulty": "MASTER",
@@ -690,12 +708,6 @@
     "internalLevel": 132
   },
   {
-    "title": "ダンスロボットダンス",
-    "type": "Standard",
-    "difficulty": "MASTER",
-    "internalLevel": 133
-  },
-  {
     "title": "ケロ⑨destiny",
     "type": "DX",
     "difficulty": "MASTER",
@@ -706,6 +718,12 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 134
+  },
+  {
+    "title": "ダンスロボットダンス",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 133
   },
   {
     "title": "エピクロスの虹はもう見えない",
@@ -732,19 +750,25 @@
     "internalLevel": 132
   },
   {
-    "title": "魔理沙は大変なものを盗んでいきました",
-    "type": "Standard",
-    "difficulty": "MASTER",
-    "internalLevel": 133
-  },
-  {
     "title": "インターネットサバイバー",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 134
   },
   {
+    "title": "魔理沙は大変なものを盗んでいきました",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 133
+  },
+  {
     "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "VOLT",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 134
@@ -754,12 +778,6 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 133
-  },
-  {
-    "title": "VOLT",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 134
   },
   {
     "title": "ベースラインやってる？笑",
@@ -786,12 +804,6 @@
     "internalLevel": 134
   },
   {
-    "title": "東方妖々夢 ～the maximum moving about～",
-    "type": "Standard",
-    "difficulty": "MASTER",
-    "internalLevel": 133
-  },
-  {
     "title": "スピカの天秤",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -802,6 +814,12 @@
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 134
+  },
+  {
+    "title": "東方妖々夢 ～the maximum moving about～",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 133
   },
   {
     "title": "BOKUTO",

@@ -12,7 +12,7 @@
     "stars": 23,
     "playCount": {
       "total": 46,
-      "current": 34
+      "current": 0
     }
   },
   "records": [
@@ -238,6 +238,26 @@
     },
     {
       "track": {
+        "title": "アイドル",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 969898,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1307,
+          "max": 1539,
+          "percentage": 84.92527615334633
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "勇者",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -258,21 +278,21 @@
     },
     {
       "track": {
-        "title": "アイドル",
+        "title": "阿修羅ちゃん",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 969898,
-        "rank": "AAA",
+        "achievement": 1000334,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1307,
-          "max": 1539,
-          "percentage": 84.92527615334633
+          "score": 1332,
+          "max": 1458,
+          "percentage": 91.35802469135803
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -314,26 +334,6 @@
         "dxRank": 1,
         "combo": null,
         "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "阿修羅ちゃん",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1000334,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1332,
-          "max": 1458,
-          "percentage": 91.35802469135803
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
       }
     },
     {
@@ -398,22 +398,62 @@
     },
     {
       "track": {
-        "title": "ワールドワイドワンダー",
+        "title": "トンデモワンダーズ",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 986851,
+        "achievement": 989525,
         "rank": "S+",
         "dxScore": {
-          "score": 1241,
-          "max": 1464,
-          "percentage": 84.76775956284153
+          "score": 1137,
+          "max": 1371,
+          "percentage": 82.93216630196937
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "てらてら",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995336,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1333,
+          "max": 1584,
+          "percentage": 84.15404040404042
         },
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "バグ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992976,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1558,
+          "max": 1854,
+          "percentage": 84.03451995685005
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -452,206 +492,6 @@
           "percentage": 85.76923076923076
         },
         "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "エイプリルスター",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 985149,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1452,
-          "max": 1722,
-          "percentage": 84.3205574912892
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "オーバーライド",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1000990,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1476,
-          "max": 1713,
-          "percentage": 86.1646234676007
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "バベル",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 998702,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 1242,
-          "max": 1464,
-          "percentage": 84.8360655737705
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "転生林檎",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1004193,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1277,
-          "max": 1419,
-          "percentage": 89.99295278365047
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "てらてら",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 995336,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 1333,
-          "max": 1584,
-          "percentage": 84.15404040404042
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "snooze",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 984139,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1541,
-          "max": 1848,
-          "percentage": 83.38744588744589
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ずんだパーリナイ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 987967,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1379,
-          "max": 1620,
-          "percentage": 85.12345679012346
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "トンデモワンダーズ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 989525,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1137,
-          "max": 1371,
-          "percentage": 82.93216630196937
-        },
-        "dxRank": 0,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "バグ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 992976,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1558,
-          "max": 1854,
-          "percentage": 84.03451995685005
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "アイディスマイル",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 976867,
-        "rank": "S",
-        "dxScore": {
-          "score": 796,
-          "max": 954,
-          "percentage": 83.43815513626835
-        },
-        "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -738,6 +578,26 @@
     },
     {
       "track": {
+        "title": "アイディスマイル",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 976867,
+        "rank": "S",
+        "dxScore": {
+          "score": 796,
+          "max": 954,
+          "percentage": 83.43815513626835
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "つづみぐさ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -794,6 +654,46 @@
         "dxRank": 1,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "バベル",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998702,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1242,
+          "max": 1464,
+          "percentage": 84.8360655737705
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "転生林檎",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004193,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1277,
+          "max": 1419,
+          "percentage": 89.99295278365047
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -918,26 +818,6 @@
     },
     {
       "track": {
-        "title": "ジャンキーナイトタウンオーケストラ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 986318,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1319,
-          "max": 1569,
-          "percentage": 84.06628425748885
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
         "title": "ジレンマ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1018,6 +898,146 @@
     },
     {
       "track": {
+        "title": "ジャンキーナイトタウンオーケストラ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986318,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1319,
+          "max": 1569,
+          "percentage": 84.06628425748885
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ライアーダンサー",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986001,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1555,
+          "max": 1767,
+          "percentage": 88.00226372382569
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "snooze",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984139,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1541,
+          "max": 1848,
+          "percentage": 83.38744588744589
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ワールドワイドワンダー",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986851,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1241,
+          "max": 1464,
+          "percentage": 84.76775956284153
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ずんだパーリナイ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987967,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1379,
+          "max": 1620,
+          "percentage": 85.12345679012346
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "エイプリルスター",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985149,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1452,
+          "max": 1722,
+          "percentage": 84.3205574912892
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "オーバーライド",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000990,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1476,
+          "max": 1713,
+          "percentage": 86.1646234676007
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "新人類",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1050,26 +1070,6 @@
           "score": 1170,
           "max": 1311,
           "percentage": 89.24485125858124
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "ライアーダンサー",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 986001,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1555,
-          "max": 1767,
-          "percentage": 88.00226372382569
         },
         "dxRank": 1,
         "combo": null,
@@ -1438,38 +1438,18 @@
     },
     {
       "track": {
-        "title": "お願い！コンコンお稲荷さま",
+        "title": "Chronomia",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 985297,
-        "rank": "S+",
+        "achievement": 961826,
+        "rank": "AAA",
         "dxScore": {
-          "score": 1251,
-          "max": 1464,
-          "percentage": 85.45081967213115
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": "FULL SYNC"
-      }
-    },
-    {
-      "track": {
-        "title": "いっぱい食べる君が好きだよ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 985420,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1530,
-          "max": 1857,
-          "percentage": 82.39095315024232
+          "score": 1457,
+          "max": 1926,
+          "percentage": 75.64901349948079
         },
         "dxRank": 0,
         "combo": null,
@@ -1510,86 +1490,6 @@
           "score": 1532,
           "max": 1947,
           "percentage": 78.68515665125835
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "Empire of Winter",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 957533,
-        "rank": "AAA",
-        "dxScore": {
-          "score": 969,
-          "max": 1248,
-          "percentage": 77.64423076923077
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "迷える音色は恋の唄",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 972606,
-        "rank": "S",
-        "dxScore": {
-          "score": 1224,
-          "max": 1575,
-          "percentage": 77.71428571428571
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "Löschen",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 979847,
-        "rank": "S",
-        "dxScore": {
-          "score": 1386,
-          "max": 1662,
-          "percentage": 83.39350180505414
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "Chronomia",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 961826,
-        "rank": "AAA",
-        "dxScore": {
-          "score": 1457,
-          "max": 1926,
-          "percentage": 75.64901349948079
         },
         "dxRank": 0,
         "combo": null,
@@ -1674,6 +1574,66 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Empire of Winter",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 957533,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 969,
+          "max": 1248,
+          "percentage": 77.64423076923077
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "迷える音色は恋の唄",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 972606,
+        "rank": "S",
+        "dxScore": {
+          "score": 1224,
+          "max": 1575,
+          "percentage": 77.71428571428571
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Löschen",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979847,
+        "rank": "S",
+        "dxScore": {
+          "score": 1386,
+          "max": 1662,
+          "percentage": 83.39350180505414
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -1898,6 +1858,46 @@
     },
     {
       "track": {
+        "title": "お願い！コンコンお稲荷さま",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985297,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1251,
+          "max": 1464,
+          "percentage": 85.45081967213115
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "FULL SYNC"
+      }
+    },
+    {
+      "track": {
+        "title": "いっぱい食べる君が好きだよ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985420,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1530,
+          "max": 1857,
+          "percentage": 82.39095315024232
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ベースラインやってる？笑",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2118,6 +2118,26 @@
     },
     {
       "track": {
+        "title": "QZKago Requiem",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 885011,
+        "rank": "A",
+        "dxScore": {
+          "score": 1386,
+          "max": 2193,
+          "percentage": 63.20109439124487
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Ether Second",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2194,26 +2214,6 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "QZKago Requiem",
-        "type": "Standard",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 885011,
-        "rank": "A",
-        "dxScore": {
-          "score": 1386,
-          "max": 2193,
-          "percentage": 63.20109439124487
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
       }
     },
     {
@@ -2398,26 +2398,6 @@
     },
     {
       "track": {
-        "title": "オーバーライド",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": false,
-        "achievement": 799246,
-        "rank": "BBB",
-        "dxScore": {
-          "score": 1497,
-          "max": 2637,
-          "percentage": 56.76905574516496
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
         "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
         "type": "DX",
         "difficulty": "MASTER"
@@ -2454,6 +2434,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "オーバーライド",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 799246,
+        "rank": "BBB",
+        "dxScore": {
+          "score": 1497,
+          "max": 2637,
+          "percentage": 56.76905574516496
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
