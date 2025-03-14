@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 10836,
+    "rating": 8159,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 0,
     "classRank": 0,
-    "stars": 23,
+    "stars": 25,
     "playCount": {
-      "total": 46,
-      "current": 0
+      "total": 47,
+      "current": 1
     }
   },
   "records": [
@@ -1638,6 +1638,26 @@
     },
     {
       "track": {
+        "title": "Abstruse Dilemma",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 967485,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1460,
+          "max": 1947,
+          "percentage": 74.98715973292245
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "Aegleseeker",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2358,6 +2378,26 @@
     },
     {
       "track": {
+        "title": "はいよろこんで",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985214,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1680,
+          "max": 1947,
+          "percentage": 86.28659476117103
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "INTERNET YAMERO",
         "type": "DX",
         "difficulty": "MASTER"
@@ -2374,6 +2414,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "メズマライザー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 917369,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1440,
+          "max": 2025,
+          "percentage": 71.11111111111111
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -2490,6 +2550,26 @@
           "score": 1564,
           "max": 3162,
           "percentage": 49.46236559139785
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "PANDORA PARADOXXX",
+        "type": "Standard",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 654556,
+        "rank": "B",
+        "dxScore": {
+          "score": 1458,
+          "max": 4026,
+          "percentage": 36.214605067064085
         },
         "dxRank": 0,
         "combo": null,
