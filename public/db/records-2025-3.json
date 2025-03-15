@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 8159,
+    "rating": 8590,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\t『踊るか、踊られるか。』\n\t\t\t\t"
     },
-    "courseRank": 0,
+    "courseRank": 5,
     "classRank": 0,
     "stars": 25,
     "playCount": {
-      "total": 47,
-      "current": 1
+      "total": 49,
+      "current": 3
     }
   },
   "records": [
@@ -394,6 +394,66 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ポップミュージックは僕のもの",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 959564,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 796,
+          "max": 1092,
+          "percentage": 72.89377289377289
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "メズマライザー",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980924,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1268,
+          "max": 1572,
+          "percentage": 80.6615776081425
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ももいろの鍵",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003419,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1036,
+          "max": 1188,
+          "percentage": 87.20538720538721
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -1398,6 +1458,26 @@
     },
     {
       "track": {
+        "title": "Ultimate taste",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975248,
+        "rank": "S",
+        "dxScore": {
+          "score": 1393,
+          "max": 1785,
+          "percentage": 78.03921568627452
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ナイト・オブ・ナイツ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1998,6 +2078,26 @@
     },
     {
       "track": {
+        "title": "Southern Cross",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 982157,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1455,
+          "max": 1761,
+          "percentage": 82.62350936967631
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Brain Power",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -2110,6 +2210,26 @@
           "score": 1315,
           "max": 1713,
           "percentage": 76.76590776415645
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "でらっくmaimai♪てんてこまい!",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 976849,
+        "rank": "S",
+        "dxScore": {
+          "score": 1489,
+          "max": 1764,
+          "percentage": 84.41043083900227
         },
         "dxRank": 0,
         "combo": null,
@@ -2394,6 +2514,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "踊",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987442,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1819,
+          "max": 2121,
+          "percentage": 85.76143328618576
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
