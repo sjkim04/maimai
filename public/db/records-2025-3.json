@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 8590,
+    "rating": 8631,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 5,
     "classRank": 0,
-    "stars": 25,
+    "stars": 26,
     "playCount": {
-      "total": 49,
-      "current": 3
+      "total": 50,
+      "current": 4
     }
   },
   "records": [
@@ -1744,12 +1744,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 869962,
-        "rank": "A",
+        "achievement": 937604,
+        "rank": "AA",
         "dxScore": {
-          "score": 1268,
+          "score": 1408,
           "max": 1995,
-          "percentage": 63.55889724310777
+          "percentage": 70.57644110275689
         },
         "dxRank": 0,
         "combo": null,
@@ -1890,6 +1890,26 @@
           "score": 1551,
           "max": 2136,
           "percentage": 72.6123595505618
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "FREEDOM DiVE (tpz Overcute Remix)",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 968248,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1557,
+          "max": 2103,
+          "percentage": 74.03708987161198
         },
         "dxRank": 0,
         "combo": null,
@@ -2544,16 +2564,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 961436,
-        "rank": "AAA",
+        "achievement": 980950,
+        "rank": "S+",
         "dxScore": {
-          "score": 1751,
+          "score": 1835,
           "max": 2241,
-          "percentage": 78.13476126729138
+          "percentage": 81.88308790718429
         },
         "dxRank": 0,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -2590,6 +2610,26 @@
           "score": 1174,
           "max": 2379,
           "percentage": 49.34846574190836
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "フォニイ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 982908,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1584,
+          "max": 1866,
+          "percentage": 84.88745980707395
         },
         "dxRank": 0,
         "combo": null,
