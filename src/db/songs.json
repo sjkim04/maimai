@@ -1,5 +1,5 @@
 {
-  "chartCount": 5525,
+  "chartCount": 5533,
   "availableVersions": [
     {
       "value": 0,
@@ -16266,6 +16266,30 @@
         "8+",
         "12",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "モエチャッカファイア",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "もういいよ",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "13",
         null
       ]
     }
