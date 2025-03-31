@@ -1,5 +1,5 @@
 {
-  "chartCount": 5533,
+  "chartCount": 5541,
   "availableVersions": [
     {
       "value": 0,
@@ -16283,6 +16283,30 @@
     },
     {
       "title": "もういいよ",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "マヌルネコのうた",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "スナネコのうた",
       "type": "DX",
       "version": 24,
       "displayLevel": [
