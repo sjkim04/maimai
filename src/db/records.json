@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 8631,
+    "rating": 8863,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 26,
     "playCount": {
-      "total": 50,
-      "current": 4
+      "total": 51,
+      "current": 5
     }
   },
   "records": [
@@ -453,6 +453,26 @@
         },
         "dxRank": 1,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ゆりかご",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999434,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 863,
+          "max": 1029,
+          "percentage": 83.86783284742468
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -1174,6 +1194,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "初音ミクの激唱",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 970602,
+        "rank": "S",
+        "dxScore": {
+          "score": 1252,
+          "max": 1689,
+          "percentage": 74.12670219064536
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -2670,6 +2710,26 @@
           "score": 1444,
           "max": 2364,
           "percentage": 61.082910321489
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ラビットホール",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 974354,
+        "rank": "S",
+        "dxScore": {
+          "score": 1681,
+          "max": 2139,
+          "percentage": 78.58812529219261
         },
         "dxRank": 0,
         "combo": null,
