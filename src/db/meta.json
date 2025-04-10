@@ -805,6 +805,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "DATAERR0R",
+      "artist": "Cosmograph",
+      "jacketKey": "e3da5b1f49b33f3b",
+      "chartTypeCount": 1
+    },
+    {
       "title": "Death Scythe",
       "artist": "SHIKI",
       "jacketKey": "f4e1193a7dc748ea",
@@ -1981,6 +1987,12 @@
       "chartTypeCount": 2
     },
     {
+      "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "artist": "SAWTOWNE",
+      "jacketKey": "8e331bc031a26ae5",
+      "chartTypeCount": 1
+    },
+    {
       "title": "Maboroshi",
       "artist": "かめりあ(EDP)",
       "jacketKey": "38f695d2f1210456",
@@ -2404,6 +2416,12 @@
       "title": "Outlaw's Lullaby",
       "artist": "「龍が如く２」",
       "jacketKey": "d54f61d4d4db472a",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "Overjoy ★ OVERDOSE!!",
+      "artist": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)",
+      "jacketKey": "b2c3bad6c7f6d2c7",
       "chartTypeCount": 1
     },
     {
@@ -5224,7 +5242,7 @@
       "title": "ネコ日和。",
       "artist": "Kai/能登有沙",
       "jacketKey": "30eb032b16877275",
-      "chartTypeCount": 1
+      "chartTypeCount": 2
     },
     {
       "title": "ネトゲ廃人シュプレヒコール",

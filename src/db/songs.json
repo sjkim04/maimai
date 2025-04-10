@@ -1,5 +1,5 @@
 {
-  "chartCount": 5541,
+  "chartCount": 5557,
   "availableVersions": [
     {
       "value": 0,
@@ -16314,6 +16314,54 @@
         "6",
         "9+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Overjoy ★ OVERDOSE!!",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "DATAERR0R",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "5",
+        "8",
+        "11+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "ネコ日和。",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9",
+        "13+",
         null
       ]
     }
