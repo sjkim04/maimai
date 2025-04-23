@@ -1,5 +1,5 @@
 {
-  "chartCount": 5557,
+  "chartCount": 5565,
   "availableVersions": [
     {
       "value": 0,
@@ -16362,6 +16362,30 @@
         "6",
         "9",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "あいたい星人",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "ハオ",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13",
         null
       ]
     }
