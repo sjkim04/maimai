@@ -1,5 +1,5 @@
 {
-  "chartCount": 5565,
+  "chartCount": 5581,
   "availableVersions": [
     {
       "value": 0,
@@ -16386,6 +16386,54 @@
         "7",
         "10",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "好きな惣菜発表ドラゴン",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "9",
+        "12",
+        null
+      ]
+    },
+    {
+      "title": "概して過誤",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Unfinished Epic",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "5",
+        "8+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "忙シー日",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7+",
+        "11+",
+        "14",
         null
       ]
     }
