@@ -1,5 +1,5 @@
 {
-  "chartCount": 5581,
+  "chartCount": 5593,
   "availableVersions": [
     {
       "value": 0,
@@ -16433,6 +16433,42 @@
         "3",
         "7+",
         "11+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "Help me, ERINNNNNN!!",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "超最終鬼畜妹フランドール・S",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "5",
+        "8",
+        "12+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Destined Marionette",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "8",
+        "12",
         "14",
         null
       ]

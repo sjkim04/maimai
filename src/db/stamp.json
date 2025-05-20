@@ -1,14 +1,6 @@
 [
   {
     "type": "partner",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/01a591f344c2f524.png",
-    "title": "超てんちゃん",
-    "complete": true,
-    "stampCount": 5,
-    "max": 10
-  },
-  {
-    "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/cd945e179d7db533.png",
     "title": "みるく（ぷりずむ）",
     "complete": false,
