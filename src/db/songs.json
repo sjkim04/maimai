@@ -1,5 +1,5 @@
 {
-  "chartCount": 5593,
+  "chartCount": 5597,
   "availableVersions": [
     {
       "value": 0,
@@ -16469,6 +16469,18 @@
         "4",
         "8",
         "12",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "MYTH Re：LEASE",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "6",
+        "8",
+        "12+",
         "14",
         null
       ]
