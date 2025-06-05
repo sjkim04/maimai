@@ -910,7 +910,7 @@
       "title": "Dragoon",
       "artist": "Shandy kubota",
       "jacketKey": "bf6a041e1c971bdd",
-      "chartTypeCount": 1
+      "chartTypeCount": 2
     },
     {
       "title": "Dreadnought",
@@ -4381,6 +4381,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "クーネル・エンゲイザー",
+      "artist": "電ǂ鯨",
+      "jacketKey": "dc086a7d603b1832",
+      "chartTypeCount": 1
+    },
+    {
       "title": "グッバイ宣言",
       "artist": "Chinozo",
       "jacketKey": "b44613f0defc39bd",
@@ -4822,6 +4828,12 @@
       "title": "セハガガガンバッちゃう！！",
       "artist": "Hi☆sCoool! セハガール",
       "jacketKey": "d5648519628a2a37",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "ゼロトーキング",
+      "artist": "はるまきごはん",
+      "jacketKey": "d5b7dac7c24b8df6",
       "chartTypeCount": 1
     },
     {
@@ -6934,6 +6946,12 @@
       "title": "感情ディシーブ",
       "artist": "ろーある",
       "jacketKey": "cc2d4419a41f1c70",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "抜錨",
+      "artist": "ナナホシ管弦楽団",
+      "jacketKey": "e2995fcfaec824da",
       "chartTypeCount": 1
     },
     {

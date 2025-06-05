@@ -1,5 +1,5 @@
 {
-  "chartCount": 5597,
+  "chartCount": 5613,
   "availableVersions": [
     {
       "value": 0,
@@ -16482,6 +16482,54 @@
         "8",
         "12+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "クーネル・エンゲイザー",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "ゼロトーキング",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Dragoon",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "8",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "抜錨",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "10+",
+        "13",
         null
       ]
     }
