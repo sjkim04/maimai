@@ -174,4 +174,16 @@ export const VERSION_PLATES: VersionPlateItem[] = [
     color: versionBackgroundColor(Version.BUDDiES),
     filter: Version.BUDDiES,
   },
+  {
+    prefix: versionKanjiName(22)!,
+    displayCriteria: "BUDDiES PLUS",
+    color: versionBackgroundColor(Version.BUDDiES_plus),
+    filter: Version.BUDDiES_plus,
+  },
+  {
+    prefix: versionKanjiName(23)!,
+    displayCriteria: "PRiSM",
+    color: versionBackgroundColor(Version.PRiSM),
+    filter: Version.PRiSM,
+  },
 ];
