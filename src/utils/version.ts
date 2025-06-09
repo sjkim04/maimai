@@ -27,6 +27,8 @@ export enum Version {
   FESTiVAL_plus = 20,
   BUDDiES = 21,
   BUDDiES_plus = 22,
+  PRiSM = 23,
+  PRiSM_plus = 24,
 }
 
 export const versionKanjiName = (version: number) => {
@@ -57,6 +59,8 @@ export const versionKanjiName = (version: number) => {
   if (version === Version.FESTiVAL) return "祭";
   if (version === Version.FESTiVAL_plus) return "祝";
   if (version === Version.BUDDiES) return "双";
+  if (version === Version.BUDDiES_plus) return "宴";
+  if (version === Version.PRiSM) return "鏡";
 
   if (version === latestVersion) return "NEW";
   return null;
@@ -90,6 +94,8 @@ export const versionBackgroundColor = (version: number): string => {
     return "#be89ff";
   if (version === Version.BUDDiES || version === Version.BUDDiES_plus)
     return "#ffbd1f";
+  if (version === Version.PRiSM || version === Version.PRiSM_plus)
+    return "#a5f9e9";
 
   return "#2b8791";
 };
