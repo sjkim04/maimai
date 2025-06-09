@@ -275,7 +275,7 @@ const RecordRow = ({ song, mode = "rating" }: Props) => {
   return (
     <RecordContainer>
       <Jacket
-        src={`https://maimaidx-eng.com/maimai-mobile/img/Music/${jacketKey}.png`}
+          src={`https://maimaidx.jp/maimai-mobile/img/Music/${jacketKey}.png`}
       />
       <LevelIndicator
         style={{
