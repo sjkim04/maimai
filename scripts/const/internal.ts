@@ -135,6 +135,19 @@ export const INTERNAL_V23: InternalFetchData = {
   }
 }
 
+// PRiSM PLUS
+export const INTERNAL_V24: InternalFetchData = {
+  id: "10N6jmyrzmHrZGbGhDWfpdg4hQKm0t84H2DPkaFG7PNs",
+  sheets: {
+    "PRiSM PLUS新曲": ABCE,
+    "14以上": ACDF,
+    "13+": ACDF,
+    "13": ACDF,
+    "12+": ABCE,
+    "12": ABCE,
+  }
+}
+
 export const INTERNALS = {
   15: INTERNAL_V15,
   16: INTERNAL_V16,
@@ -145,4 +158,5 @@ export const INTERNALS = {
   21: INTERNAL_V21,
   22: INTERNAL_V22,
   23: INTERNAL_V23,
+  24: INTERNAL_V24
 };
