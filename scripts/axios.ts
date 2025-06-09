@@ -6,7 +6,7 @@ const LOGIN_PAGE =
   "https://maimaidx.jp/maimai-mobile/";
 const LOGIN_API_ENDPOINT =
   "https://maimaidx.jp/maimai-mobile/submit/";
-const AIME_SELECT_ENDPOINT = "https://maimaidx.jp/maimai-mobile/aimeList/submit/?idx=0"
+const AIME_SELECT_ENDPOINT = "https://maimaidx.jp/maimai-mobile/aimeList/submit/?idx=1"
 
 const COOKIE_REGEX = /([^=]+)=([^;]+);/g;
 const cookies = new Map<string, Map<string, string>>();
