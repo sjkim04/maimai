@@ -1,8 +1,8 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 4476,
-    "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b42a111a7d2992e6.png",
+    "rating": 5205,
+    "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\t好きな譜面を発表します\n\t\t\t\t"
@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 5,
     "playCount": {
-      "total": 9,
-      "current": 5
+      "total": 10,
+      "current": 6
     }
   },
   "records": [
@@ -398,6 +398,26 @@
     },
     {
       "track": {
+        "title": "FREEDOM DiVE (tpz Overcute Remix)",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983992,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1736,
+          "max": 2103,
+          "percentage": 82.54873989538754
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "Southern Cross",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -454,6 +474,66 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "系ぎて",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 911442,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1576,
+          "max": 2226,
+          "percentage": 70.79964061096136
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "MYTH Re：LEASE",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 772382,
+        "rank": "BBB",
+        "dxScore": {
+          "score": 1909,
+          "max": 3333,
+          "percentage": 57.275727572757276
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ラビットホール",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 824846,
+        "rank": "A",
+        "dxScore": {
+          "score": 1792,
+          "max": 2766,
+          "percentage": 64.78669558929863
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     }
   ]
