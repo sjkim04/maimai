@@ -1,16 +1,16 @@
 {
-  "name": "ＳＪＫ",
-  "rating": 8863,
-  "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
+  "name": "ＰＨＲＹＧＩＡ",
+  "rating": 4476,
+  "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b42a111a7d2992e6.png",
   "trophy": {
     "tier": "Normal",
-    "title": "\n\t\t\t\t\t『踊るか、踊られるか。』\n\t\t\t\t"
+    "title": "\n\t\t\t\t\t好きな譜面を発表します\n\t\t\t\t"
   },
-  "courseRank": 5,
+  "courseRank": 0,
   "classRank": 0,
-  "stars": 26,
+  "stars": 5,
   "playCount": {
-    "total": 51,
+    "total": 9,
     "current": 5
   }
 }

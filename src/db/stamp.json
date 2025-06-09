@@ -43,8 +43,8 @@
     "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/2c0bf461478499e7.png",
     "title": "黒姫",
-    "complete": true,
-    "stampCount": 10,
+    "complete": false,
+    "stampCount": 0,
     "max": 10
   },
   {
@@ -83,8 +83,8 @@
     "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/689d29adbdb7d8fe.png",
     "title": "百合咲ミカ",
-    "complete": true,
-    "stampCount": 10,
+    "complete": false,
+    "stampCount": 0,
     "max": 10
   },
   {
@@ -116,15 +116,15 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/b4c2df0b003d74e2.png",
     "title": "ゴーゴー幽霊船",
     "complete": false,
-    "stampCount": 1,
+    "stampCount": 0,
     "max": 10
   },
   {
     "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/8e3cad1f597c0558.png",
     "title": "One Step Ahead",
-    "complete": true,
-    "stampCount": 10,
+    "complete": false,
+    "stampCount": 0,
     "max": 10
   },
   {
@@ -139,8 +139,8 @@
     "type": "icon",
     "image": "https://maimaidx.jp/maimai-mobile/img/Icon/bf95231e5e4c1a0f.png",
     "title": "PRiSM",
-    "complete": true,
-    "stampCount": 5,
+    "complete": false,
+    "stampCount": 4,
     "max": 5
   },
   {
@@ -180,7 +180,7 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/Frame/f831f03b2521becc.png",
     "title": "Valsqotch",
     "complete": false,
-    "stampCount": 1,
+    "stampCount": 0,
     "max": 10
   }
 ]
