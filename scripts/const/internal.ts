@@ -141,8 +141,8 @@ export const INTERNAL_V24: InternalFetchData = {
   sheets: {
     "PRiSM PLUS新曲": ABCE,
     "14以上": ACDF,
-    "13+": ACDF,
-    "13": ACDF,
+    "13+": ABCE,
+    "13": ABCE,
     "12+": ABCE,
     "12": ABCE,
   }
