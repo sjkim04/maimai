@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 5205,
+    "rating": 5825,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
-      "title": "\n\t\t\t\t\t好きな譜面を発表します\n\t\t\t\t"
+      "title": "\n\t\t\t\t\tmaimaiやって寝よう\n\t\t\t\t"
     },
     "courseRank": 0,
-    "classRank": 0,
-    "stars": 5,
+    "classRank": 1,
+    "stars": 6,
     "playCount": {
-      "total": 10,
-      "current": 6
+      "total": 11,
+      "current": 7
     }
   },
   "records": [
@@ -170,6 +170,46 @@
           "score": 1391,
           "max": 1614,
           "percentage": 86.18339529120198
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "終焉逃避行",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000102,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1268,
+          "max": 1467,
+          "percentage": 86.43490115882754
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "おくすり飲んで寝よう",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003929,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1164,
+          "max": 1311,
+          "percentage": 88.78718535469108
         },
         "dxRank": 1,
         "combo": null,
@@ -430,6 +470,26 @@
           "score": 1498,
           "max": 1761,
           "percentage": 85.06530380465645
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "MOBILYS",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983911,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1125,
+          "max": 1290,
+          "percentage": 87.20930232558139
         },
         "dxRank": 1,
         "combo": null,
