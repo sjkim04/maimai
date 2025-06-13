@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 5825,
+    "rating": 6501,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 1,
     "stars": 6,
     "playCount": {
-      "total": 11,
-      "current": 7
+      "total": 12,
+      "current": 8
     }
   },
   "records": [
@@ -138,6 +138,26 @@
     },
     {
       "track": {
+        "title": "イガク",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977242,
+        "rank": "S",
+        "dxScore": {
+          "score": 1323,
+          "max": 1560,
+          "percentage": 84.8076923076923
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "セカイ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -174,6 +194,46 @@
         "dxRank": 1,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ノンブレス・オブリージュ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990414,
+        "rank": "SS",
+        "dxScore": {
+          "score": 891,
+          "max": 1035,
+          "percentage": 86.08695652173914
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "弱虫モンブラン",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992920,
+        "rank": "SS",
+        "dxScore": {
+          "score": 664,
+          "max": 801,
+          "percentage": 82.896379525593
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -544,12 +604,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 911442,
-        "rank": "AA",
+        "achievement": 940438,
+        "rank": "AAA",
         "dxScore": {
-          "score": 1576,
+          "score": 1628,
           "max": 2226,
-          "percentage": 70.79964061096136
+          "percentage": 73.13566936208446
         },
         "dxRank": 0,
         "combo": null,
