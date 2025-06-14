@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 6501,
+    "rating": 9306,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 0,
     "classRank": 1,
-    "stars": 6,
+    "stars": 10,
     "playCount": {
-      "total": 12,
-      "current": 8
+      "total": 17,
+      "current": 13
     }
   },
   "records": [
@@ -72,6 +72,26 @@
           "percentage": 91.47582697201018
         },
         "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "クーネル・エンゲイザー",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 994013,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1292,
+          "max": 1443,
+          "percentage": 89.53568953568953
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -398,6 +418,26 @@
     },
     {
       "track": {
+        "title": "超最終鬼畜妹フランドール・S",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 970729,
+        "rank": "S",
+        "dxScore": {
+          "score": 1567,
+          "max": 1896,
+          "percentage": 82.64767932489451
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "インターネットサバイバー",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -558,6 +598,246 @@
     },
     {
       "track": {
+        "title": "RIFFRAIN",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003014,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1007,
+          "max": 1149,
+          "percentage": 87.6414273281114
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "FULL SYNC"
+      }
+    },
+    {
+      "track": {
+        "title": "Falling",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998697,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1159,
+          "max": 1359,
+          "percentage": 85.28329654157469
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "パラボラ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992050,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1582,
+          "max": 1863,
+          "percentage": 84.91680085882984
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "オリフィス",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992730,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1307,
+          "max": 1593,
+          "percentage": 82.04645323289391
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ユメヒバナ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1001471,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1225,
+          "max": 1347,
+          "percentage": 90.94283593170007
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "REAL VOICE",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995890,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1385,
+          "max": 1629,
+          "percentage": 85.02148557397177
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "シエルブルーマルシェ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 994953,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1048,
+          "max": 1182,
+          "percentage": 88.66328257191202
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "共鳴",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 981751,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1244,
+          "max": 1467,
+          "percentage": 84.79890933878664
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ブレインジャックシンドローム",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997497,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1683,
+          "max": 1911,
+          "percentage": 88.0690737833595
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Ututu",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 988838,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1079,
+          "max": 1257,
+          "percentage": 85.8392999204455
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "STEREOSCAPE",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990050,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1048,
+          "max": 1227,
+          "percentage": 85.4115729421353
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Crazy Circle",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997404,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1206,
+          "max": 1389,
+          "percentage": 86.82505399568035
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "welcome to maimai!! with マイマイマー",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -607,13 +887,33 @@
         "achievement": 940438,
         "rank": "AAA",
         "dxScore": {
-          "score": 1628,
+          "score": 1652,
           "max": 2226,
-          "percentage": 73.13566936208446
+          "percentage": 74.21383647798741
         },
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Transcend Lights",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 988351,
+        "rank": "S+",
+        "dxScore": {
+          "score": 903,
+          "max": 1098,
+          "percentage": 82.24043715846994
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
+        "sync": "FULL SYNC"
       }
     },
     {
