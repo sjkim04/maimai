@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 9306,
+    "rating": 10220,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 0,
     "classRank": 1,
-    "stars": 10,
+    "stars": 11,
     "playCount": {
-      "total": 17,
-      "current": 13
+      "total": 19,
+      "current": 15
     }
   },
   "records": [
@@ -52,6 +52,26 @@
           "percentage": 78.74293785310734
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "はいよろこんで",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002774,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1341,
+          "max": 1518,
+          "percentage": 88.3399209486166
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -174,6 +194,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "きゅうくらりん",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999146,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1578,
+          "max": 1890,
+          "percentage": 83.4920634920635
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -498,6 +538,26 @@
     },
     {
       "track": {
+        "title": "DATAERR0R",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980012,
+        "rank": "S+",
+        "dxScore": {
+          "score": 950,
+          "max": 1179,
+          "percentage": 80.57675996607294
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "QUATTUORUX",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -510,6 +570,26 @@
           "score": 1842,
           "max": 2400,
           "percentage": 76.75
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Abstruse Dilemma",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999681,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1639,
+          "max": 1947,
+          "percentage": 84.18079096045197
         },
         "dxRank": 0,
         "combo": null,
@@ -590,6 +670,26 @@
           "score": 1125,
           "max": 1290,
           "percentage": 87.20930232558139
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "MAKE IT FUNKY NOW",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991508,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1260,
+          "max": 1452,
+          "percentage": 86.77685950413223
         },
         "dxRank": 1,
         "combo": null,
@@ -914,6 +1014,26 @@
         "dxRank": 0,
         "combo": "FULL COMBO",
         "sync": "FULL SYNC"
+      }
+    },
+    {
+      "track": {
+        "title": "好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979338,
+        "rank": "S",
+        "dxScore": {
+          "score": 1197,
+          "max": 1470,
+          "percentage": 81.42857142857143
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
