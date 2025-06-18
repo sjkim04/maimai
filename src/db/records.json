@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 10220,
+    "rating": 10590,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\tmaimaiやって寝よう\n\t\t\t\t"
     },
-    "courseRank": 0,
+    "courseRank": 6,
     "classRank": 1,
-    "stars": 11,
+    "stars": 13,
     "playCount": {
-      "total": 19,
-      "current": 15
+      "total": 23,
+      "current": 19
     }
   },
   "records": [
@@ -438,6 +438,26 @@
     },
     {
       "track": {
+        "title": "幸せになれる隠しコマンドがあるらしい",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 981458,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1268,
+          "max": 1614,
+          "percentage": 78.56257744733581
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Help me, ERINNNNNN!!",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -492,6 +512,26 @@
           "percentage": 86.7694283879255
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "最終鬼畜妹・一部声",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975544,
+        "rank": "S",
+        "dxScore": {
+          "score": 1530,
+          "max": 1953,
+          "percentage": 78.3410138248848
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -698,6 +738,46 @@
     },
     {
       "track": {
+        "title": "チエルカ／エソテリカ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984014,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1784,
+          "max": 2223,
+          "percentage": 80.2519118308592
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ピリオドサイン",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991378,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1290,
+          "max": 1500,
+          "percentage": 86
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "RIFFRAIN",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -730,6 +810,86 @@
           "score": 1159,
           "max": 1359,
           "percentage": 85.28329654157469
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "群青シグナル",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997115,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1660,
+          "max": 1956,
+          "percentage": 84.86707566462167
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "スローアライズ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998181,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1111,
+          "max": 1284,
+          "percentage": 86.52647975077882
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "星めぐり、果ての君へ。",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000769,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1401,
+          "max": 1560,
+          "percentage": 89.8076923076923
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "生命不詳",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980969,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1542,
+          "max": 1788,
+          "percentage": 86.24161073825503
         },
         "dxRank": 1,
         "combo": null,
@@ -958,6 +1118,66 @@
     },
     {
       "track": {
+        "title": "チューリングの跡",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 921944,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1084,
+          "max": 1617,
+          "percentage": 67.03772418058132
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Sage",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 978646,
+        "rank": "S",
+        "dxScore": {
+          "score": 1544,
+          "max": 1923,
+          "percentage": 80.29121164846595
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "四月の雨",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 935036,
+        "rank": "AA",
+        "dxScore": {
+          "score": 777,
+          "max": 1155,
+          "percentage": 67.27272727272727
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "MAXRAGE",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1018,6 +1238,26 @@
     },
     {
       "track": {
+        "title": "エータ・ベータ・イータ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 993165,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1692,
+          "max": 1962,
+          "percentage": 86.23853211009175
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "好きな惣菜発表ドラゴン",
         "type": "DX",
         "difficulty": "MASTER"
@@ -1030,6 +1270,26 @@
           "score": 1197,
           "max": 1470,
           "percentage": 81.42857142857143
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "約束",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 965764,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1318,
+          "max": 1644,
+          "percentage": 80.17031630170315
         },
         "dxRank": 0,
         "combo": null,
