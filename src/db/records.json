@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 10590,
+    "rating": 10591,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 6,
     "classRank": 1,
-    "stars": 13,
+    "stars": 15,
     "playCount": {
-      "total": 23,
-      "current": 19
+      "total": 24,
+      "current": 20
     }
   },
   "records": [
@@ -638,6 +638,26 @@
     },
     {
       "track": {
+        "title": "Aegleseeker",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 958677,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1482,
+          "max": 1995,
+          "percentage": 74.28571428571429
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "Ether Strike",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1118,6 +1138,26 @@
     },
     {
       "track": {
+        "title": "Latent Kingdom",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 967289,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1849,
+          "max": 2346,
+          "percentage": 78.81500426257459
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "チューリングの跡",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1154,6 +1194,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "BREaK! BREaK! BREaK!",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 941686,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1644,
+          "max": 2196,
+          "percentage": 74.86338797814209
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -1204,7 +1264,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 940438,
+        "achievement": 944803,
         "rank": "AAA",
         "dxScore": {
           "score": 1652,
