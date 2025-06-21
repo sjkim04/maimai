@@ -4476,10 +4476,22 @@
     "internalLevel": 120
   },
   {
-    "title": "ATLUS RUSH",
+    "title": "うぇいびー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 130
+  },
+  {
+    "title": "ATLAS RUSH",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 147
+  },
+  {
+    "title": "うぇいびー",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 137
   },
   {
     "title": "Fraq",
@@ -4488,10 +4500,16 @@
     "internalLevel": 137
   },
   {
-    "title": "ATLUS RUSH",
+    "title": "ATLAS RUSH",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 126
+  },
+  {
+    "title": "RED",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 133
   },
   {
     "title": "Fraq",
@@ -4500,16 +4518,34 @@
     "internalLevel": 122
   },
   {
+    "title": "ホラフキパペット",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
+  },
+  {
     "title": "ウタヒメナイトストーム",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
   },
   {
+    "title": "なんかノイズにきこえる",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "あいたい星人",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 132
+  },
+  {
+    "title": "BlackFlagBreaker!!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "ハオ",
