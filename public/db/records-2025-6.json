@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 10591,
+    "rating": 10856,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 6,
     "classRank": 1,
-    "stars": 15,
+    "stars": 16,
     "playCount": {
-      "total": 24,
-      "current": 20
+      "total": 25,
+      "current": 21
     }
   },
   "records": [
@@ -153,6 +153,26 @@
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "月光",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999724,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1662,
+          "max": 1923,
+          "percentage": 86.42745709828394
+        },
+        "dxRank": 1,
+        "combo": null,
         "sync": null
       }
     },
@@ -350,6 +370,26 @@
           "score": 1073,
           "max": 1596,
           "percentage": 67.23057644110276
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "初音ミクの消失",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 982358,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1580,
+          "max": 1920,
+          "percentage": 82.29166666666666
         },
         "dxRank": 0,
         "combo": null,
