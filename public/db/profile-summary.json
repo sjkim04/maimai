@@ -1,16 +1,16 @@
 {
   "name": "ＰＨＲＹＧＩＡ",
-  "rating": 10856,
+  "rating": 11486,
   "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
   "trophy": {
     "tier": "Normal",
     "title": "\n\t\t\t\t\tmaimaiやって寝よう\n\t\t\t\t"
   },
   "courseRank": 6,
-  "classRank": 1,
+  "classRank": 3,
   "stars": 16,
   "playCount": {
-    "total": 25,
-    "current": 21
+    "total": 29,
+    "current": 25
   }
 }

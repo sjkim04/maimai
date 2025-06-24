@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 10856,
+    "rating": 11486,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\tmaimaiやって寝よう\n\t\t\t\t"
     },
     "courseRank": 6,
-    "classRank": 1,
+    "classRank": 3,
     "stars": 16,
     "playCount": {
-      "total": 25,
-      "current": 21
+      "total": 29,
+      "current": 25
     }
   },
   "records": [
@@ -73,6 +73,86 @@
         },
         "dxRank": 1,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "勇者",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003720,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 711,
+          "max": 813,
+          "percentage": 87.4538745387454
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "きゅびずむ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1001642,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1217,
+          "max": 1407,
+          "percentage": 86.4960909737029
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO+",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "きゅびびびびずむ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000266,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1730,
+          "max": 1998,
+          "percentage": 86.58658658658659
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "回レ！雪月花",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995930,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 902,
+          "max": 1092,
+          "percentage": 82.6007326007326
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -158,6 +238,26 @@
     },
     {
       "track": {
+        "title": "ももいろの鍵",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 996688,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1016,
+          "max": 1188,
+          "percentage": 85.52188552188552
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "月光",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -190,6 +290,26 @@
           "score": 1232,
           "max": 1371,
           "percentage": 89.86141502552881
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "デビルじゃないもん",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997316,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1310,
+          "max": 1461,
+          "percentage": 89.66461327857633
         },
         "dxRank": 1,
         "combo": null,
@@ -278,6 +398,26 @@
     },
     {
       "track": {
+        "title": "転生林檎",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1001654,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1280,
+          "max": 1419,
+          "percentage": 90.20436927413672
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ノンブレス・オブリージュ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -294,6 +434,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ラビットホール",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007090,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1514,
+          "max": 1662,
+          "percentage": 91.0950661853189
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -858,6 +1018,46 @@
     },
     {
       "track": {
+        "title": "アンバークロニクル",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997450,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1590,
+          "max": 1833,
+          "percentage": 86.7430441898527
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "リフヴェイン",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000317,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1047,
+          "max": 1149,
+          "percentage": 91.12271540469973
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Falling",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1178,6 +1378,26 @@
     },
     {
       "track": {
+        "title": "封焔の135秒",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 942998,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1276,
+          "max": 1827,
+          "percentage": 69.84126984126983
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Latent Kingdom",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1350,6 +1570,26 @@
           "score": 1692,
           "max": 1962,
           "percentage": 86.23853211009175
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "メズマライザー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987285,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1739,
+          "max": 2025,
+          "percentage": 85.87654320987654
         },
         "dxRank": 1,
         "combo": null,
