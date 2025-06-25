@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 11486,
+    "rating": 11672,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\tmaimaiやって寝よう\n\t\t\t\t"
     },
     "courseRank": 6,
-    "classRank": 3,
-    "stars": 16,
+    "classRank": 4,
+    "stars": 18,
     "playCount": {
-      "total": 29,
-      "current": 25
+      "total": 31,
+      "current": 27
     }
   },
   "records": [
@@ -518,6 +518,26 @@
     },
     {
       "track": {
+        "title": "アスノヨゾラ哨戒班",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000118,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1291,
+          "max": 1488,
+          "percentage": 86.76075268817203
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "キミノヨゾラ哨戒班",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -718,6 +738,26 @@
     },
     {
       "track": {
+        "title": "ナイト・オブ・ナイツ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002105,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1418,
+          "max": 1644,
+          "percentage": 86.25304136253041
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "最終鬼畜妹・一部声",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -792,6 +832,26 @@
           "percentage": 80.57675996607294
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "How To Make 音ゲ～曲！",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992871,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1694,
+          "max": 1947,
+          "percentage": 87.00564971751412
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -878,6 +938,26 @@
     },
     {
       "track": {
+        "title": "ULTRA SYNERGY MATRIX",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005651,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1416,
+          "max": 1557,
+          "percentage": 90.94412331406551
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "FREEDOM DiVE (tpz Overcute Remix)",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -950,6 +1030,26 @@
           "score": 1260,
           "max": 1452,
           "percentage": 86.77685950413223
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "パラドクスイヴ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005311,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1339,
+          "max": 1500,
+          "percentage": 89.26666666666667
         },
         "dxRank": 1,
         "combo": null,
@@ -1612,6 +1712,26 @@
           "percentage": 81.42857142857143
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ヒバナ",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985466,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1719,
+          "max": 2013,
+          "percentage": 85.39493293591654
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
