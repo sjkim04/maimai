@@ -1,5 +1,5 @@
 {
-  "chartCount": 5634,
+  "chartCount": 5646,
   "availableVersions": [
     {
       "value": 0,
@@ -16590,6 +16590,42 @@
         "8",
         "11",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "㋰責任集合体",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "JIGOKU STATION CENTRAL GATE",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "三日月ステップ 2023",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7+",
+        "10",
+        "13",
         null
       ]
     }

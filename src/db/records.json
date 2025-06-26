@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 11672,
+    "rating": 11814,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 4,
     "stars": 18,
     "playCount": {
-      "total": 31,
-      "current": 27
+      "total": 33,
+      "current": 29
     }
   },
   "records": [
@@ -864,12 +864,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 947801,
-        "rank": "AAA",
+        "achievement": 977013,
+        "rank": "S",
         "dxScore": {
-          "score": 1842,
+          "score": 1946,
           "max": 2400,
-          "percentage": 76.75
+          "percentage": 81.08333333333333
         },
         "dxRank": 0,
         "combo": null,
@@ -904,12 +904,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 958677,
-        "rank": "AAA",
+        "achievement": 979569,
+        "rank": "S",
         "dxScore": {
-          "score": 1482,
+          "score": 1609,
           "max": 1995,
-          "percentage": 74.28571428571429
+          "percentage": 80.65162907268171
         },
         "dxRank": 0,
         "combo": null,
@@ -978,6 +978,26 @@
     },
     {
       "track": {
+        "title": "Destr0yer",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 994688,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1360,
+          "max": 1611,
+          "percentage": 84.41961514587213
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Southern Cross",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1032,6 +1052,26 @@
           "percentage": 86.77685950413223
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Re：End of a Dream",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 974719,
+        "rank": "S",
+        "dxScore": {
+          "score": 1532,
+          "max": 1887,
+          "percentage": 81.18706942236355
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -1624,12 +1664,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 944803,
+        "achievement": 957684,
         "rank": "AAA",
         "dxScore": {
-          "score": 1652,
+          "score": 1689,
           "max": 2226,
-          "percentage": 74.21383647798741
+          "percentage": 75.87601078167116
         },
         "dxRank": 0,
         "combo": null,
@@ -1672,6 +1712,26 @@
           "percentage": 86.23853211009175
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Don't Fight The Music",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 971081,
+        "rank": "S",
+        "dxScore": {
+          "score": 1849,
+          "max": 2253,
+          "percentage": 82.06835330670218
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
