@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 11814,
+    "rating": 11922,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 6,
     "classRank": 4,
-    "stars": 18,
+    "stars": 20,
     "playCount": {
-      "total": 33,
-      "current": 29
+      "total": 35,
+      "current": 31
     }
   },
   "records": [
@@ -784,16 +784,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 972698,
-        "rank": "S",
+        "achievement": 989525,
+        "rank": "S+",
         "dxScore": {
-          "score": 1810,
+          "score": 1930,
           "max": 2286,
-          "percentage": 79.17760279965005
+          "percentage": 84.42694663167104
         },
         "dxRank": 0,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -972,6 +972,26 @@
           "percentage": 82.54873989538754
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Halcyon",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 989352,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1664,
+          "max": 1902,
+          "percentage": 87.48685594111461
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -1538,6 +1558,26 @@
     },
     {
       "track": {
+        "title": "Oshama Scramble!",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 963372,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1465,
+          "max": 1782,
+          "percentage": 82.21099887766555
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "Latent Kingdom",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1624,16 +1664,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 935036,
-        "rank": "AA",
+        "achievement": 973324,
+        "rank": "S",
         "dxScore": {
-          "score": 777,
+          "score": 941,
           "max": 1155,
-          "percentage": 67.27272727272727
+          "percentage": 81.47186147186147
         },
         "dxRank": 0,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -1654,6 +1694,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "AMAZING MIGHTYYYY!!!!",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 886674,
+        "rank": "A",
+        "dxScore": {
+          "score": 1688,
+          "max": 2700,
+          "percentage": 62.51851851851852
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -1698,6 +1758,46 @@
     },
     {
       "track": {
+        "title": "MarbleBlue.",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990878,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1760,
+          "max": 2049,
+          "percentage": 85.89555880917521
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "LAMIA",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 923896,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1750,
+          "max": 2277,
+          "percentage": 76.85551163812033
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "エータ・ベータ・イータ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1734,6 +1834,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "エンドマークに希望と涙を添えて",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987691,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1754,
+          "max": 2106,
+          "percentage": 83.28584995251663
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
