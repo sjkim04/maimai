@@ -1,5 +1,5 @@
 {
-  "chartCount": 5646,
+  "chartCount": 5654,
   "availableVersions": [
     {
       "value": 0,
@@ -16626,6 +16626,30 @@
         "7+",
         "10",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "Endless, Sleepless Night",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Lover's Trick",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13+",
         null
       ]
     }

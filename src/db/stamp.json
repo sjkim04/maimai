@@ -121,6 +121,14 @@
   },
   {
     "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/fba94ed765e1c00b.png",
+    "title": "Endless, Sleepless Night",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/8e3cad1f597c0558.png",
     "title": "One Step Ahead",
     "complete": false,
@@ -172,7 +180,7 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/Frame/1c2adf82c32b1428.png",
     "title": "Cryptarithm",
     "complete": false,
-    "stampCount": 7,
+    "stampCount": 8,
     "max": 10
   },
   {

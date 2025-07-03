@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＰＨＲＹＧＩＡ",
-    "rating": 11948,
+    "rating": 12021,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/998a274d26fc8a74.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 4,
     "stars": 20,
     "playCount": {
-      "total": 36,
-      "current": 32
+      "total": 37,
+      "current": 33
     }
   },
   "records": [
@@ -978,6 +978,26 @@
     },
     {
       "track": {
+        "title": "Grievous Lady",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991516,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1812,
+          "max": 2136,
+          "percentage": 84.8314606741573
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "FREEDOM DiVE (tpz Overcute Remix)",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -1072,6 +1092,26 @@
           "percentage": 87.20930232558139
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "NULCTRL",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 943219,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1205,
+          "max": 1569,
+          "percentage": 76.80050987890375
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -1894,6 +1934,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "はいよろこんで",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999828,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1723,
+          "max": 1947,
+          "percentage": 88.49512069851053
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
