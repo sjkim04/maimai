@@ -24263,6 +24263,14 @@
     }
   },
   {
+    "title": "Lover's Trick",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 137
+    }
+  },
+  {
     "title": "Supersonic Generation",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24284,6 +24292,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 142
+    }
+  },
+  {
+    "title": "Endless, Sleepless Night",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 133
     }
   },
   {
