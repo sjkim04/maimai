@@ -1,5 +1,5 @@
 {
-  "chartCount": 5654,
+  "chartCount": 5670,
   "availableVersions": [
     {
       "value": 0,
@@ -16638,6 +16638,54 @@
         "6",
         "10+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "IMBRUED:FLUX",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "砂の函",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "11",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "Amereistr",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "サウンドプレイヤー",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13+",
         null
       ]
     },
