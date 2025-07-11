@@ -28,7 +28,7 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/66ff253d40aa49ad.png",
     "title": "乙姫（ばでぃーず）",
     "complete": false,
-    "stampCount": 0,
+    "stampCount": 3,
     "max": 10
   },
   {
@@ -43,8 +43,8 @@
     "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/2c0bf461478499e7.png",
     "title": "黒姫",
-    "complete": false,
-    "stampCount": 0,
+    "complete": true,
+    "stampCount": 10,
     "max": 10
   },
   {
@@ -83,8 +83,8 @@
     "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/689d29adbdb7d8fe.png",
     "title": "百合咲ミカ",
-    "complete": false,
-    "stampCount": 0,
+    "complete": true,
+    "stampCount": 10,
     "max": 10
   },
   {
@@ -115,8 +115,8 @@
     "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/b4c2df0b003d74e2.png",
     "title": "ゴーゴー幽霊船",
-    "complete": true,
-    "stampCount": 10,
+    "complete": false,
+    "stampCount": 1,
     "max": 10
   },
   {
@@ -131,8 +131,8 @@
     "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/8e3cad1f597c0558.png",
     "title": "One Step Ahead",
-    "complete": false,
-    "stampCount": 0,
+    "complete": true,
+    "stampCount": 10,
     "max": 10
   },
   {
@@ -180,7 +180,7 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/Frame/1c2adf82c32b1428.png",
     "title": "Cryptarithm",
     "complete": false,
-    "stampCount": 8,
+    "stampCount": 0,
     "max": 10
   },
   {
@@ -188,7 +188,7 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/Frame/f831f03b2521becc.png",
     "title": "Valsqotch",
     "complete": false,
-    "stampCount": 0,
+    "stampCount": 1,
     "max": 10
   }
 ]

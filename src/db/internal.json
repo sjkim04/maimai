@@ -23831,6 +23831,14 @@
     }
   },
   {
+    "title": "サウンドプレイヤー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 137
+    }
+  },
+  {
     "title": "はいよろこんで",
     "type": "DX",
     "difficulty": "MASTER",
@@ -23887,6 +23895,14 @@
     }
   },
   {
+    "title": "IMBRUED:FLUX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 141
+    }
+  },
+  {
     "title": "きゅびずむ",
     "type": "DX",
     "difficulty": "MASTER",
@@ -23900,6 +23916,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 138
+    }
+  },
+  {
+    "title": "砂の函",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 140
     }
   },
   {
@@ -23948,6 +23972,14 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "24": 129
+    }
+  },
+  {
+    "title": "Amereistr",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 139
     }
   },
   {
