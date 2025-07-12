@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 10975,
+    "rating": 11492,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 26,
     "playCount": {
-      "total": 57,
-      "current": 11
+      "total": 58,
+      "current": 12
     }
   },
   "records": [
@@ -290,6 +290,26 @@
           "score": 1511,
           "max": 1767,
           "percentage": 85.51216751556309
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "きゅびびびびずむ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999229,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1768,
+          "max": 1998,
+          "percentage": 88.48848848848849
         },
         "dxRank": 1,
         "combo": null,
@@ -1778,6 +1798,26 @@
     },
     {
       "track": {
+        "title": "Synthesis.",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983829,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1604,
+          "max": 1935,
+          "percentage": 82.89405684754522
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Chronomia",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2493,6 +2533,26 @@
         },
         "dxRank": 0,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "パラドクスイヴ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999743,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1335,
+          "max": 1500,
+          "percentage": 89
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
