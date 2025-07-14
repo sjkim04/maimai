@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 11492,
+    "rating": 11570,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 6,
     "classRank": 0,
-    "stars": 26,
+    "stars": 30,
     "playCount": {
-      "total": 58,
-      "current": 12
+      "total": 61,
+      "current": 15
     }
   },
   "records": [
@@ -2553,6 +2553,186 @@
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "チエルカ／エソテリカ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984389,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1859,
+          "max": 2223,
+          "percentage": 83.62573099415205
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "フェイクフェイス・フェイルセイフ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999599,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1753,
+          "max": 1962,
+          "percentage": 89.34760448521916
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "シックスプラン",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004901,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1016,
+          "max": 1125,
+          "percentage": 90.3111111111111
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "シエルブルーマルシェ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998940,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1086,
+          "max": 1182,
+          "percentage": 91.87817258883248
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "共鳴",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995391,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1279,
+          "max": 1467,
+          "percentage": 87.18473074301295
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ブレインジャックシンドローム",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005639,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1718,
+          "max": 1911,
+          "percentage": 89.90057561486134
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Ututu",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 993591,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1089,
+          "max": 1257,
+          "percentage": 86.63484486873509
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "STEREOSCAPE",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987992,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1025,
+          "max": 1227,
+          "percentage": 83.53708231458843
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Crazy Circle",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 989345,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1219,
+          "max": 1389,
+          "percentage": 87.76097912167027
+        },
+        "dxRank": 1,
+        "combo": null,
         "sync": null
       }
     },
