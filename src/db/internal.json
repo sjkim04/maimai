@@ -24023,6 +24023,14 @@
     }
   },
   {
+    "title": "World's end BLACKBOX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 149
+    }
+  },
+  {
     "title": "Idoratrize World",
     "type": "DX",
     "difficulty": "MASTER",

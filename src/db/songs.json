@@ -1,5 +1,5 @@
 {
-  "chartCount": 5670,
+  "chartCount": 5682,
   "availableVersions": [
     {
       "value": 0,
@@ -16697,6 +16697,42 @@
         "3",
         "7",
         "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "crazy (about you)",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Drivessover",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "12",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Tidal Wave",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "12",
         "13+",
         null
       ]
