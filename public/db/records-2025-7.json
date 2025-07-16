@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 11679,
+    "rating": 11878,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 30,
     "playCount": {
-      "total": 64,
-      "current": 18
+      "total": 66,
+      "current": 20
     }
   },
   "records": [
@@ -2004,15 +2004,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 979847,
-        "rank": "S",
+        "achievement": 1004967,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1386,
+          "score": 1488,
           "max": 1662,
-          "percentage": 83.39350180505414
+          "percentage": 89.53068592057761
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -2030,6 +2030,26 @@
           "score": 1460,
           "max": 1947,
           "percentage": 74.98715973292245
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "最強STRONGER",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975518,
+        "rank": "S",
+        "dxScore": {
+          "score": 1894,
+          "max": 2367,
+          "percentage": 80.01689902830587
         },
         "dxRank": 0,
         "combo": null,
@@ -2574,6 +2594,26 @@
         "dxRank": 1,
         "combo": "FULL COMBO",
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "184億回のマルチトニック",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004514,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1771,
+          "max": 1974,
+          "percentage": 89.71631205673759
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3258,6 +3298,46 @@
     },
     {
       "track": {
+        "title": "PANDORA PARADOXXX",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 902659,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1623,
+          "max": 2565,
+          "percentage": 63.2748538011696
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "BREaK! BREaK! BREaK!",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 972853,
+        "rank": "S",
+        "dxScore": {
+          "score": 1788,
+          "max": 2196,
+          "percentage": 81.4207650273224
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "四月の雨",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -3284,12 +3364,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 948785,
+        "achievement": 961863,
         "rank": "AAA",
         "dxScore": {
-          "score": 1701,
+          "score": 1741,
           "max": 2226,
-          "percentage": 76.41509433962264
+          "percentage": 78.21203953279425
         },
         "dxRank": 0,
         "combo": null,
@@ -3334,6 +3414,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "MarbleBlue.",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990742,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1751,
+          "max": 2049,
+          "percentage": 85.45632015617375
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3564,14 +3664,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 917369,
-        "rank": "AA",
+        "achievement": 996314,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1440,
+          "score": 1792,
           "max": 2025,
-          "percentage": 71.11111111111111
+          "percentage": 88.49382716049384
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
