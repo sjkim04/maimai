@@ -1,5 +1,5 @@
 {
-  "chartCount": 5682,
+  "chartCount": 5686,
   "availableVersions": [
     {
       "value": 0,
@@ -15426,6 +15426,18 @@
         "8",
         "11+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "果ての空、僕らが見た光。",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "8",
+        "10+",
+        "13+",
         null
       ]
     },

@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 11878,
+    "rating": 12019,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 0,
-    "stars": 30,
+    "stars": 32,
     "playCount": {
-      "total": 66,
-      "current": 20
+      "total": 69,
+      "current": 23
     }
   },
   "records": [
@@ -293,6 +293,26 @@
         },
         "dxRank": 1,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "シカ色デイズ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007619,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1072,
+          "max": 1164,
+          "percentage": 92.09621993127148
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -844,15 +864,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 927690,
-        "rank": "AA",
+        "achievement": 1006741,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1057,
+          "score": 1319,
           "max": 1425,
-          "percentage": 74.17543859649123
+          "percentage": 92.56140350877193
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -1824,12 +1844,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 961826,
-        "rank": "AAA",
+        "achievement": 992800,
+        "rank": "SS",
         "dxScore": {
-          "score": 1457,
+          "score": 1616,
           "max": 1926,
-          "percentage": 75.64901349948079
+          "percentage": 83.90446521287642
         },
         "dxRank": 0,
         "combo": null,
@@ -2618,6 +2638,26 @@
     },
     {
       "track": {
+        "title": "果ての空、僕らが見た光。",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005940,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1379,
+          "max": 1497,
+          "percentage": 92.11756847027388
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "チエルカ／エソテリカ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2644,7 +2684,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 999599,
+        "achievement": 999828,
         "rank": "SS+",
         "dxScore": {
           "score": 1753,
@@ -2652,7 +2692,7 @@
           "percentage": 89.34760448521916
         },
         "dxRank": 1,
-        "combo": null,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -2784,14 +2824,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1003041,
-        "rank": "SSS",
+        "achievement": 1006082,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1117,
+          "score": 1154,
           "max": 1254,
-          "percentage": 89.07496012759171
+          "percentage": 92.02551834130782
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": null
       }
@@ -2923,15 +2963,15 @@
         "difficulty": "EXPERT"
       },
       "score": {
-        "clear": false,
-        "achievement": 165182,
-        "rank": "D",
+        "clear": true,
+        "achievement": 1003322,
+        "rank": "SSS",
         "dxScore": {
-          "score": 245,
+          "score": 1404,
           "max": 1560,
-          "percentage": 15.705128205128204
+          "percentage": 90
         },
-        "dxRank": 0,
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
@@ -3238,6 +3278,26 @@
     },
     {
       "track": {
+        "title": "Straight into the lights",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 972080,
+        "rank": "S",
+        "dxScore": {
+          "score": 1265,
+          "max": 1566,
+          "percentage": 80.77905491698594
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Latent Kingdom",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3374,6 +3434,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "crazy (about you)",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997596,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1122,
+          "max": 1227,
+          "percentage": 91.44254278728606
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
       }
     },
     {
