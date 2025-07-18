@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12019,
+    "rating": 12047,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 32,
     "playCount": {
-      "total": 69,
-      "current": 23
+      "total": 70,
+      "current": 24
     }
   },
   "records": [
@@ -218,6 +218,26 @@
     },
     {
       "track": {
+        "title": "PANDORA PARADOXXX",
+        "type": "Standard",
+        "difficulty": "ADVANCED"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986912,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1364,
+          "max": 1704,
+          "percentage": 80.04694835680752
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "系ぎて",
         "type": "DX",
         "difficulty": "ADVANCED"
@@ -232,6 +252,26 @@
           "percentage": 79.46815089672232
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "MEGATON BLAST",
+        "type": "DX",
+        "difficulty": "ADVANCED"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005348,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 2192,
+          "max": 2442,
+          "percentage": 89.76248976248976
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -2084,12 +2124,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 937604,
-        "rank": "AA",
+        "achievement": 985734,
+        "rank": "S+",
         "dxScore": {
-          "score": 1408,
+          "score": 1614,
           "max": 1995,
-          "percentage": 70.57644110275689
+          "percentage": 80.90225563909775
         },
         "dxRank": 0,
         "combo": null,

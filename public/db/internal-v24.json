@@ -4524,6 +4524,12 @@
     "internalLevel": 137
   },
   {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 122
+  },
+  {
     "title": "Fraq",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4576,6 +4582,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 123
   },
   {
     "title": "ハオ",

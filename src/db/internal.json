@@ -24151,6 +24151,14 @@
     }
   },
   {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 122
+    }
+  },
+  {
     "title": "Fraq",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24220,6 +24228,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 138
+    }
+  },
+  {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 123
     }
   },
   {
