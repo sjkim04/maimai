@@ -24055,6 +24055,14 @@
     }
   },
   {
+    "title": "World's end BLACKBOX",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 131
+    }
+  },
+  {
     "title": "Synthesis.",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24079,6 +24087,14 @@
     }
   },
   {
+    "title": "プリズム△▽リズム",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 132
+    }
+  },
+  {
     "title": "Synthesis.",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -24095,11 +24111,35 @@
     }
   },
   {
+    "title": "Believe the Rainbow",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 130
+    }
+  },
+  {
+    "title": "AFTER PANDORA",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 142
+    }
+  },
+  {
     "title": "Dragoon",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 137
+    }
+  },
+  {
+    "title": "AFTER PANDORA",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 125
     }
   },
   {
@@ -24116,6 +24156,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 137
+    }
+  },
+  {
+    "title": "Xaleid◆scopiX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 149
     }
   },
   {
@@ -24148,14 +24196,6 @@
     "difficulty": "Re:MASTER",
     "internalLevel": {
       "24": 137
-    }
-  },
-  {
-    "title": "Drivessover",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": {
-      "24": 122
     }
   },
   {
@@ -24199,6 +24239,14 @@
     }
   },
   {
+    "title": "crazy (about you)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 138
+    }
+  },
+  {
     "title": "ウタヒメナイトストーム",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24212,6 +24260,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 137
+    }
+  },
+  {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 136
     }
   },
   {
@@ -24231,11 +24287,11 @@
     }
   },
   {
-    "title": "Tidal Wave",
+    "title": "Drivessover",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": {
-      "24": 123
+      "24": 122
     }
   },
   {
@@ -24263,6 +24319,14 @@
     }
   },
   {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 138
+    }
+  },
+  {
     "title": "好きな惣菜発表ドラゴン",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24276,6 +24340,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 130
+    }
+  },
+  {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 123
     }
   },
   {

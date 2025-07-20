@@ -4452,6 +4452,12 @@
     "internalLevel": 132
   },
   {
+    "title": "World's end BLACKBOX",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 131
+  },
+  {
     "title": "Synthesis.",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4470,6 +4476,12 @@
     "internalLevel": 130
   },
   {
+    "title": "プリズム△▽リズム",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 132
+  },
+  {
     "title": "Synthesis.",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -4482,10 +4494,28 @@
     "internalLevel": 140
   },
   {
+    "title": "Believe the Rainbow",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 130
+  },
+  {
+    "title": "AFTER PANDORA",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 142
+  },
+  {
     "title": "Dragoon",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "AFTER PANDORA",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 125
   },
   {
     "title": "きゅびびびびずむ",
@@ -4498,6 +4528,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "Xaleid◆scopiX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 149
   },
   {
     "title": "きゅびびびびずむ",
@@ -4522,12 +4558,6 @@
     "type": "DX",
     "difficulty": "Re:MASTER",
     "internalLevel": 137
-  },
-  {
-    "title": "Drivessover",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 122
   },
   {
     "title": "Fraq",
@@ -4560,6 +4590,12 @@
     "internalLevel": 136
   },
   {
+    "title": "crazy (about you)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "ウタヒメナイトストーム",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4570,6 +4606,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
   },
   {
     "title": "あいたい星人",
@@ -4584,10 +4626,10 @@
     "internalLevel": 138
   },
   {
-    "title": "Tidal Wave",
+    "title": "Drivessover",
     "type": "DX",
     "difficulty": "EXPERT",
-    "internalLevel": 123
+    "internalLevel": 122
   },
   {
     "title": "ハオ",
@@ -4608,6 +4650,12 @@
     "internalLevel": 135
   },
   {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "好きな惣菜発表ドラゴン",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4618,6 +4666,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
+  },
+  {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 123
   },
   {
     "title": "Zitronectar",
