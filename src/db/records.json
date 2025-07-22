@@ -11,8 +11,8 @@
     "classRank": 0,
     "stars": 32,
     "playCount": {
-      "total": 70,
-      "current": 24
+      "total": 71,
+      "current": 25
     }
   },
   "records": [
@@ -1118,6 +1118,26 @@
     },
     {
       "track": {
+        "title": "酔いどれ知らず",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 996627,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 843,
+          "max": 942,
+          "percentage": 89.49044585987261
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "ジャンキーナイトタウンオーケストラ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2144,14 +2164,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 961629,
-        "rank": "AAA",
+        "achievement": 977065,
+        "rank": "S",
         "dxScore": {
-          "score": 1402,
+          "score": 1428,
           "max": 1674,
-          "percentage": 83.75149342891278
+          "percentage": 85.30465949820788
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -2693,7 +2713,7 @@
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3094,6 +3114,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ぼくたちいつでも　しゅわっしゅわ！",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986210,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1413,
+          "max": 1659,
+          "percentage": 85.17179023508137
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
