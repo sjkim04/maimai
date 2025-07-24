@@ -4266,6 +4266,12 @@
     "internalLevel": 133
   },
   {
+    "title": "サウンドプレイヤー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "ビビデバ",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -4282,12 +4288,6 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
-  },
-  {
-    "title": "サウンドプレイヤー",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 137
   },
   {
     "title": "はいよろこんで",
@@ -4314,6 +4314,12 @@
     "internalLevel": 142
   },
   {
+    "title": "IMBRUED:FLUX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 141
+  },
+  {
     "title": "シカ色デイズ",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4332,10 +4338,10 @@
     "internalLevel": 125
   },
   {
-    "title": "IMBRUED:FLUX",
+    "title": "砂の函",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 141
+    "internalLevel": 140
   },
   {
     "title": "きゅびずむ",
@@ -4348,12 +4354,6 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
-  },
-  {
-    "title": "砂の函",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 140
   },
   {
     "title": "メズマライザー",
@@ -4374,6 +4374,12 @@
     "internalLevel": 145
   },
   {
+    "title": "Amereistr",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
+  },
+  {
     "title": "ももいろの鍵",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4390,12 +4396,6 @@
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 129
-  },
-  {
-    "title": "Amereistr",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 139
   },
   {
     "title": "のだ",
@@ -4416,6 +4416,12 @@
     "internalLevel": 130
   },
   {
+    "title": "World's end BLACKBOX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 149
+  },
+  {
     "title": "月光",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4430,8 +4436,8 @@
   {
     "title": "World's end BLACKBOX",
     "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 149
+    "difficulty": "EXPERT",
+    "internalLevel": 131
   },
   {
     "title": "Idoratrize World",
@@ -4452,10 +4458,10 @@
     "internalLevel": 132
   },
   {
-    "title": "World's end BLACKBOX",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 131
+    "title": "プリズム△▽リズム",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 132
   },
   {
     "title": "Synthesis.",
@@ -4476,10 +4482,10 @@
     "internalLevel": 130
   },
   {
-    "title": "プリズム△▽リズム",
-    "type": "Standard",
+    "title": "Believe the Rainbow",
+    "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 132
+    "internalLevel": 130
   },
   {
     "title": "Synthesis.",
@@ -4494,16 +4500,16 @@
     "internalLevel": 140
   },
   {
-    "title": "Believe the Rainbow",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 130
-  },
-  {
     "title": "AFTER PANDORA",
     "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 142
+  },
+  {
+    "title": "AFTER PANDORA",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 125
   },
   {
     "title": "Dragoon",
@@ -4512,10 +4518,10 @@
     "internalLevel": 137
   },
   {
-    "title": "AFTER PANDORA",
+    "title": "Xaleid◆scopiX",
     "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 125
+    "difficulty": "MASTER",
+    "internalLevel": 149
   },
   {
     "title": "きゅびびびびずむ",
@@ -4532,14 +4538,20 @@
   {
     "title": "Xaleid◆scopiX",
     "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 149
+    "difficulty": "Re:MASTER",
+    "internalLevel": 150
   },
   {
     "title": "きゅびびびびずむ",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 120
+  },
+  {
+    "title": "Xaleid◆scopiX",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 137
   },
   {
     "title": "うぇいびー",
@@ -4578,6 +4590,12 @@
     "internalLevel": 133
   },
   {
+    "title": "crazy (about you)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "Fraq",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -4590,10 +4608,10 @@
     "internalLevel": 136
   },
   {
-    "title": "crazy (about you)",
+    "title": "Drivessover",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 138
+    "internalLevel": 136
   },
   {
     "title": "ウタヒメナイトストーム",
@@ -4610,8 +4628,8 @@
   {
     "title": "Drivessover",
     "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 136
+    "difficulty": "EXPERT",
+    "internalLevel": 122
   },
   {
     "title": "あいたい星人",
@@ -4626,12 +4644,6 @@
     "internalLevel": 138
   },
   {
-    "title": "Drivessover",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 122
-  },
-  {
     "title": "ハオ",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4639,6 +4651,12 @@
   },
   {
     "title": "Feel The Luv",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "Tidal Wave",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
@@ -4652,8 +4670,8 @@
   {
     "title": "Tidal Wave",
     "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 138
+    "difficulty": "EXPERT",
+    "internalLevel": 123
   },
   {
     "title": "好きな惣菜発表ドラゴン",
@@ -4666,12 +4684,6 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
-  },
-  {
-    "title": "Tidal Wave",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 123
   },
   {
     "title": "Zitronectar",
