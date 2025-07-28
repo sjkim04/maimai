@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12047,
-    "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
+    "rating": 12165,
+    "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\t『踊るか、踊られるか。』\n\t\t\t\t"
     },
     "courseRank": 7,
     "classRank": 0,
-    "stars": 32,
+    "stars": 36,
     "playCount": {
-      "total": 71,
-      "current": 25
+      "total": 74,
+      "current": 28
     }
   },
   "records": [
@@ -1944,14 +1944,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 927969,
-        "rank": "AA",
+        "achievement": 992927,
+        "rank": "SS",
         "dxScore": {
-          "score": 1532,
+          "score": 1676,
           "max": 1947,
-          "percentage": 78.68515665125835
+          "percentage": 86.08115048793015
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -2192,6 +2192,26 @@
           "percentage": 56.519274376417236
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ULTRA SYNERGY MATRIX",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000349,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1400,
+          "max": 1557,
+          "percentage": 89.9165061014772
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -3318,6 +3338,46 @@
     },
     {
       "track": {
+        "title": "Valsqotch",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 952032,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1923,
+          "max": 2559,
+          "percentage": 75.14654161781947
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "封焔の135秒",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 955199,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1374,
+          "max": 1827,
+          "percentage": 75.20525451559934
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "QZKago Requiem",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -3384,12 +3444,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 923765,
-        "rank": "AA",
+        "achievement": 973802,
+        "rank": "S",
         "dxScore": {
-          "score": 1655,
+          "score": 1929,
           "max": 2346,
-          "percentage": 70.54560954816709
+          "percentage": 82.22506393861893
         },
         "dxRank": 0,
         "combo": null,
@@ -3414,6 +3474,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ここからはじまるプロローグ。 (Kanon Remix)",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007939,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1628,
+          "max": 1779,
+          "percentage": 91.51208544125915
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -3458,6 +3538,26 @@
     },
     {
       "track": {
+        "title": "GIGANTØMAKHIA",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 972961,
+        "rank": "S",
+        "dxScore": {
+          "score": 1485,
+          "max": 1866,
+          "percentage": 79.58199356913184
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "BREaK! BREaK! BREaK!",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3494,6 +3594,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ViRTUS",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 944854,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1688,
+          "max": 2139,
+          "percentage": 78.91538101916784
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -4090,6 +4210,26 @@
           "score": 1538,
           "max": 1884,
           "percentage": 81.63481953290871
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Ourania",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 917925,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1446,
+          "max": 1992,
+          "percentage": 72.59036144578313
         },
         "dxRank": 0,
         "combo": null,
