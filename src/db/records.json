@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12165,
+    "rating": 12273,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 0,
-    "stars": 36,
+    "stars": 40,
     "playCount": {
-      "total": 74,
-      "current": 28
+      "total": 80,
+      "current": 34
     }
   },
   "records": [
@@ -1964,12 +1964,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 978248,
-        "rank": "S",
+        "achievement": 987797,
+        "rank": "S+",
         "dxScore": {
-          "score": 1918,
+          "score": 2008,
           "max": 2400,
-          "percentage": 79.91666666666667
+          "percentage": 83.66666666666667
         },
         "dxRank": 0,
         "combo": null,
@@ -2618,6 +2618,26 @@
     },
     {
       "track": {
+        "title": "End Time",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992937,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1447,
+          "max": 1737,
+          "percentage": 83.30454807138746
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Credits",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -2650,6 +2670,46 @@
           "score": 1315,
           "max": 1713,
           "percentage": 76.76590776415645
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "DRAGONLADY",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 949659,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 882,
+          "max": 1173,
+          "percentage": 75.1918158567775
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Garden Of The Dragon",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975156,
+        "rank": "S",
+        "dxScore": {
+          "score": 1269,
+          "max": 1575,
+          "percentage": 80.57142857142857
         },
         "dxRank": 0,
         "combo": null,
@@ -3378,6 +3438,26 @@
     },
     {
       "track": {
+        "title": "Divide et impera!",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 978488,
+        "rank": "S",
+        "dxScore": {
+          "score": 1731,
+          "max": 2223,
+          "percentage": 77.86774628879893
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "QZKago Requiem",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -3478,6 +3558,26 @@
     },
     {
       "track": {
+        "title": "KHYMΞXΛ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 966359,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1432,
+          "max": 1833,
+          "percentage": 78.12329514457174
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ここからはじまるプロローグ。 (Kanon Remix)",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3493,6 +3593,26 @@
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Rising on the horizon",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 971113,
+        "rank": "S",
+        "dxScore": {
+          "score": 1671,
+          "max": 1968,
+          "percentage": 84.90853658536585
+        },
+        "dxRank": 0,
+        "combo": null,
         "sync": null
       }
     },
@@ -3524,12 +3644,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 902659,
+        "achievement": 914108,
         "rank": "AA",
         "dxScore": {
-          "score": 1623,
+          "score": 1701,
           "max": 2565,
-          "percentage": 63.2748538011696
+          "percentage": 66.3157894736842
         },
         "dxRank": 0,
         "combo": null,
@@ -3578,6 +3698,46 @@
     },
     {
       "track": {
+        "title": "U&iVERSE -銀河鸞翔-",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984506,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1780,
+          "max": 2148,
+          "percentage": 82.86778398510242
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "≠彡\"/了→",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990930,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1834,
+          "max": 2160,
+          "percentage": 84.9074074074074
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "四月の雨",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -3594,6 +3754,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Blows Up Everything",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980361,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1897,
+          "max": 2187,
+          "percentage": 86.73982624599908
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -3618,18 +3798,38 @@
     },
     {
       "track": {
+        "title": "sølips",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 914271,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1584,
+          "max": 2199,
+          "percentage": 72.03274215552524
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "系ぎて",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 961863,
+        "achievement": 969509,
         "rank": "AAA",
         "dxScore": {
-          "score": 1741,
+          "score": 1807,
           "max": 2226,
-          "percentage": 78.21203953279425
+          "percentage": 81.1769991015274
         },
         "dxRank": 0,
         "combo": null,
@@ -3918,6 +4118,26 @@
     },
     {
       "track": {
+        "title": "ドラゴンエネルギー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 945678,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1814,
+          "max": 2184,
+          "percentage": 83.05860805860806
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "GET!! 夢&DREAM",
         "type": "Standard",
         "difficulty": "MASTER"
@@ -3947,11 +4167,11 @@
         "achievement": 996314,
         "rank": "SS+",
         "dxScore": {
-          "score": 1792,
+          "score": 1832,
           "max": 2025,
-          "percentage": 88.49382716049384
+          "percentage": 90.46913580246914
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -4167,9 +4387,9 @@
         "achievement": 983323,
         "rank": "S+",
         "dxScore": {
-          "score": 1609,
+          "score": 1615,
           "max": 1929,
-          "percentage": 83.41109383100051
+          "percentage": 83.72213582166927
         },
         "dxRank": 0,
         "combo": null,
@@ -4184,12 +4404,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 967433,
-        "rank": "AAA",
+        "achievement": 974605,
+        "rank": "S",
         "dxScore": {
-          "score": 1320,
+          "score": 1372,
           "max": 1644,
-          "percentage": 80.2919708029197
+          "percentage": 83.45498783454988
         },
         "dxRank": 0,
         "combo": null,

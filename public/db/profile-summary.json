@@ -1,6 +1,6 @@
 {
   "name": "ＳＪＫ",
-  "rating": 12165,
+  "rating": 12273,
   "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
   "trophy": {
     "tier": "Normal",
@@ -8,9 +8,9 @@
   },
   "courseRank": 7,
   "classRank": 0,
-  "stars": 36,
+  "stars": 40,
   "playCount": {
-    "total": 74,
-    "current": 28
+    "total": 80,
+    "current": 34
   }
 }
