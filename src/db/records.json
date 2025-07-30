@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12273,
+    "rating": 12306,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 0,
-    "stars": 40,
+    "stars": 41,
     "playCount": {
-      "total": 80,
-      "current": 34
+      "total": 82,
+      "current": 36
     }
   },
   "records": [
@@ -3478,6 +3478,26 @@
     },
     {
       "track": {
+        "title": "天蓋",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985532,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1192,
+          "max": 1404,
+          "percentage": 84.9002849002849
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Ether Second",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3824,8 +3844,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 969509,
-        "rank": "AAA",
+        "achievement": 972214,
+        "rank": "S",
         "dxScore": {
           "score": 1807,
           "max": 2226,
@@ -4184,12 +4204,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 923400,
-        "rank": "AA",
+        "achievement": 950281,
+        "rank": "AAA",
         "dxScore": {
-          "score": 1770,
+          "score": 1800,
           "max": 2316,
-          "percentage": 76.42487046632125
+          "percentage": 77.720207253886
         },
         "dxRank": 0,
         "combo": null,
