@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12306,
+    "rating": 12377,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\t『踊るか、踊られるか。』\n\t\t\t\t"
     },
     "courseRank": 7,
-    "classRank": 0,
-    "stars": 41,
+    "classRank": 3,
+    "stars": 45,
     "playCount": {
-      "total": 82,
-      "current": 36
+      "total": 87,
+      "current": 41
     }
   },
   "records": [
@@ -724,15 +724,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 964730,
-        "rank": "AAA",
+        "achievement": 999379,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1221,
+          "score": 1370,
           "max": 1557,
-          "percentage": 78.42003853564547
+          "percentage": 87.98972382787412
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -1138,6 +1138,26 @@
     },
     {
       "track": {
+        "title": "KING",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004007,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1427,
+          "max": 1566,
+          "percentage": 91.12388250319285
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ジャンキーナイトタウンオーケストラ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1424,12 +1444,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 973575,
-        "rank": "S",
+        "achievement": 990571,
+        "rank": "SS",
         "dxScore": {
-          "score": 1475,
+          "score": 1511,
           "max": 1899,
-          "percentage": 77.67245918904688
+          "percentage": 79.56819378620327
         },
         "dxRank": 0,
         "combo": null,
@@ -1724,8 +1744,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 981718,
-        "rank": "S+",
+        "achievement": 994200,
+        "rank": "SS",
         "dxScore": {
           "score": 1611,
           "max": 1896,
@@ -2550,6 +2570,26 @@
           "score": 709,
           "max": 1371,
           "percentage": 51.714077315827865
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Re：End of a Dream",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991949,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1574,
+          "max": 1887,
+          "percentage": 83.41282458929517
         },
         "dxRank": 0,
         "combo": null,
@@ -3644,12 +3684,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 861923,
-        "rank": "A",
+        "achievement": 951452,
+        "rank": "AAA",
         "dxScore": {
-          "score": 918,
+          "score": 1170,
           "max": 1617,
-          "percentage": 56.77179962894249
+          "percentage": 72.35621521335807
         },
         "dxRank": 0,
         "combo": null,
@@ -3750,6 +3790,26 @@
           "score": 1834,
           "max": 2160,
           "percentage": 84.9074074074074
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 907851,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1534,
+          "max": 2244,
+          "percentage": 68.36007130124777
         },
         "dxRank": 0,
         "combo": null,
@@ -4064,14 +4124,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 985214,
-        "rank": "S+",
+        "achievement": 1004064,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1680,
+          "score": 1759,
           "max": 1947,
-          "percentage": 86.28659476117103
+          "percentage": 90.34411915767848
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -4298,6 +4358,26 @@
     },
     {
       "track": {
+        "title": "熱異常",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987437,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1771,
+          "max": 2109,
+          "percentage": 83.97344713134187
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "すろぉもぉしょん",
         "type": "Standard",
         "difficulty": "MASTER"
@@ -4324,14 +4404,54 @@
       },
       "score": {
         "clear": true,
-        "achievement": 974354,
-        "rank": "S",
+        "achievement": 997882,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1681,
+          "score": 1932,
           "max": 2139,
-          "percentage": 78.58812529219261
+          "percentage": 90.32258064516128
         },
-        "dxRank": 0,
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ヒバナ",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991655,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1720,
+          "max": 2013,
+          "percentage": 85.44461003477397
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "強風オールバック",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 967023,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1485,
+          "max": 1740,
+          "percentage": 85.34482758620689
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -4354,6 +4474,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "アスノヨゾラ哨戒班",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 942932,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1652,
+          "max": 2187,
+          "percentage": 75.53726566072245
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -4470,6 +4610,26 @@
           "score": 1446,
           "max": 1992,
           "percentage": 72.59036144578313
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "星めぐり、果ての君へ。",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 927008,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1646,
+          "max": 2160,
+          "percentage": 76.20370370370371
         },
         "dxRank": 0,
         "combo": null,
