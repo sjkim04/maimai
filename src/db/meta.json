@@ -55,6 +55,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "∀",
+      "artist": "ああああ",
+      "jacketKey": "e01e7560acc1348d",
+      "chartTypeCount": 1
+    },
+    {
       "title": "+♂",
       "artist": "ギガ/れをる　ダンス　アルスマグナ",
       "jacketKey": "a565687e7a656aab",
@@ -2548,6 +2554,12 @@
       "title": "PinqPiq (xovevox Remix)",
       "artist": "owl＊tree Remixed by sasakure.UK",
       "jacketKey": "0155b81ffa2eab24",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "Pixel Galaxy",
+      "artist": "Snail's House",
+      "jacketKey": "efa1f420c755d481",
       "chartTypeCount": 1
     },
     {
@@ -6226,7 +6238,7 @@
       "title": "ローリンガール",
       "artist": "wowaka",
       "jacketKey": "35c7bf45db2cc050",
-      "chartTypeCount": 1
+      "chartTypeCount": 2
     },
     {
       "title": "ロールプレイングゲーム",

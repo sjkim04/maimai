@@ -1,5 +1,5 @@
 {
-  "chartCount": 5686,
+  "chartCount": 5698,
   "availableVersions": [
     {
       "value": 0,
@@ -16738,6 +16738,30 @@
       ]
     },
     {
+      "title": "ローリンガール",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "∀",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "6",
+        "8",
+        "11+",
+        "14",
+        null
+      ]
+    },
+    {
       "title": "Tidal Wave",
       "type": "DX",
       "version": 24,
@@ -16746,6 +16770,18 @@
         "7+",
         "12",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "Pixel Galaxy",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "13",
         null
       ]
     }

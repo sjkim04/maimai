@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12377,
+    "rating": 12415,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\t『踊るか、踊られるか。』\n\t\t\t\t"
     },
     "courseRank": 7,
-    "classRank": 3,
+    "classRank": 8,
     "stars": 45,
     "playCount": {
-      "total": 87,
-      "current": 41
+      "total": 93,
+      "current": 47
     }
   },
   "records": [
@@ -358,6 +358,26 @@
     },
     {
       "track": {
+        "title": "きゅびずむ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004897,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1260,
+          "max": 1407,
+          "percentage": 89.55223880597015
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "きゅびびびびずむ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -578,6 +598,26 @@
     },
     {
       "track": {
+        "title": "のだ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006908,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1206,
+          "max": 1329,
+          "percentage": 90.74492099322799
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ゆりかご",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -604,14 +644,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 989525,
-        "rank": "S+",
+        "achievement": 1002208,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1137,
+          "score": 1258,
           "max": 1371,
-          "percentage": 82.93216630196937
+          "percentage": 91.75784099197666
         },
-        "dxRank": 0,
+        "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
@@ -774,6 +814,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "劣等上等",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002901,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 996,
+          "max": 1107,
+          "percentage": 89.97289972899729
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -1134,6 +1194,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "エンヴィーベイビー",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005564,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1574,
+          "max": 1704,
+          "percentage": 92.37089201877934
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -1578,6 +1658,26 @@
     },
     {
       "track": {
+        "title": "ド屑",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 989975,
+        "rank": "S+",
+        "dxScore": {
+          "score": 604,
+          "max": 672,
+          "percentage": 89.88095238095238
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "シャルル",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1590,6 +1690,26 @@
           "score": 1005,
           "max": 1155,
           "percentage": 87.01298701298701
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ウミユリ海底譚",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 994472,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1231,
+          "max": 1389,
+          "percentage": 88.62491000719942
         },
         "dxRank": 1,
         "combo": null,
@@ -1624,14 +1744,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 931166,
-        "rank": "AA",
+        "achievement": 1005483,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 621,
+          "score": 791,
           "max": 867,
-          "percentage": 71.62629757785467
+          "percentage": 91.23414071510958
         },
-        "dxRank": 0,
+        "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -2698,6 +2818,26 @@
     },
     {
       "track": {
+        "title": "ULTRA B+K",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 967004,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1347,
+          "max": 1647,
+          "percentage": 81.78506375227687
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "conflict",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3518,6 +3658,26 @@
     },
     {
       "track": {
+        "title": "Oshama Scramble!",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 988408,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1515,
+          "max": 1665,
+          "percentage": 90.990990990991
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "天蓋",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3533,6 +3693,26 @@
         },
         "dxRank": 0,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Deicide",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1001072,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1477,
+          "max": 1659,
+          "percentage": 89.0295358649789
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -3754,6 +3934,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Round Round Spinning Around",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998580,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1445,
+          "max": 1593,
+          "percentage": 90.70935342121783
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -4038,6 +4238,26 @@
     },
     {
       "track": {
+        "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004670,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1355,
+          "max": 1524,
+          "percentage": 88.91076115485565
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Hainuwele",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -4098,6 +4318,26 @@
     },
     {
       "track": {
+        "title": "Climax",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 988826,
+        "rank": "S+",
+        "dxScore": {
+          "score": 2109,
+          "max": 2421,
+          "percentage": 87.11276332094175
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "World Vanquisher",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -4134,6 +4374,26 @@
         "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "アイドル",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999745,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1702,
+          "max": 1887,
+          "percentage": 90.19607843137256
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -4194,6 +4454,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "シリウスの輝きのように",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 981336,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1274,
+          "max": 1434,
+          "percentage": 88.8423988842399
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -4498,6 +4778,26 @@
     },
     {
       "track": {
+        "title": "だれかの心臓になれたなら",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 971411,
+        "rank": "S",
+        "dxScore": {
+          "score": 1875,
+          "max": 2187,
+          "percentage": 85.73388203017832
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "シャルル",
         "type": "DX",
         "difficulty": "MASTER"
@@ -4570,6 +4870,26 @@
           "score": 1372,
           "max": 1644,
           "percentage": 83.45498783454988
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "踊れオーケストラ",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977564,
+        "rank": "S",
+        "dxScore": {
+          "score": 1646,
+          "max": 1971,
+          "percentage": 83.51090816844241
         },
         "dxRank": 0,
         "combo": null,
