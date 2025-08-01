@@ -1,5 +1,5 @@
 {
-  "chartCount": 5698,
+  "chartCount": 5702,
   "availableVersions": [
     {
       "value": 0,
@@ -15570,6 +15570,18 @@
         "8",
         "10+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "氷滅の135小節",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "7",
+        "9+",
+        "13",
+        "14+",
         null
       ]
     },
