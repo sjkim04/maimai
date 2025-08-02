@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12495,
+    "rating": 12520,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 8,
-    "stars": 45,
+    "stars": 46,
     "playCount": {
-      "total": 95,
-      "current": 49
+      "total": 97,
+      "current": 51
     }
   },
   "records": [
@@ -2678,6 +2678,26 @@
     },
     {
       "track": {
+        "title": "Estahv",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000550,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1160,
+          "max": 1326,
+          "percentage": 87.48114630467572
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "enchanted love",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2933,6 +2953,46 @@
         },
         "dxRank": 0,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "地獄",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980673,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1213,
+          "max": 1431,
+          "percentage": 84.76589797344515
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "砂の函",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999118,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1307,
+          "max": 1515,
+          "percentage": 86.27062706270627
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -4618,6 +4678,26 @@
     },
     {
       "track": {
+        "title": "Love or Lies",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 982333,
+        "rank": "S+",
+        "dxScore": {
+          "score": 861,
+          "max": 1059,
+          "percentage": 81.30311614730878
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "メズマライザー",
         "type": "DX",
         "difficulty": "MASTER"
@@ -4818,6 +4898,26 @@
     },
     {
       "track": {
+        "title": "テレキャスタービーボーイ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985768,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1469,
+          "max": 1686,
+          "percentage": 87.12930011862396
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "強風オールバック",
         "type": "DX",
         "difficulty": "MASTER"
@@ -5010,6 +5110,26 @@
           "score": 1538,
           "max": 1884,
           "percentage": 81.63481953290871
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Crush On You",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 969920,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 658,
+          "max": 831,
+          "percentage": 79.18170878459688
         },
         "dxRank": 0,
         "combo": null,
