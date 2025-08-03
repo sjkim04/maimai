@@ -24391,11 +24391,27 @@
     }
   },
   {
+    "title": "∀",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 142
+    }
+  },
+  {
     "title": "概して過誤",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 137
+    }
+  },
+  {
+    "title": "Pixel Galaxy",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 130
     }
   },
   {

@@ -4704,10 +4704,22 @@
     "internalLevel": 120
   },
   {
+    "title": "∀",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 142
+  },
+  {
     "title": "概して過誤",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "Pixel Galaxy",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 130
   },
   {
     "title": "Unfinished Epic",
