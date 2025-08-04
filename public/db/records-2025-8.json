@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12520,
+    "rating": 12567,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\t『踊るか、踊られるか。』\n\t\t\t\t"
     },
     "courseRank": 7,
-    "classRank": 8,
-    "stars": 46,
+    "classRank": 9,
+    "stars": 49,
     "playCount": {
-      "total": 97,
-      "current": 51
+      "total": 102,
+      "current": 56
     }
   },
   "records": [
@@ -1524,12 +1524,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 974763,
-        "rank": "S",
+        "achievement": 1002265,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1500,
+          "score": 1628,
           "max": 1920,
-          "percentage": 78.125
+          "percentage": 84.79166666666667
         },
         "dxRank": 0,
         "combo": null,
@@ -2964,15 +2964,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 980673,
-        "rank": "S+",
+        "achievement": 997343,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1213,
+          "score": 1265,
           "max": 1431,
-          "percentage": 84.76589797344515
+          "percentage": 88.39972047519218
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -4618,6 +4618,26 @@
     },
     {
       "track": {
+        "title": "廻廻奇譚",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979154,
+        "rank": "S",
+        "dxScore": {
+          "score": 1828,
+          "max": 2163,
+          "percentage": 84.51225150254277
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "シリウスの輝きのように",
         "type": "DX",
         "difficulty": "MASTER"
@@ -4684,12 +4704,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 982333,
-        "rank": "S+",
+        "achievement": 990511,
+        "rank": "SS",
         "dxScore": {
-          "score": 861,
+          "score": 877,
           "max": 1059,
-          "percentage": 81.30311614730878
+          "percentage": 82.81397544853635
         },
         "dxRank": 0,
         "combo": null,
@@ -4714,6 +4734,26 @@
         "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977072,
+        "rank": "S",
+        "dxScore": {
+          "score": 1273,
+          "max": 1470,
+          "percentage": 86.5986394557823
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -4878,6 +4918,26 @@
     },
     {
       "track": {
+        "title": "乙女解剖",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 973085,
+        "rank": "S",
+        "dxScore": {
+          "score": 1632,
+          "max": 1959,
+          "percentage": 83.30781010719755
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ヒバナ",
         "type": "Standard",
         "difficulty": "MASTER"
@@ -5018,6 +5078,26 @@
     },
     {
       "track": {
+        "title": "ウミユリ海底譚",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 948277,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1772,
+          "max": 2277,
+          "percentage": 77.82169521299956
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "恋愛裁判",
         "type": "Standard",
         "difficulty": "MASTER"
@@ -5030,6 +5110,26 @@
           "score": 1528,
           "max": 1896,
           "percentage": 80.59071729957806
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "からくりピエロ",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980814,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1078,
+          "max": 1287,
+          "percentage": 83.76068376068376
         },
         "dxRank": 0,
         "combo": null,
@@ -5070,6 +5170,26 @@
           "score": 1372,
           "max": 1644,
           "percentage": 83.45498783454988
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "天ノ弱",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 966523,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1660,
+          "max": 2025,
+          "percentage": 81.9753086419753
         },
         "dxRank": 0,
         "combo": null,
@@ -5138,6 +5258,86 @@
     },
     {
       "track": {
+        "title": "ばかみたい【Taxi Driver Edition】",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 914504,
+        "rank": "AA",
+        "dxScore": {
+          "score": 617,
+          "max": 834,
+          "percentage": 73.98081534772182
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "神室雪月花",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 957128,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 535,
+          "max": 708,
+          "percentage": 75.56497175141243
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "KONNANじゃないっ！",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 953989,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1130,
+          "max": 1476,
+          "percentage": 76.55826558265582
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "BLACK ROSE",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977690,
+        "rank": "S",
+        "dxScore": {
+          "score": 1717,
+          "max": 2127,
+          "percentage": 80.72402444757874
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Ourania",
         "type": "DX",
         "difficulty": "MASTER"
@@ -5194,6 +5394,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "TRUST",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 933652,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1612,
+          "max": 2187,
+          "percentage": 73.70827617741197
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
