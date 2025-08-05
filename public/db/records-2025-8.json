@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12567,
+    "rating": 12597,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/a5c3ed540eaaee02.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 9,
-    "stars": 49,
+    "stars": 53,
     "playCount": {
-      "total": 102,
-      "current": 56
+      "total": 106,
+      "current": 60
     }
   },
   "records": [
@@ -2444,12 +2444,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 959523,
-        "rank": "AAA",
+        "achievement": 977825,
+        "rank": "S",
         "dxScore": {
-          "score": 1537,
+          "score": 1683,
           "max": 1983,
-          "percentage": 77.50882501260716
+          "percentage": 84.8714069591528
         },
         "dxRank": 0,
         "combo": null,
@@ -4658,6 +4658,26 @@
     },
     {
       "track": {
+        "title": "プラネタリウム・レヴュー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998258,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1040,
+          "max": 1164,
+          "percentage": 89.3470790378007
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ドラゴンエネルギー",
         "type": "DX",
         "difficulty": "MASTER"
@@ -4854,6 +4874,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "きゅうくらりん",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 960730,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2039,
+          "max": 2577,
+          "percentage": 79.12301125339542
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -5064,14 +5104,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 942593,
-        "rank": "AAA",
+        "achievement": 988299,
+        "rank": "S+",
         "dxScore": {
-          "score": 1232,
+          "score": 1408,
           "max": 1572,
-          "percentage": 78.37150127226464
+          "percentage": 89.56743002544529
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -5084,12 +5124,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 948277,
-        "rank": "AAA",
+        "achievement": 986256,
+        "rank": "S+",
         "dxScore": {
-          "score": 1772,
+          "score": 1933,
           "max": 2277,
-          "percentage": 77.82169521299956
+          "percentage": 84.89240228370663
         },
         "dxRank": 0,
         "combo": null,
@@ -5218,6 +5258,26 @@
     },
     {
       "track": {
+        "title": "ナイト・オブ・ナイツ (Cranky Remix)",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 964703,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2006,
+          "max": 2433,
+          "percentage": 82.44965063707357
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "解けないように",
         "type": "DX",
         "difficulty": "MASTER"
@@ -5318,6 +5378,26 @@
     },
     {
       "track": {
+        "title": "シスターシスター",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 956845,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1816,
+          "max": 2238,
+          "percentage": 81.1438784629133
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "BLACK ROSE",
         "type": "DX",
         "difficulty": "MASTER"
@@ -5370,6 +5450,46 @@
           "score": 1646,
           "max": 2160,
           "percentage": 76.20370370370371
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "福宿音屋魂音泉",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 932390,
+        "rank": "AA",
+        "dxScore": {
+          "score": 2140,
+          "max": 2613,
+          "percentage": 81.89820130118638
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ぽわわん劇場",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 946066,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1842,
+          "max": 2400,
+          "percentage": 76.75
         },
         "dxRank": 0,
         "combo": null,
