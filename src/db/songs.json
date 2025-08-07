@@ -1,5 +1,5 @@
 {
-  "chartCount": 5702,
+  "chartCount": 5718,
   "availableVersions": [
     {
       "value": 0,
@@ -16786,6 +16786,42 @@
       ]
     },
     {
+      "title": "MIRA",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "空回りライブラリ",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "お呪い",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "Pixel Galaxy",
       "type": "DX",
       "version": 24,
@@ -16794,6 +16830,18 @@
         "7",
         "9+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "ありきたりな恋の歌",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7",
+        "10",
+        "13+",
         null
       ]
     }
