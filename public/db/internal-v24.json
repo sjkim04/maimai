@@ -4272,6 +4272,12 @@
     "internalLevel": 137
   },
   {
+    "title": "MIRA",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 129
+  },
+  {
     "title": "ビビデバ",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -4290,6 +4296,12 @@
     "internalLevel": 139
   },
   {
+    "title": "空回りライブラリ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 128
+  },
+  {
     "title": "はいよろこんで",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4300,6 +4312,12 @@
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 126
+  },
+  {
+    "title": "お呪い",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 130
   },
   {
     "title": "はいよろこんで",
@@ -4318,6 +4336,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
+  },
+  {
+    "title": "ありきたりな恋の歌",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "シカ色デイズ",
@@ -4744,6 +4768,12 @@
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 117
+  },
+  {
+    "title": "ローリンガール",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 133
   },
   {
     "title": "忙シー日",

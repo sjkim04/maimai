@@ -23815,6 +23815,14 @@
     }
   },
   {
+    "title": "MIRA",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 129
+    }
+  },
+  {
     "title": "ビビデバ",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -23839,6 +23847,14 @@
     }
   },
   {
+    "title": "空回りライブラリ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 128
+    }
+  },
+  {
     "title": "はいよろこんで",
     "type": "DX",
     "difficulty": "MASTER",
@@ -23852,6 +23868,14 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "24": 126
+    }
+  },
+  {
+    "title": "お呪い",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 130
     }
   },
   {
@@ -23876,6 +23900,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 141
+    }
+  },
+  {
+    "title": "ありきたりな恋の歌",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 138
     }
   },
   {
@@ -24444,6 +24476,14 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "24": 117
+    }
+  },
+  {
+    "title": "ローリンガール",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 133
     }
   },
   {
