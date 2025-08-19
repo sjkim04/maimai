@@ -1,5 +1,5 @@
 {
-  "chartCount": 5718,
+  "chartCount": 5722,
   "availableVersions": [
     {
       "value": 0,
@@ -15834,6 +15834,18 @@
         "6",
         "11",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "有明/Ariake",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "14",
         null
       ]
     },
