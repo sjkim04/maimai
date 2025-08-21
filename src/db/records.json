@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 12782,
+    "rating": 12911,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 61,
+    "stars": 64,
     "playCount": {
-      "total": 124,
-      "current": 78
+      "total": 130,
+      "current": 84
     }
   },
   "records": [
@@ -424,14 +424,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 999229,
-        "rank": "SS+",
+        "achievement": 1006213,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1768,
+          "score": 1822,
           "max": 1998,
-          "percentage": 88.48848848848849
+          "percentage": 91.1911911911912
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
@@ -2604,15 +2604,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 895518,
-        "rank": "A",
+        "achievement": 1000421,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1310,
+          "score": 1604,
           "max": 1797,
-          "percentage": 72.89927657206455
+          "percentage": 89.259877573734
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -2644,15 +2644,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 968248,
-        "rank": "AAA",
+        "achievement": 1002713,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1557,
+          "score": 1833,
           "max": 2103,
-          "percentage": 74.03708987161198
+          "percentage": 87.16119828815977
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -3230,6 +3230,46 @@
           "score": 1343,
           "max": 1542,
           "percentage": 87.094682230869
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Fraq",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005372,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1822,
+          "max": 2031,
+          "percentage": 89.7095027080256
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ウタヒメナイトストーム",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 988561,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1465,
+          "max": 1656,
+          "percentage": 88.46618357487924
         },
         "dxRank": 1,
         "combo": null,
@@ -4098,6 +4138,26 @@
     },
     {
       "track": {
+        "title": "宙天",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983656,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1683,
+          "max": 1980,
+          "percentage": 85
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "QZKago Requiem",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -4198,6 +4258,26 @@
     },
     {
       "track": {
+        "title": "Bloody Trail",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992678,
+        "rank": "SS",
+        "dxScore": {
+          "score": 2000,
+          "max": 2325,
+          "percentage": 86.02150537634408
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Ether Second",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -4244,12 +4324,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 973802,
-        "rank": "S",
+        "achievement": 982243,
+        "rank": "S+",
         "dxScore": {
-          "score": 1929,
+          "score": 1992,
           "max": 2346,
-          "percentage": 82.22506393861893
+          "percentage": 84.91048593350384
         },
         "dxRank": 0,
         "combo": null,
@@ -4498,6 +4578,26 @@
     },
     {
       "track": {
+        "title": "Beautiful Future",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 993385,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1264,
+          "max": 1422,
+          "percentage": 88.88888888888889
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "≠彡\"/了→",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -4513,6 +4613,26 @@
         },
         "dxRank": 0,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ここからはじまるプロローグ。",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006982,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1327,
+          "max": 1431,
+          "percentage": 92.73235499650593
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
         "sync": null
       }
     },
@@ -4604,12 +4724,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 960053,
+        "achievement": 963768,
         "rank": "AAA",
         "dxScore": {
-          "score": 1700,
+          "score": 1749,
           "max": 2199,
-          "percentage": 77.30786721236926
+          "percentage": 79.53615279672579
         },
         "dxRank": 0,
         "combo": null,
@@ -4964,15 +5084,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1004064,
-        "rank": "SSS",
+        "achievement": 1009085,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1759,
+          "score": 1791,
           "max": 1947,
-          "percentage": 90.34411915767848
+          "percentage": 91.98767334360555
         },
         "dxRank": 2,
-        "combo": null,
+        "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
       }
     },
@@ -5484,12 +5604,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 997882,
-        "rank": "SS+",
+        "achievement": 1004265,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1932,
+          "score": 1953,
           "max": 2139,
-          "percentage": 90.32258064516128
+          "percentage": 91.30434782608695
         },
         "dxRank": 2,
         "combo": null,
@@ -5603,13 +5723,13 @@
         "difficulty": "MASTER"
       },
       "score": {
-        "clear": false,
-        "achievement": 799246,
-        "rank": "BBB",
+        "clear": true,
+        "achievement": 965522,
+        "rank": "AAA",
         "dxScore": {
-          "score": 1497,
+          "score": 2127,
           "max": 2637,
-          "percentage": 56.76905574516496
+          "percentage": 80.65984072810012
         },
         "dxRank": 0,
         "combo": null,
@@ -6070,6 +6190,26 @@
           "score": 2140,
           "max": 2613,
           "percentage": 81.89820130118638
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Scarlet Wings",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 966656,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1847,
+          "max": 2241,
+          "percentage": 82.4185631414547
         },
         "dxRank": 0,
         "combo": null,

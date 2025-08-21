@@ -1,5 +1,5 @@
 {
-  "chartCount": 5722,
+  "chartCount": 5726,
   "availableVersions": [
     {
       "value": 0,
@@ -11734,30 +11734,6 @@
       ]
     },
     {
-      "title": "残響散歌",
-      "type": "DX",
-      "version": 19,
-      "displayLevel": [
-        "3",
-        "6",
-        "9+",
-        "13",
-        null
-      ]
-    },
-    {
-      "title": "アノーイング！さんさんウィーク！",
-      "type": "DX",
-      "version": 19,
-      "displayLevel": [
-        "1",
-        "6",
-        "8",
-        "12+",
-        null
-      ]
-    },
-    {
       "title": "フォニイ",
       "type": "DX",
       "version": 19,
@@ -12102,18 +12078,6 @@
         "8+",
         "12",
         "14",
-        null
-      ]
-    },
-    {
-      "title": "アマカミサマ",
-      "type": "DX",
-      "version": 19,
-      "displayLevel": [
-        "3",
-        "6",
-        "9",
-        "12+",
         null
       ]
     },
@@ -16090,6 +16054,18 @@
       ]
     },
     {
+      "title": "宙天",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "6",
+        "8+",
+        "13",
+        "14+",
+        null
+      ]
+    },
+    {
       "title": "ビビデバ",
       "type": "DX",
       "version": 24,
@@ -16846,6 +16822,30 @@
       ]
     },
     {
+      "title": "少女レイ",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "少女A",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "ありきたりな恋の歌",
       "type": "DX",
       "version": 24,
@@ -16854,6 +16854,18 @@
         "7",
         "10",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "帝国少女",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9",
+        "13",
         null
       ]
     }
