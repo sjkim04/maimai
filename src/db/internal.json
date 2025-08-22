@@ -23967,6 +23967,14 @@
     }
   },
   {
+    "title": "少女レイ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 129
+    }
+  },
+  {
     "title": "メズマライザー",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -23991,6 +23999,14 @@
     }
   },
   {
+    "title": "少女A",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 133
+    }
+  },
+  {
     "title": "ももいろの鍵",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24012,6 +24028,14 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "24": 129
+    }
+  },
+  {
+    "title": "帝国少女",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 133
     }
   },
   {
