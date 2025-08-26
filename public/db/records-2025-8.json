@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13091,
+    "rating": 13131,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 73,
+    "stars": 74,
     "playCount": {
-      "total": 145,
-      "current": 99
+      "total": 149,
+      "current": 103
     }
   },
   "records": [
@@ -864,14 +864,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 977012,
-        "rank": "S",
+        "achievement": 996199,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1108,
+          "score": 1163,
           "max": 1260,
-          "percentage": 87.93650793650794
+          "percentage": 92.3015873015873
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -3064,14 +3064,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 991949,
-        "rank": "SS",
+        "achievement": 1001330,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1574,
+          "score": 1715,
           "max": 1887,
-          "percentage": 83.41282458929517
+          "percentage": 90.88500264970854
         },
-        "dxRank": 0,
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
@@ -3464,15 +3464,35 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1005151,
+        "achievement": 1005977,
         "rank": "SSS+",
         "dxScore": {
-          "score": 1419,
+          "score": 1429,
           "max": 1587,
-          "percentage": 89.413988657845
+          "percentage": 90.04410838059232
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "FLΛME/FRΦST",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991146,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1529,
+          "max": 1797,
+          "percentage": 85.08625486922648
         },
         "dxRank": 1,
-        "combo": "FULL COMBO",
+        "combo": null,
         "sync": null
       }
     },
@@ -3864,7 +3884,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1002203,
+        "achievement": 1004764,
         "rank": "SSS",
         "dxScore": {
           "score": 1752,
@@ -3872,7 +3892,7 @@
           "percentage": 89.57055214723927
         },
         "dxRank": 1,
-        "combo": "FULL COMBO",
+        "combo": "FULL COMBO+",
         "sync": null
       }
     },
@@ -4198,6 +4218,26 @@
     },
     {
       "track": {
+        "title": "Now or Never",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998519,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1719,
+          "max": 1872,
+          "percentage": 91.82692307692307
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ジングルベル",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -4364,12 +4404,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 973793,
+        "achievement": 974864,
         "rank": "S",
         "dxScore": {
-          "score": 2274,
+          "score": 2280,
           "max": 2745,
-          "percentage": 82.8415300546448
+          "percentage": 83.06010928961749
         },
         "dxRank": 0,
         "combo": null,
@@ -4524,15 +4564,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 923760,
-        "rank": "AA",
+        "achievement": 1006538,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1143,
+          "score": 1407,
           "max": 1557,
-          "percentage": 73.41040462427746
+          "percentage": 90.36608863198458
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -4730,6 +4770,26 @@
           "score": 1896,
           "max": 2274,
           "percentage": 83.37730870712402
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Sage",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991056,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1625,
+          "max": 1923,
+          "percentage": 84.5033801352054
         },
         "dxRank": 0,
         "combo": null,
@@ -5764,15 +5824,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 983637,
-        "rank": "S+",
+        "achievement": 1004091,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1864,
+          "score": 1941,
           "max": 2139,
-          "percentage": 87.1435250116877
+          "percentage": 90.74333800841514
         },
-        "dxRank": 1,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -5924,12 +5984,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 838908,
-        "rank": "A",
+        "achievement": 983885,
+        "rank": "S+",
         "dxScore": {
-          "score": 1444,
+          "score": 1960,
           "max": 2364,
-          "percentage": 61.082910321489
+          "percentage": 82.91032148900169
         },
         "dxRank": 0,
         "combo": null,
