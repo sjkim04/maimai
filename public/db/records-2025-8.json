@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13131,
+    "rating": 13149,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 74,
+    "stars": 75,
     "playCount": {
-      "total": 149,
-      "current": 103
+      "total": 152,
+      "current": 106
     }
   },
   "records": [
@@ -658,6 +658,26 @@
     },
     {
       "track": {
+        "title": "お呪い",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004542,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 862,
+          "max": 1011,
+          "percentage": 85.26211671612265
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ありきたりな恋の歌",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -673,6 +693,26 @@
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "抜錨",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002289,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1513,
+          "max": 1692,
+          "percentage": 89.42080378250591
+        },
+        "dxRank": 1,
+        "combo": null,
         "sync": null
       }
     },
@@ -1354,6 +1394,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "QUEEN",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1009151,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1401,
+          "max": 1530,
+          "percentage": 91.56862745098039
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
+        "sync": null
       }
     },
     {
@@ -3498,6 +3558,26 @@
     },
     {
       "track": {
+        "title": "IMBRUED:FLUX",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999435,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1600,
+          "max": 1734,
+          "percentage": 92.2722029988466
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "砂の函",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5478,6 +5558,26 @@
     },
     {
       "track": {
+        "title": "きゅびずむ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985090,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1919,
+          "max": 2214,
+          "percentage": 86.67570009033425
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "踊",
         "type": "DX",
         "difficulty": "MASTER"
@@ -5904,12 +6004,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 960730,
-        "rank": "AAA",
+        "achievement": 974585,
+        "rank": "S",
         "dxScore": {
-          "score": 2039,
+          "score": 2108,
           "max": 2577,
-          "percentage": 79.12301125339542
+          "percentage": 81.80054326736516
         },
         "dxRank": 0,
         "combo": null,
@@ -6052,6 +6152,46 @@
           "percentage": 85.44461003477397
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "QUEEN",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983333,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1997,
+          "max": 2331,
+          "percentage": 85.67138567138566
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "KING",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 967913,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1925,
+          "max": 2307,
+          "percentage": 83.44169917641959
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }

@@ -115,8 +115,8 @@
     "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/b4c2df0b003d74e2.png",
     "title": "ゴーゴー幽霊船",
-    "complete": false,
-    "stampCount": 9,
+    "complete": true,
+    "stampCount": 10,
     "max": 10
   },
   {
