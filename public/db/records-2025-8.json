@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13149,
+    "rating": 13176,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 75,
+    "stars": 76,
     "playCount": {
-      "total": 152,
-      "current": 106
+      "total": 156,
+      "current": 110
     }
   },
   "records": [
@@ -444,7 +444,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1006213,
+        "achievement": 1006262,
         "rank": "SSS+",
         "dxScore": {
           "score": 1822,
@@ -3584,14 +3584,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 999118,
-        "rank": "SS+",
+        "achievement": 1005388,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1307,
+          "score": 1395,
           "max": 1515,
-          "percentage": 86.27062706270627
+          "percentage": 92.07920792079209
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": null
       }
@@ -3918,6 +3918,26 @@
     },
     {
       "track": {
+        "title": "ツムギボシ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005190,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1700,
+          "max": 1878,
+          "percentage": 90.52183173588925
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Falling",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3967,11 +3987,11 @@
         "achievement": 1004764,
         "rank": "SSS",
         "dxScore": {
-          "score": 1752,
+          "score": 1768,
           "max": 1956,
-          "percentage": 89.57055214723927
+          "percentage": 90.38854805725971
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": "FULL COMBO+",
         "sync": null
       }
@@ -4647,12 +4667,12 @@
         "achievement": 1006538,
         "rank": "SSS+",
         "dxScore": {
-          "score": 1407,
+          "score": 1433,
           "max": 1557,
-          "percentage": 90.36608863198458
+          "percentage": 92.0359666024406
         },
         "dxRank": 2,
-        "combo": "FULL COMBO",
+        "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
       }
     },
@@ -5284,14 +5304,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 992950,
-        "rank": "SS",
+        "achievement": 1002704,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1667,
+          "score": 1729,
           "max": 1962,
-          "percentage": 84.96432212028542
+          "percentage": 88.12436289500509
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -5484,12 +5504,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 999876,
-        "rank": "SS+",
+        "achievement": 1003403,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1769,
+          "score": 1788,
           "max": 2004,
-          "percentage": 88.27345309381236
+          "percentage": 89.22155688622755
         },
         "dxRank": 1,
         "combo": null,
@@ -6592,6 +6612,46 @@
           "percentage": 80.98924731182797
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Halcyon",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 942425,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2422,
+          "max": 3021,
+          "percentage": 80.17212843429327
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Destr0yer",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 978773,
+        "rank": "S",
+        "dxScore": {
+          "score": 1538,
+          "max": 1806,
+          "percentage": 85.16057585825027
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
