@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13176,
+    "rating": 13202,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 76,
+    "stars": 79,
     "playCount": {
-      "total": 156,
-      "current": 110
+      "total": 160,
+      "current": 114
     }
   },
   "records": [
@@ -698,6 +698,26 @@
     },
     {
       "track": {
+        "title": "三日月ステップ 2023",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002550,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1518,
+          "max": 1677,
+          "percentage": 90.51878354203936
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "抜錨",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1294,6 +1314,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ラビットホール",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1008804,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1533,
+          "max": 1662,
+          "percentage": 92.23826714801444
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
+        "sync": "FULL SYNC DX"
       }
     },
     {
@@ -4718,6 +4758,26 @@
     },
     {
       "track": {
+        "title": "Mutation",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991642,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1653,
+          "max": 1941,
+          "percentage": 85.16228748068006
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "raputa",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5167,9 +5227,9 @@
         "achievement": 975809,
         "rank": "S",
         "dxScore": {
-          "score": 1807,
+          "score": 1835,
           "max": 2226,
-          "percentage": 81.1769991015274
+          "percentage": 82.43486073674752
         },
         "dxRank": 0,
         "combo": null,
@@ -5472,6 +5532,26 @@
           "percentage": 87.11276332094175
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "The wheel to the right",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986075,
+        "rank": "S+",
+        "dxScore": {
+          "score": 2204,
+          "max": 2616,
+          "percentage": 84.25076452599389
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -6124,15 +6204,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1004265,
-        "rank": "SSS",
+        "achievement": 1006038,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1953,
+          "score": 1967,
           "max": 2139,
-          "percentage": 91.30434782608695
+          "percentage": 91.9588592800374
         },
         "dxRank": 2,
-        "combo": null,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -6284,12 +6364,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 965522,
-        "rank": "AAA",
+        "achievement": 971563,
+        "rank": "S",
         "dxScore": {
-          "score": 2127,
+          "score": 2163,
           "max": 2637,
-          "percentage": 80.65984072810012
+          "percentage": 82.0250284414107
         },
         "dxRank": 0,
         "combo": null,
@@ -6384,16 +6464,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 986256,
-        "rank": "S+",
+        "achievement": 993448,
+        "rank": "SS",
         "dxScore": {
-          "score": 1933,
+          "score": 1960,
           "max": 2277,
-          "percentage": 84.89240228370663
+          "percentage": 86.07817303469477
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -6878,6 +6958,26 @@
     },
     {
       "track": {
+        "title": "ヨミビトシラズ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 949638,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2102,
+          "max": 2763,
+          "percentage": 76.07672819399204
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "星めぐり、果ての君へ。",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6958,6 +7058,26 @@
     },
     {
       "track": {
+        "title": "宙天",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 829062,
+        "rank": "A",
+        "dxScore": {
+          "score": 1876,
+          "max": 3174,
+          "percentage": 59.105229993698806
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "ぽわわん劇場",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6990,6 +7110,26 @@
           "score": 1384,
           "max": 2451,
           "percentage": 56.466748266013866
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "≠彡\"/了→",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 852008,
+        "rank": "A",
+        "dxScore": {
+          "score": 2230,
+          "max": 3333,
+          "percentage": 66.9066906690669
         },
         "dxRank": 0,
         "combo": null,
@@ -7104,12 +7244,12 @@
       },
       "score": {
         "clear": false,
-        "achievement": 654556,
-        "rank": "B",
+        "achievement": 778714,
+        "rank": "BBB",
         "dxScore": {
-          "score": 1458,
+          "score": 1946,
           "max": 4026,
-          "percentage": 36.214605067064085
+          "percentage": 48.3358171882762
         },
         "dxRank": 0,
         "combo": null,
