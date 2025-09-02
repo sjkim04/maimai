@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13209,
+    "rating": 13236,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/be8f9c599c7c713b.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 79,
+    "stars": 82,
     "playCount": {
-      "total": 161,
-      "current": 115
+      "total": 166,
+      "current": 120
     }
   },
   "records": [
@@ -2844,15 +2844,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1002713,
-        "rank": "SSS",
+        "achievement": 1005948,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1833,
+          "score": 1868,
           "max": 2103,
-          "percentage": 87.16119828815977
+          "percentage": 88.82548739895387
         },
         "dxRank": 1,
-        "combo": "FULL COMBO",
+        "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
       }
     },
@@ -2967,9 +2967,9 @@
         "achievement": 1007474,
         "rank": "SSS+",
         "dxScore": {
-          "score": 1754,
+          "score": 1763,
           "max": 1929,
-          "percentage": 90.92794193882841
+          "percentage": 91.39450492483152
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
@@ -3604,15 +3604,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 999435,
-        "rank": "SS+",
+        "achievement": 1004867,
+        "rank": "SSS",
         "dxScore": {
           "score": 1600,
           "max": 1734,
           "percentage": 92.2722029988466
         },
         "dxRank": 2,
-        "combo": null,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -3632,6 +3632,26 @@
           "percentage": 92.07920792079209
         },
         "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Amereistr",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992912,
+        "rank": "SS",
+        "dxScore": {
+          "score": 662,
+          "max": 789,
+          "percentage": 83.90367553865653
+        },
+        "dxRank": 0,
         "combo": "FULL COMBO",
         "sync": null
       }
@@ -4584,12 +4604,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 885011,
-        "rank": "A",
+        "achievement": 974417,
+        "rank": "S",
         "dxScore": {
-          "score": 1386,
+          "score": 1753,
           "max": 2193,
-          "percentage": 63.20109439124487
+          "percentage": 79.93616051071591
         },
         "dxRank": 0,
         "combo": null,
@@ -5224,8 +5244,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 975809,
-        "rank": "S",
+        "achievement": 984401,
+        "rank": "S+",
         "dxScore": {
           "score": 1835,
           "max": 2226,
@@ -5264,15 +5284,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1002171,
-        "rank": "SSS",
+        "achievement": 1007917,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1197,
+          "score": 1205,
           "max": 1326,
-          "percentage": 90.27149321266968
+          "percentage": 90.87481146304675
         },
         "dxRank": 2,
-        "combo": null,
+        "combo": "FULL COMBO+",
         "sync": null
       }
     },
@@ -5878,6 +5898,26 @@
     },
     {
       "track": {
+        "title": "MIRA",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977589,
+        "rank": "S",
+        "dxScore": {
+          "score": 1355,
+          "max": 1620,
+          "percentage": 83.64197530864197
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ありきたりな恋の歌",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6124,12 +6164,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 974585,
-        "rank": "S",
+        "achievement": 981662,
+        "rank": "S+",
         "dxScore": {
-          "score": 2108,
+          "score": 2125,
           "max": 2577,
-          "percentage": 81.80054326736516
+          "percentage": 82.46022506790842
         },
         "dxRank": 0,
         "combo": null,
@@ -6698,6 +6738,26 @@
     },
     {
       "track": {
+        "title": "Pixel Galaxy",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 963774,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1690,
+          "max": 2163,
+          "percentage": 78.13222376329172
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6950,6 +7010,46 @@
           "score": 1626,
           "max": 2400,
           "percentage": 67.75
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Amereistr",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 925872,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1628,
+          "max": 2214,
+          "percentage": 73.53206865401988
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "果ての空、僕らが見た光。",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 964771,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1965,
+          "max": 2460,
+          "percentage": 79.8780487804878
         },
         "dxRank": 0,
         "combo": null,
