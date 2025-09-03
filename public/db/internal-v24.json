@@ -4549,7 +4549,7 @@
   },
   {
     "title": "AFTER PANDORA",
-    "type": "DX",
+    "type": "Standard",
     "difficulty": "EXPERT",
     "internalLevel": 125
   },
@@ -4602,6 +4602,12 @@
     "internalLevel": 130
   },
   {
+    "title": "Ref:rain (for 7th Heaven)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 140
+  },
+  {
     "title": "ATLAS RUSH",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4612,6 +4618,12 @@
     "type": "DX",
     "difficulty": "Re:MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "Ref:rain (for 7th Heaven)",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 125
   },
   {
     "title": "Fraq",
@@ -4632,12 +4644,6 @@
     "internalLevel": 133
   },
   {
-    "title": "crazy (about you)",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 138
-  },
-  {
     "title": "Fraq",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -4645,12 +4651,6 @@
   },
   {
     "title": "ホラフキパペット",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 136
-  },
-  {
-    "title": "Drivessover",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 136
@@ -4668,10 +4668,10 @@
     "internalLevel": 137
   },
   {
-    "title": "Drivessover",
+    "title": "crazy (about you)",
     "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 122
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "あいたい星人",
@@ -4686,19 +4686,25 @@
     "internalLevel": 138
   },
   {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
+  },
+  {
     "title": "ハオ",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 132
   },
   {
-    "title": "Feel The Luv",
+    "title": "Drivessover",
     "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 138
+    "difficulty": "EXPERT",
+    "internalLevel": 122
   },
   {
-    "title": "Tidal Wave",
+    "title": "Feel The Luv",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
@@ -4708,12 +4714,6 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 135
-  },
-  {
-    "title": "Tidal Wave",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 123
   },
   {
     "title": "好きな惣菜発表ドラゴン",
@@ -4728,6 +4728,12 @@
     "internalLevel": 130
   },
   {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "Zitronectar",
     "type": "DX",
     "difficulty": "MASTER",
@@ -4740,28 +4746,22 @@
     "internalLevel": 138
   },
   {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 123
+  },
+  {
     "title": "Zitronectar",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 120
   },
   {
-    "title": "∀",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 142
-  },
-  {
     "title": "概して過誤",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
-  },
-  {
-    "title": "Pixel Galaxy",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 131
   },
   {
     "title": "Unfinished Epic",
@@ -4776,22 +4776,28 @@
     "internalLevel": 137
   },
   {
+    "title": "∀",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 142
+  },
+  {
     "title": "Supersonic Generation",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
   },
   {
+    "title": "Pixel Galaxy",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 131
+  },
+  {
     "title": "Supersonic Generation",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 117
-  },
-  {
-    "title": "ローリンガール",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 133
   },
   {
     "title": "忙シー日",
@@ -4801,6 +4807,12 @@
   },
   {
     "title": "Endless, Sleepless Night",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 133
+  },
+  {
+    "title": "ローリンガール",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 133

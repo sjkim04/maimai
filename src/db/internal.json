@@ -24184,7 +24184,7 @@
   },
   {
     "title": "AFTER PANDORA",
-    "type": "DX",
+    "type": "Standard",
     "difficulty": "EXPERT",
     "internalLevel": {
       "24": 125
@@ -24255,6 +24255,14 @@
     }
   },
   {
+    "title": "Ref:rain (for 7th Heaven)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 140
+    }
+  },
+  {
     "title": "ATLAS RUSH",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24268,6 +24276,14 @@
     "difficulty": "Re:MASTER",
     "internalLevel": {
       "24": 137
+    }
+  },
+  {
+    "title": "Ref:rain (for 7th Heaven)",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 125
     }
   },
   {
@@ -24295,14 +24311,6 @@
     }
   },
   {
-    "title": "crazy (about you)",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "24": 138
-    }
-  },
-  {
     "title": "Fraq",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -24312,14 +24320,6 @@
   },
   {
     "title": "ホラフキパペット",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "24": 136
-    }
-  },
-  {
-    "title": "Drivessover",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
@@ -24343,11 +24343,11 @@
     }
   },
   {
-    "title": "Drivessover",
+    "title": "crazy (about you)",
     "type": "DX",
-    "difficulty": "EXPERT",
+    "difficulty": "MASTER",
     "internalLevel": {
-      "24": 122
+      "24": 138
     }
   },
   {
@@ -24367,6 +24367,14 @@
     }
   },
   {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 136
+    }
+  },
+  {
     "title": "ハオ",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24375,15 +24383,15 @@
     }
   },
   {
-    "title": "Feel The Luv",
+    "title": "Drivessover",
     "type": "DX",
-    "difficulty": "MASTER",
+    "difficulty": "EXPERT",
     "internalLevel": {
-      "24": 138
+      "24": 122
     }
   },
   {
-    "title": "Tidal Wave",
+    "title": "Feel The Luv",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
@@ -24396,14 +24404,6 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 135
-    }
-  },
-  {
-    "title": "Tidal Wave",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": {
-      "24": 123
     }
   },
   {
@@ -24423,6 +24423,14 @@
     }
   },
   {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 138
+    }
+  },
+  {
     "title": "Zitronectar",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24439,6 +24447,14 @@
     }
   },
   {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 123
+    }
+  },
+  {
     "title": "Zitronectar",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -24447,27 +24463,11 @@
     }
   },
   {
-    "title": "∀",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "24": 142
-    }
-  },
-  {
     "title": "概して過誤",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 137
-    }
-  },
-  {
-    "title": "Pixel Galaxy",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "24": 131
     }
   },
   {
@@ -24487,6 +24487,14 @@
     }
   },
   {
+    "title": "∀",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 142
+    }
+  },
+  {
     "title": "Supersonic Generation",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24495,19 +24503,19 @@
     }
   },
   {
+    "title": "Pixel Galaxy",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 131
+    }
+  },
+  {
     "title": "Supersonic Generation",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": {
       "24": 117
-    }
-  },
-  {
-    "title": "ローリンガール",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "24": 133
     }
   },
   {
@@ -24520,6 +24528,14 @@
   },
   {
     "title": "Endless, Sleepless Night",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 133
+    }
+  },
+  {
+    "title": "ローリンガール",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {

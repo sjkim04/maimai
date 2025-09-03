@@ -145,6 +145,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "AFTER PANDORA",
+      "artist": "削除",
+      "jacketKey": "337975e1e775a059",
+      "chartTypeCount": 1
+    },
+    {
       "title": "Agitation！",
       "artist": "舞ヶ原高校軽音部",
       "jacketKey": "4d22545493b5a4e0",
@@ -406,7 +412,7 @@
       "title": "Believe the Rainbow",
       "artist": "Shoichiro Hirata feat.Sana",
       "jacketKey": "8cba62be80c4af2d",
-      "chartTypeCount": 1
+      "chartTypeCount": 2
     },
     {
       "title": "BETTER CHOICE",
@@ -2779,6 +2785,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "Ref:rain (for 7th Heaven)",
+      "artist": "カモメサノエレクトリックオーケストラ include Limonène",
+      "jacketKey": "3012b0903feb6e15",
+      "chartTypeCount": 1
+    },
+    {
       "title": "Regulus",
       "artist": "お月さま交響曲",
       "jacketKey": "f340a4081d9c66d7",
@@ -3667,6 +3679,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "World's end BLACKBOX",
+      "artist": "打打だいず",
+      "jacketKey": "4f8dd5d9c721b249",
+      "chartTypeCount": 1
+    },
+    {
       "title": "World's end loneliness",
       "artist": "打打だいず",
       "jacketKey": "e341ba3d5adb60dd",
@@ -3676,6 +3694,12 @@
       "title": "WORLD'S END UMBRELLA",
       "artist": "ハチ",
       "jacketKey": "e0f1089623f573d3",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "Xaleid◆scopiX",
+      "artist": "xi",
+      "jacketKey": "7bf12d9c7382a32c",
       "chartTypeCount": 1
     },
     {
@@ -5776,7 +5800,7 @@
       "title": "プリズム△▽リズム",
       "artist": "Shoichiro Hirata feat.Sana",
       "jacketKey": "0357191a14ae5114",
-      "chartTypeCount": 1
+      "chartTypeCount": 2
     },
     {
       "title": "ブレインジャックシンドローム",

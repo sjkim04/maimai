@@ -1,5 +1,5 @@
 {
-  "chartCount": 5734,
+  "chartCount": 5759,
   "availableVersions": [
     {
       "value": 0,
@@ -16714,6 +16714,18 @@
       ]
     },
     {
+      "title": "World's end BLACKBOX",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "7+",
+        "10",
+        "13",
+        "14+",
+        null
+      ]
+    },
+    {
       "title": "サウンドプレイヤー",
       "type": "DX",
       "version": 24,
@@ -16734,6 +16746,66 @@
         "7",
         "10+",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "プリズム△▽リズム",
+      "type": "Standard",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "6",
+        "9",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Believe the Rainbow",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "AFTER PANDORA",
+      "type": "Standard",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7+",
+        "12",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "Xaleid◆scopiX",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "7+",
+        "11",
+        "13+",
+        "14+",
+        "15"
+      ]
+    },
+    {
+      "title": "Ref:rain (for 7th Heaven)",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "8",
+        "12",
+        "14",
         null
       ]
     },
