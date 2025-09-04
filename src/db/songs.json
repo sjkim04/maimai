@@ -1,5 +1,5 @@
 {
-  "chartCount": 5759,
+  "chartCount": 5775,
   "availableVersions": [
     {
       "value": 0,
@@ -16954,6 +16954,18 @@
       ]
     },
     {
+      "title": "Luminescence",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
       "title": "帝国少女",
       "type": "DX",
       "version": 24,
@@ -16962,6 +16974,42 @@
         "6",
         "9",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "NO ONE YES MAN",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7+",
+        "12",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Leave All Behind",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Retribution ～ Cycle of Redemption ～",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "6",
+        "8",
+        "13",
+        "14",
         null
       ]
     }
