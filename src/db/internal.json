@@ -24095,6 +24095,14 @@
     }
   },
   {
+    "title": "NO ONE YES MAN",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 139
+    }
+  },
+  {
     "title": "Idoratrize World",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24127,6 +24135,14 @@
     }
   },
   {
+    "title": "NO ONE YES MAN",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 120
+    }
+  },
+  {
     "title": "Synthesis.",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24156,6 +24172,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "24": 130
+    }
+  },
+  {
+    "title": "Luminescence",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 138
     }
   },
   {
@@ -24207,6 +24231,14 @@
     }
   },
   {
+    "title": "Leave All Behind",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 138
+    }
+  },
+  {
     "title": "きゅびびびびずむ",
     "type": "DX",
     "difficulty": "MASTER",
@@ -24231,6 +24263,14 @@
     }
   },
   {
+    "title": "Retribution 〜 Cycle of Redemption 〜",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "24": 144
+    }
+  },
+  {
     "title": "きゅびびびびずむ",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -24244,6 +24284,14 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "24": 137
+    }
+  },
+  {
+    "title": "Retribution 〜 Cycle of Redemption 〜",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "24": 130
     }
   },
   {
