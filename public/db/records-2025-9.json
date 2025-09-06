@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13314,
+    "rating": 13323,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 10,
     "stars": 82,
     "playCount": {
-      "total": 174,
-      "current": 128
+      "total": 175,
+      "current": 129
     }
   },
   "records": [
@@ -5453,7 +5453,7 @@
         },
         "dxRank": 0,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -6244,16 +6244,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 983140,
-        "rank": "S+",
+        "achievement": 999685,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1582,
+          "score": 1708,
           "max": 1902,
-          "percentage": 83.17560462670873
+          "percentage": 89.80021030494217
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -6974,6 +6974,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ENERGY SYNERGY MATRIX",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 959217,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2197,
+          "max": 2580,
+          "percentage": 85.15503875968993
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
