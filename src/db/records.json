@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13323,
+    "rating": 13329,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 82,
+    "stars": 83,
     "playCount": {
-      "total": 175,
-      "current": 129
+      "total": 176,
+      "current": 130
     }
   },
   "records": [
@@ -5498,6 +5498,26 @@
     },
     {
       "track": {
+        "title": "Drivessover",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004486,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1526,
+          "max": 1695,
+          "percentage": 90.02949852507375
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": "FULL SYNC+"
+      }
+    },
+    {
+      "track": {
         "title": "Lover's Trick",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5953,6 +5973,26 @@
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "INTERNET OVERDOSE",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 956049,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2021,
+          "max": 2466,
+          "percentage": 81.95458231954582
+        },
+        "dxRank": 0,
+        "combo": null,
         "sync": "SYNC PLAY"
       }
     },
@@ -6978,6 +7018,26 @@
     },
     {
       "track": {
+        "title": "NO ONE YES MAN",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 871300,
+        "rank": "A",
+        "dxScore": {
+          "score": 1725,
+          "max": 2481,
+          "percentage": 69.52841596130592
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "ENERGY SYNERGY MATRIX",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7614,6 +7674,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "QZKago Requiem",
+        "type": "Standard",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 790672,
+        "rank": "BBB",
+        "dxScore": {
+          "score": 1859,
+          "max": 3543,
+          "percentage": 52.46965848151284
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
