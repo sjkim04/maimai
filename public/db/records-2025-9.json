@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13329,
+    "rating": 13335,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 10,
     "stars": 83,
     "playCount": {
-      "total": 176,
-      "current": 130
+      "total": 177,
+      "current": 131
     }
   },
   "records": [
@@ -253,6 +253,26 @@
         },
         "dxRank": 0,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "World's end BLACKBOX",
+        "type": "DX",
+        "difficulty": "ADVANCED"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002604,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1693,
+          "max": 1920,
+          "percentage": 88.17708333333333
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -2278,6 +2298,26 @@
     },
     {
       "track": {
+        "title": "Luminescence",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998049,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1593,
+          "max": 1734,
+          "percentage": 91.86851211072664
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "∀",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3304,12 +3344,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 891648,
-        "rank": "A",
+        "achievement": 982446,
+        "rank": "S+",
         "dxScore": {
-          "score": 654,
+          "score": 824,
           "max": 1038,
-          "percentage": 63.005780346820806
+          "percentage": 79.38342967244701
         },
         "dxRank": 0,
         "combo": null,
