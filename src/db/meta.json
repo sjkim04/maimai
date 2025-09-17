@@ -265,6 +265,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "ATLAS RUSH",
+      "artist": "kanone",
+      "jacketKey": "499800c520a31d54",
+      "chartTypeCount": 1
+    },
+    {
       "title": "awake",
       "artist": "下田麻美「Shining・Force CROSS ELYSION」",
       "jacketKey": "a72c9e1c55872eee",
@@ -547,6 +553,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "Bring it on",
+      "artist": "ROF-MAO",
+      "jacketKey": "363781207ec5dea8",
+      "chartTypeCount": 1
+    },
+    {
       "title": "BULK UP (GAME EXCLUSIVE EDIT)",
       "artist": "USAO & Yuta Imai",
       "jacketKey": "bde3cd8df3f6d7e5",
@@ -646,6 +658,12 @@
       "title": "Cider P@rty",
       "artist": "Ryo Fukuda",
       "jacketKey": "4839dab189ca43a1",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "CiRCLE CAMPAiGN",
+      "artist": "サツキ feat.天音かなた",
+      "jacketKey": "ec439357b2e17145",
       "chartTypeCount": 1
     },
     {
@@ -844,6 +862,12 @@
       "title": "DATAERR0R",
       "artist": "Cosmograph",
       "jacketKey": "e3da5b1f49b33f3b",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "Dazzle hop",
+      "artist": "Sampling Masters MEGA",
+      "jacketKey": "7e0a656d5b1753ac",
       "chartTypeCount": 1
     },
     {
@@ -1096,6 +1120,12 @@
       "title": "Ether Strike",
       "artist": "Akira Complex",
       "jacketKey": "e4d70ce31ee28a9c",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "Eureka",
+      "artist": "sasakure.UK × ArmyTom (w/z Bitplane)",
+      "jacketKey": "86c38e2cb81ac90a",
       "chartTypeCount": 1
     },
     {
@@ -2095,6 +2125,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "Magical Paradox",
+      "artist": "Mr.Asyu",
+      "jacketKey": "0ede230a97b6cb70",
+      "chartTypeCount": 1
+    },
+    {
       "title": "Magical Sound Shower",
       "artist": "HIRO/曲者P",
       "jacketKey": "6d2d8af2a09b4d64",
@@ -2518,6 +2554,12 @@
       "title": "Outlaw's Lullaby",
       "artist": "「龍が如く２」",
       "jacketKey": "d54f61d4d4db472a",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "Overdose",
+      "artist": "なとり",
+      "jacketKey": "490b7b799906ed51",
       "chartTypeCount": 1
     },
     {
@@ -3523,6 +3565,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "Unwelcome School",
+      "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+      "jacketKey": "ba639bf8d279f397",
+      "chartTypeCount": 1
+    },
+    {
       "title": "Upshift",
       "artist": "s-don as Iriss-Frantzz",
       "jacketKey": "eb74d1c6089d56de",
@@ -4031,6 +4079,12 @@
       "artist": "みきとP",
       "jacketKey": "b21cc578793a6938",
       "chartTypeCount": 2
+    },
+    {
+      "title": "イーヴィルガール",
+      "artist": "Fushi feat.吉乃",
+      "jacketKey": "c74cbc076d38f358",
+      "chartTypeCount": 1
     },
     {
       "title": "イアイア★ナイトオブデザイア",
@@ -4663,6 +4717,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "サイエンス",
+      "artist": "MIMI",
+      "jacketKey": "6ceb98c44af7be68",
+      "chartTypeCount": 1
+    },
+    {
       "title": "サイバーサンダーサイダー",
       "artist": "EZFG",
       "jacketKey": "8489c52144bb8be5",
@@ -5110,7 +5170,7 @@
       "title": "チルノのパーフェクトさんすう教室",
       "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
       "jacketKey": "d44aee5f4b660d3d",
-      "chartTypeCount": 1
+      "chartTypeCount": 2
     },
     {
       "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
@@ -5194,6 +5254,12 @@
       "title": "デッドレッドガールズ",
       "artist": "MARUDARUMA",
       "jacketKey": "3f2e914b4c289b9f",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "jacketKey": "9bba8b74ff4eab24",
       "chartTypeCount": 1
     },
     {
@@ -5329,6 +5395,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "どんぐりGAME",
+      "artist": "こっちのけんと",
+      "jacketKey": "397c8b650c3db2a1",
+      "chartTypeCount": 1
+    },
+    {
       "title": "トンデモワンダーズ",
       "artist": "sasakure.UK",
       "jacketKey": "6f1f4f9f62ca793b",
@@ -5410,6 +5482,12 @@
       "title": "にゃーにゃー冒険譚",
       "artist": "黒魔",
       "jacketKey": "2ee0ae1e83c28ce3",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "ニルヴの心臓",
+      "artist": "TJ.hangneil + Atomic Sphere feat.Annabel",
+      "jacketKey": "55313d58f6159663",
       "chartTypeCount": 1
     },
     {
@@ -6109,6 +6187,12 @@
       "chartTypeCount": 2
     },
     {
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "jacketKey": "fe60aa61adb158a1",
+      "chartTypeCount": 1
+    },
+    {
       "title": "もぺもぺ",
       "artist": "LeaF & Optie",
       "jacketKey": "17f033608e0332dd",
@@ -6697,6 +6781,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "君だったから",
+      "artist": "中野家の五つ子",
+      "jacketKey": "b95814169c410966",
+      "chartTypeCount": 1
+    },
+    {
       "title": "吾輩よ猫であれ",
       "artist": "Lyrical Lily",
       "jacketKey": "f7241520f3525b18",
@@ -7069,6 +7159,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "彩りキャンバス",
+      "artist": "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」",
+      "jacketKey": "b13a68ee8c85a999",
+      "chartTypeCount": 1
+    },
+    {
       "title": "待チ人ハ来ズ。",
       "artist": "豚乙女",
       "jacketKey": "7a7caebb5d771176",
@@ -7303,6 +7399,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "有頂天ドリーマーズ",
+      "artist": "森羅万象",
+      "jacketKey": "0448563f0cb284ef",
+      "chartTypeCount": 1
+    },
+    {
       "title": "木彫り鯰と右肩ゾンビ",
       "artist": "hanzo/赤飯歌唱Ver",
       "jacketKey": "caa90ebabef5e041",
@@ -7369,9 +7471,21 @@
       "chartTypeCount": 1
     },
     {
+      "title": "死ぬな！",
+      "artist": "こっちのけんと",
+      "jacketKey": "e2789c6199c34f12",
+      "chartTypeCount": 1
+    },
+    {
       "title": "残響散歌",
       "artist": "Aimer",
       "jacketKey": "61c0db523498c4a5",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "殿ッ！？ご乱心！？",
+      "artist": "Shu feat. 天羽しろっぷ",
+      "jacketKey": "8b1d4ada02babe00",
       "chartTypeCount": 1
     },
     {

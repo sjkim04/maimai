@@ -1,10 +1,18 @@
 [
   {
     "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/c12eadfdf75586f2.png",
+    "title": "シフォン（さーくる）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/cd945e179d7db533.png",
     "title": "みるく（ぷりずむ）",
     "complete": false,
-    "stampCount": 4,
+    "stampCount": 5,
     "max": 10
   },
   {
@@ -113,6 +121,14 @@
   },
   {
     "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/d44aee5f4b660d3d.png",
+    "title": "チルノのパーフェクトさんすう教室",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/b4c2df0b003d74e2.png",
     "title": "ゴーゴー幽霊船",
     "complete": true,
@@ -128,28 +144,20 @@
     "max": 10
   },
   {
-    "type": "music",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Music/8e3cad1f597c0558.png",
-    "title": "One Step Ahead",
-    "complete": true,
-    "stampCount": 10,
-    "max": 10
+    "type": "icon",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Icon/a9dc639d3b536d5e.png",
+    "title": "CiRCLE",
+    "complete": false,
+    "stampCount": 0,
+    "max": 5
   },
   {
-    "type": "music",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Music/c095520ef94c76bb.png",
-    "title": "天狗の落とし文 feat. ｙｔｒ",
+    "type": "nameplate",
+    "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/a42d03bf82bb3eea.png",
+    "title": "はっぴー（さーくる）",
     "complete": false,
     "stampCount": 0,
     "max": 10
-  },
-  {
-    "type": "icon",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Icon/bf95231e5e4c1a0f.png",
-    "title": "PRiSM",
-    "complete": true,
-    "stampCount": 5,
-    "max": 5
   },
   {
     "type": "nameplate",
@@ -168,9 +176,9 @@
     "max": 10
   },
   {
-    "type": "nameplate",
-    "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/527ee5fc6fe14c16.png",
-    "title": "QuiQ",
+    "type": "frame",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Frame/0e370848ca41cdd7.png",
+    "title": "ATLAS RUSH",
     "complete": false,
     "stampCount": 0,
     "max": 10
@@ -179,14 +187,6 @@
     "type": "frame",
     "image": "https://maimaidx.jp/maimai-mobile/img/Frame/1c2adf82c32b1428.png",
     "title": "Cryptarithm",
-    "complete": true,
-    "stampCount": 10,
-    "max": 10
-  },
-  {
-    "type": "frame",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Frame/f831f03b2521becc.png",
-    "title": "Valsqotch",
     "complete": true,
     "stampCount": 10,
     "max": 10

@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13335,
+    "rating": 13339,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 10,
-    "stars": 83,
+    "stars": 85,
     "playCount": {
-      "total": 177,
-      "current": 131
+      "total": 179,
+      "current": 0
     }
   },
   "records": [
@@ -258,26 +258,6 @@
     },
     {
       "track": {
-        "title": "World's end BLACKBOX",
-        "type": "DX",
-        "difficulty": "ADVANCED"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002604,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1693,
-          "max": 1920,
-          "percentage": 88.17708333333333
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "雨露霜雪",
         "type": "DX",
         "difficulty": "ADVANCED"
@@ -290,26 +270,6 @@
           "score": 1420,
           "max": 1596,
           "percentage": 88.97243107769424
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "宙天",
-        "type": "DX",
-        "difficulty": "ADVANCED"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 994838,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1241,
-          "max": 1434,
-          "percentage": 86.54114365411436
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
@@ -378,6 +338,46 @@
     },
     {
       "track": {
+        "title": "宙天",
+        "type": "DX",
+        "difficulty": "ADVANCED"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 994838,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1241,
+          "max": 1434,
+          "percentage": 86.54114365411436
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "World's end BLACKBOX",
+        "type": "DX",
+        "difficulty": "ADVANCED"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002604,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1693,
+          "max": 1920,
+          "percentage": 88.17708333333333
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "MEGATON BLAST",
         "type": "DX",
         "difficulty": "ADVANCED"
@@ -438,6 +438,26 @@
     },
     {
       "track": {
+        "title": "阿修羅ちゃん",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000334,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1332,
+          "max": 1458,
+          "percentage": 91.35802469135803
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "BlackFlagBreaker!!",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -458,6 +478,26 @@
     },
     {
       "track": {
+        "title": "だから僕は音楽を辞めた",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 996495,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 856,
+          "max": 1005,
+          "percentage": 85.17412935323382
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "シカ色デイズ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -474,66 +514,6 @@
         "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "きゅびずむ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1004897,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1260,
-          "max": 1407,
-          "percentage": 89.55223880597015
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "きゅびびびびずむ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1006262,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1822,
-          "max": 1998,
-          "percentage": 91.1911911911912
-        },
-        "dxRank": 2,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "阿修羅ちゃん",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1000334,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1332,
-          "max": 1458,
-          "percentage": 91.35802469135803
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
       }
     },
     {
@@ -578,22 +558,42 @@
     },
     {
       "track": {
-        "title": "だから僕は音楽を辞めた",
+        "title": "きゅびずむ",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 996495,
-        "rank": "SS+",
+        "achievement": 1004897,
+        "rank": "SSS",
         "dxScore": {
-          "score": 856,
-          "max": 1005,
-          "percentage": 85.17412935323382
+          "score": 1260,
+          "max": 1407,
+          "percentage": 89.55223880597015
         },
         "dxRank": 1,
         "combo": null,
-        "sync": "SYNC PLAY"
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "きゅびびびびずむ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006262,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1822,
+          "max": 1998,
+          "percentage": 91.1911911911912
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -698,162 +698,22 @@
     },
     {
       "track": {
-        "title": "帝国少女",
+        "title": "オーバーライド",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 1004903,
+        "achievement": 1000990,
         "rank": "SSS",
         "dxScore": {
-          "score": 1038,
-          "max": 1167,
-          "percentage": 88.94601542416453
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "お呪い",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1004542,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 862,
-          "max": 1011,
-          "percentage": 85.26211671612265
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ありきたりな恋の歌",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1006324,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1565,
-          "max": 1731,
-          "percentage": 90.41016753321779
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "三日月ステップ 2023",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002550,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1518,
-          "max": 1677,
-          "percentage": 90.51878354203936
-        },
-        "dxRank": 2,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "抜錨",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002289,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1513,
-          "max": 1692,
-          "percentage": 89.42080378250591
+          "score": 1476,
+          "max": 1713,
+          "percentage": 86.1646234676007
         },
         "dxRank": 1,
         "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "好きな惣菜発表ドラゴン",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1006462,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 947,
-          "max": 1062,
-          "percentage": 89.1713747645951
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ハオ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1005805,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1369,
-          "max": 1506,
-          "percentage": 90.90305444887117
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ももいろの鍵",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1008940,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1107,
-          "max": 1188,
-          "percentage": 93.18181818181817
-        },
-        "dxRank": 3,
-        "combo": "FULL COMBO+",
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -878,140 +738,20 @@
     },
     {
       "track": {
-        "title": "ゆりかご",
+        "title": "きゅうくらりん",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 999434,
-        "rank": "SS+",
+        "achievement": 983769,
+        "rank": "S+",
         "dxScore": {
-          "score": 863,
-          "max": 1029,
-          "percentage": 83.86783284742468
+          "score": 1541,
+          "max": 1890,
+          "percentage": 81.53439153439153
         },
         "dxRank": 0,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "月光",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1003560,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1723,
-          "max": 1923,
-          "percentage": 89.59958398335934
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "トンデモワンダーズ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002208,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1258,
-          "max": 1371,
-          "percentage": 91.75784099197666
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "てらてら",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 995336,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 1333,
-          "max": 1584,
-          "percentage": 84.15404040404042
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "バグ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 992976,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1558,
-          "max": 1854,
-          "percentage": 84.03451995685005
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "人マニア",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 996199,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 1163,
-          "max": 1260,
-          "percentage": 92.3015873015873
-        },
-        "dxRank": 2,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "イガク",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1001430,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1423,
-          "max": 1560,
-          "percentage": 91.21794871794872
-        },
-        "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -1078,22 +818,122 @@
     },
     {
       "track": {
-        "title": "きゅうくらりん",
+        "title": "人マニア",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 983769,
-        "rank": "S+",
+        "achievement": 996199,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1541,
-          "max": 1890,
-          "percentage": 81.53439153439153
+          "score": 1163,
+          "max": 1260,
+          "percentage": 92.3015873015873
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "イガク",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1001430,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1423,
+          "max": 1560,
+          "percentage": 91.21794871794872
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ももいろの鍵",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1008940,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1107,
+          "max": 1188,
+          "percentage": 93.18181818181817
+        },
+        "dxRank": 3,
+        "combo": "FULL COMBO+",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "トンデモワンダーズ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002208,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1258,
+          "max": 1371,
+          "percentage": 91.75784099197666
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "てらてら",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995336,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1333,
+          "max": 1584,
+          "percentage": 84.15404040404042
         },
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "バグ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992976,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1558,
+          "max": 1854,
+          "percentage": 84.03451995685005
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -1134,6 +974,146 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "帝国少女",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004903,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1038,
+          "max": 1167,
+          "percentage": 88.94601542416453
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "お呪い",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004542,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 862,
+          "max": 1011,
+          "percentage": 85.26211671612265
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ありきたりな恋の歌",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006324,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1565,
+          "max": 1731,
+          "percentage": 90.41016753321779
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "抜錨",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002289,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1513,
+          "max": 1692,
+          "percentage": 89.42080378250591
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006462,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 947,
+          "max": 1062,
+          "percentage": 89.1713747645951
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ゆりかご",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999434,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 863,
+          "max": 1029,
+          "percentage": 83.86783284742468
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "月光",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003560,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1723,
+          "max": 1923,
+          "percentage": 89.59958398335934
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -1218,162 +1198,22 @@
     },
     {
       "track": {
-        "title": "転生林檎",
+        "title": "ハオ",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 1004193,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1277,
-          "max": 1419,
-          "percentage": 89.99295278365047
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "匿名M",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1006741,
+        "achievement": 1005805,
         "rank": "SSS+",
         "dxScore": {
-          "score": 1319,
-          "max": 1425,
-          "percentage": 92.56140350877193
+          "score": 1369,
+          "max": 1506,
+          "percentage": 90.90305444887117
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "神っぽいな",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1005352,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 867,
-          "max": 972,
-          "percentage": 89.19753086419753
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "魔法少女とチョコレゐト",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 969343,
-        "rank": "AAA",
-        "dxScore": {
-          "score": 811,
-          "max": 1110,
-          "percentage": 73.06306306306305
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "アルティメットセンパイ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 959203,
-        "rank": "AAA",
-        "dxScore": {
-          "score": 1056,
-          "max": 1272,
-          "percentage": 83.01886792452831
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "頓珍漢の宴",
-        "type": "Standard",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 945500,
-        "rank": "AAA",
-        "dxScore": {
-          "score": 1431,
-          "max": 1923,
-          "percentage": 74.41497659906396
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "すろぉもぉしょん",
-        "type": "Standard",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002993,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1191,
-          "max": 1419,
-          "percentage": 83.93234672304439
-        },
-        "dxRank": 0,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "腐れ外道とチョコレゐト",
-        "type": "Standard",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 895508,
-        "rank": "A",
-        "dxScore": {
-          "score": 1020,
-          "max": 1455,
-          "percentage": 70.10309278350515
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
       }
     },
     {
@@ -1558,26 +1398,6 @@
     },
     {
       "track": {
-        "title": "ジャンキーナイトタウンオーケストラ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 986318,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1319,
-          "max": 1569,
-          "percentage": 84.06628425748885
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
         "title": "ライアーダンサー",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1598,18 +1418,58 @@
     },
     {
       "track": {
-        "title": "snooze",
+        "title": "初音ミクの激唱",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 970602,
+        "rank": "S",
+        "dxScore": {
+          "score": 1252,
+          "max": 1689,
+          "percentage": 74.12670219064536
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "初音ミクの消失",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 984139,
-        "rank": "S+",
+        "achievement": 1002265,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1541,
-          "max": 1848,
-          "percentage": 83.38744588744589
+          "score": 1628,
+          "max": 1920,
+          "percentage": 84.79166666666667
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "初音ミクの消失",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990571,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1511,
+          "max": 1899,
+          "percentage": 79.56819378620327
         },
         "dxRank": 0,
         "combo": null,
@@ -1618,22 +1478,222 @@
     },
     {
       "track": {
-        "title": "ワールドワイドワンダー",
+        "title": "転生林檎",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 986851,
-        "rank": "S+",
+        "achievement": 1004193,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1241,
-          "max": 1464,
-          "percentage": 84.76775956284153
+          "score": 1277,
+          "max": 1419,
+          "percentage": 89.99295278365047
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "匿名M",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006741,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1319,
+          "max": 1425,
+          "percentage": 92.56140350877193
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "神っぽいな",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005352,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 867,
+          "max": 972,
+          "percentage": 89.19753086419753
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "魔法少女とチョコレゐト",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 969343,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 811,
+          "max": 1110,
+          "percentage": 73.06306306306305
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "アルティメットセンパイ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 959203,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1056,
+          "max": 1272,
+          "percentage": 83.01886792452831
         },
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "頓珍漢の宴",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 945500,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1431,
+          "max": 1923,
+          "percentage": 74.41497659906396
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "すろぉもぉしょん",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002993,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1191,
+          "max": 1419,
+          "percentage": 83.93234672304439
+        },
+        "dxRank": 0,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "腐れ外道とチョコレゐト",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 895508,
+        "rank": "A",
+        "dxScore": {
+          "score": 1020,
+          "max": 1455,
+          "percentage": 70.10309278350515
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ジャンキーナイトタウンオーケストラ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986318,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1319,
+          "max": 1569,
+          "percentage": 84.06628425748885
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "三日月ステップ 2023",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002550,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1518,
+          "max": 1677,
+          "percentage": 90.51878354203936
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "シャルル",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 996830,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1005,
+          "max": 1155,
+          "percentage": 87.01298701298701
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -1650,86 +1710,6 @@
           "score": 1379,
           "max": 1620,
           "percentage": 85.12345679012346
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "エイプリルスター",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 985149,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1452,
-          "max": 1722,
-          "percentage": 84.3205574912892
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "オーバーライド",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1000990,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1476,
-          "max": 1713,
-          "percentage": 86.1646234676007
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "新人類",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 984896,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1542,
-          "max": 1836,
-          "percentage": 83.98692810457517
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "おくすり飲んで寝よう",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002520,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1170,
-          "max": 1311,
-          "percentage": 89.24485125858124
         },
         "dxRank": 1,
         "combo": null,
@@ -1798,66 +1778,6 @@
     },
     {
       "track": {
-        "title": "初音ミクの激唱",
-        "type": "Standard",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 970602,
-        "rank": "S",
-        "dxScore": {
-          "score": 1252,
-          "max": 1689,
-          "percentage": 74.12670219064536
-        },
-        "dxRank": 0,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "初音ミクの消失",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002265,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1628,
-          "max": 1920,
-          "percentage": 84.79166666666667
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "初音ミクの消失",
-        "type": "Standard",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 990571,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1511,
-          "max": 1899,
-          "percentage": 79.56819378620327
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "キャットラビング",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -1870,6 +1790,86 @@
           "score": 943,
           "max": 1104,
           "percentage": 85.41666666666666
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "snooze",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984139,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1541,
+          "max": 1848,
+          "percentage": 83.38744588744589
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ワールドワイドワンダー",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986851,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1241,
+          "max": 1464,
+          "percentage": 84.76775956284153
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "新人類",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984896,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1542,
+          "max": 1836,
+          "percentage": 83.98692810457517
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "おくすり飲んで寝よう",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002520,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1170,
+          "max": 1311,
+          "percentage": 89.24485125858124
         },
         "dxRank": 1,
         "combo": null,
@@ -1998,26 +1998,6 @@
     },
     {
       "track": {
-        "title": "シャルル",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 996830,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 1005,
-          "max": 1155,
-          "percentage": 87.01298701298701
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "ウミユリ海底譚",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -2110,6 +2090,26 @@
           "score": 646,
           "max": 771,
           "percentage": 83.78728923476005
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "エイプリルスター",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985149,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1452,
+          "max": 1722,
+          "percentage": 84.3205574912892
         },
         "dxRank": 0,
         "combo": null,
@@ -2218,26 +2218,6 @@
     },
     {
       "track": {
-        "title": "Ultimate taste",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 975248,
-        "rank": "S",
-        "dxScore": {
-          "score": 1393,
-          "max": 1785,
-          "percentage": 78.03921568627452
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "ナイト・オブ・ナイツ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2298,20 +2278,40 @@
     },
     {
       "track": {
-        "title": "Luminescence",
+        "title": "Ultimate taste",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 998049,
-        "rank": "SS+",
+        "achievement": 975248,
+        "rank": "S",
         "dxScore": {
-          "score": 1593,
-          "max": 1734,
-          "percentage": 91.86851211072664
+          "score": 1393,
+          "max": 1785,
+          "percentage": 78.03921568627452
         },
-        "dxRank": 2,
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Synthesis.",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983829,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1604,
+          "max": 1935,
+          "percentage": 82.89405684754522
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -2334,26 +2334,6 @@
         "dxRank": 1,
         "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "MYTH Re：LEASE",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 993067,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1984,
-          "max": 2286,
-          "percentage": 86.78915135608048
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
       }
     },
     {
@@ -2398,21 +2378,21 @@
     },
     {
       "track": {
-        "title": "Synthesis.",
+        "title": "MORNINGLOOM",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 983829,
-        "rank": "S+",
+        "achievement": 1004088,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1604,
-          "max": 1935,
-          "percentage": 82.89405684754522
+          "score": 1359,
+          "max": 1572,
+          "percentage": 86.45038167938931
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO+",
         "sync": null
       }
     },
@@ -2438,38 +2418,38 @@
     },
     {
       "track": {
-        "title": "MORNINGLOOM",
+        "title": "Luminaria",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 1004088,
-        "rank": "SSS",
+        "achievement": 976311,
+        "rank": "S",
         "dxScore": {
-          "score": 1359,
-          "max": 1572,
-          "percentage": 86.45038167938931
+          "score": 1685,
+          "max": 2073,
+          "percentage": 81.28316449589967
         },
-        "dxRank": 1,
-        "combo": "FULL COMBO+",
-        "sync": null
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
       "track": {
-        "title": "How To Make 音ゲ～曲！",
+        "title": "MYTH Re：LEASE",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 992927,
+        "achievement": 993067,
         "rank": "SS",
         "dxScore": {
-          "score": 1676,
-          "max": 1947,
-          "percentage": 86.08115048793015
+          "score": 1984,
+          "max": 2286,
+          "percentage": 86.78915135608048
         },
         "dxRank": 1,
         "combo": null,
@@ -2518,6 +2498,26 @@
     },
     {
       "track": {
+        "title": "How To Make 音ゲ～曲！",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992927,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1676,
+          "max": 1947,
+          "percentage": 86.08115048793015
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "神威",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2554,6 +2554,106 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "お願い！コンコンお稲荷さま",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985297,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1251,
+          "max": 1464,
+          "percentage": 85.45081967213115
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": "FULL SYNC"
+      }
+    },
+    {
+      "track": {
+        "title": "いっぱい食べる君が好きだよ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004937,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1616,
+          "max": 1857,
+          "percentage": 87.02207862143241
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ピポピポ -People People- feat. ななひら",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007474,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1763,
+          "max": 1929,
+          "percentage": 91.39450492483152
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ベースラインやってる？笑",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990340,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1379,
+          "max": 1572,
+          "percentage": 87.72264631043257
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Luminescence",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998049,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1593,
+          "max": 1734,
+          "percentage": 91.86851211072664
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -2998,86 +3098,6 @@
     },
     {
       "track": {
-        "title": "お願い！コンコンお稲荷さま",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 985297,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1251,
-          "max": 1464,
-          "percentage": 85.45081967213115
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": "FULL SYNC"
-      }
-    },
-    {
-      "track": {
-        "title": "いっぱい食べる君が好きだよ",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1004937,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1616,
-          "max": 1857,
-          "percentage": 87.02207862143241
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ピポピポ -People People- feat. ななひら",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1007474,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1763,
-          "max": 1929,
-          "percentage": 91.39450492483152
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ベースラインやってる？笑",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 990340,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1379,
-          "max": 1572,
-          "percentage": 87.72264631043257
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
         "title": "Rush-Hour",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3114,26 +3134,6 @@
         "dxRank": 1,
         "combo": null,
         "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "Luminaria",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 976311,
-        "rank": "S",
-        "dxScore": {
-          "score": 1685,
-          "max": 2073,
-          "percentage": 81.28316449589967
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3458,6 +3458,26 @@
     },
     {
       "track": {
+        "title": "忙シー日",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005977,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1429,
+          "max": 1587,
+          "percentage": 90.04410838059232
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "地獄",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3473,26 +3493,6 @@
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "有明/Ariake",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 984807,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1482,
-          "max": 1758,
-          "percentage": 84.30034129692832
-        },
-        "dxRank": 0,
-        "combo": null,
         "sync": null
       }
     },
@@ -3538,86 +3538,6 @@
     },
     {
       "track": {
-        "title": "Fraq",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1005372,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1822,
-          "max": 2031,
-          "percentage": 89.7095027080256
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ウタヒメナイトストーム",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 988561,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1465,
-          "max": 1656,
-          "percentage": 88.46618357487924
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "Feel The Luv",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1002001,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1564,
-          "max": 1782,
-          "percentage": 87.7665544332211
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "Åntinomiε",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 991835,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1792,
-          "max": 2064,
-          "percentage": 86.82170542635659
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "Unfinished Epic",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3634,126 +3554,6 @@
         "dxRank": 1,
         "combo": null,
         "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "忙シー日",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1005977,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1429,
-          "max": 1587,
-          "percentage": 90.04410838059232
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "FLΛME/FRΦST",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 991146,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1529,
-          "max": 1797,
-          "percentage": 85.08625486922648
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "IMBRUED:FLUX",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1004867,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1600,
-          "max": 1734,
-          "percentage": 92.2722029988466
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "砂の函",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1005388,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1395,
-          "max": 1515,
-          "percentage": 92.07920792079209
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "Amereistr",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 992912,
-        "rank": "SS",
-        "dxScore": {
-          "score": 662,
-          "max": 789,
-          "percentage": 83.90367553865653
-        },
-        "dxRank": 0,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "World's end BLACKBOX",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 996177,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 2256,
-          "max": 2637,
-          "percentage": 85.55176336746302
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3812,26 +3612,6 @@
           "percentage": 89.71631205673759
         },
         "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
-        "title": "果ての空、僕らが見た光。",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1005940,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1379,
-          "max": 1497,
-          "percentage": 92.11756847027388
-        },
-        "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
@@ -4014,6 +3794,46 @@
         "dxRank": 2,
         "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "IMBRUED:FLUX",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004867,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1600,
+          "max": 1734,
+          "percentage": 92.2722029988466
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ウタヒメナイトストーム",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 988561,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1465,
+          "max": 1656,
+          "percentage": 88.46618357487924
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -4578,6 +4398,26 @@
     },
     {
       "track": {
+        "title": "Fraq",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005372,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1822,
+          "max": 2031,
+          "percentage": 89.7095027080256
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Valsqotch",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -4598,40 +4438,60 @@
     },
     {
       "track": {
-        "title": "氷滅の135小節",
+        "title": "砂の函",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 982027,
-        "rank": "S+",
+        "achievement": 1005388,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1888,
-          "max": 2220,
-          "percentage": 85.04504504504504
+          "score": 1395,
+          "max": 1515,
+          "percentage": 92.07920792079209
         },
-        "dxRank": 1,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
     {
       "track": {
-        "title": "封焔の135秒",
+        "title": "Amereistr",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 981347,
-        "rank": "S+",
+        "achievement": 992912,
+        "rank": "SS",
         "dxScore": {
-          "score": 1501,
-          "max": 1827,
-          "percentage": 82.15654077723043
+          "score": 662,
+          "max": 789,
+          "percentage": 83.90367553865653
         },
         "dxRank": 0,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Feel The Luv",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002001,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1564,
+          "max": 1782,
+          "percentage": 87.7665544332211
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -4730,26 +4590,6 @@
           "score": 2336,
           "max": 2745,
           "percentage": 85.10018214936248
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "宙天",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 983656,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1683,
-          "max": 1980,
-          "percentage": 85
         },
         "dxRank": 1,
         "combo": null,
@@ -4984,12 +4824,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 934841,
-        "rank": "AA",
+        "achievement": 961305,
+        "rank": "AAA",
         "dxScore": {
-          "score": 1949,
+          "score": 2089,
           "max": 2664,
-          "percentage": 73.16066066066065
+          "percentage": 78.41591591591592
         },
         "dxRank": 0,
         "combo": null,
@@ -5033,26 +4873,6 @@
         },
         "dxRank": 0,
         "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ここからはじまるプロローグ。 (Kanon Remix)",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1007939,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1628,
-          "max": 1779,
-          "percentage": 91.51208544125915
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -5258,26 +5078,6 @@
     },
     {
       "track": {
-        "title": "U&iVERSE -銀河鸞翔-",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 984506,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1780,
-          "max": 2148,
-          "percentage": 82.86778398510242
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "Beautiful Future",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5292,26 +5092,6 @@
           "percentage": 88.88888888888889
         },
         "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "≠彡\"/了→",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 990930,
-        "rank": "SS",
-        "dxScore": {
-          "score": 1834,
-          "max": 2160,
-          "percentage": 84.9074074074074
-        },
-        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -5418,18 +5198,78 @@
     },
     {
       "track": {
-        "title": "sølips",
+        "title": "U&iVERSE -銀河鸞翔-",
         "type": "DX",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 968712,
-        "rank": "AAA",
+        "achievement": 984506,
+        "rank": "S+",
         "dxScore": {
-          "score": 1754,
-          "max": 2199,
-          "percentage": 79.76352887676217
+          "score": 1780,
+          "max": 2148,
+          "percentage": 82.86778398510242
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ここからはじまるプロローグ。 (Kanon Remix)",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007939,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1628,
+          "max": 1779,
+          "percentage": 91.51208544125915
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "封焔の135秒",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 981347,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1501,
+          "max": 1827,
+          "percentage": 82.15654077723043
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "≠彡\"/了→",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990930,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1834,
+          "max": 2160,
+          "percentage": 84.9074074074074
         },
         "dxRank": 0,
         "combo": null,
@@ -5452,6 +5292,166 @@
           "percentage": 82.43486073674752
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "sølips",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 968712,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1754,
+          "max": 2199,
+          "percentage": 79.76352887676217
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "果ての空、僕らが見た光。",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005940,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1379,
+          "max": 1497,
+          "percentage": 92.11756847027388
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "氷滅の135小節",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 982027,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1888,
+          "max": 2220,
+          "percentage": 85.04504504504504
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "有明/Ariake",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984807,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1482,
+          "max": 1758,
+          "percentage": 84.30034129692832
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "宙天",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983656,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1683,
+          "max": 1980,
+          "percentage": 85
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Åntinomiε",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991835,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1792,
+          "max": 2064,
+          "percentage": 86.82170542635659
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "FLΛME/FRΦST",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991146,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1529,
+          "max": 1797,
+          "percentage": 85.08625486922648
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "World's end BLACKBOX",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 996177,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 2256,
+          "max": 2637,
+          "percentage": 85.55176336746302
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -5484,7 +5484,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 986419,
+        "achievement": 987068,
         "rank": "S+",
         "dxScore": {
           "score": 3459,
@@ -5513,66 +5513,6 @@
         },
         "dxRank": 1,
         "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "crazy (about you)",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 997596,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 1122,
-          "max": 1227,
-          "percentage": 91.44254278728606
-        },
-        "dxRank": 2,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "Drivessover",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1004486,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1526,
-          "max": 1695,
-          "percentage": 90.02949852507375
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": "FULL SYNC+"
-      }
-    },
-    {
-      "track": {
-        "title": "Lover's Trick",
-        "type": "DX",
-        "difficulty": "EXPERT"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1007917,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1205,
-          "max": 1326,
-          "percentage": 90.87481146304675
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO+",
         "sync": null
       }
     },
@@ -5698,6 +5638,26 @@
     },
     {
       "track": {
+        "title": "crazy (about you)",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997596,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1122,
+          "max": 1227,
+          "percentage": 91.44254278728606
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5713,6 +5673,46 @@
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Drivessover",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004486,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1526,
+          "max": 1695,
+          "percentage": 90.02949852507375
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": "FULL SYNC+"
+      }
+    },
+    {
+      "track": {
+        "title": "Lover's Trick",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007917,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1205,
+          "max": 1326,
+          "percentage": 90.87481146304675
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
         "sync": null
       }
     },
@@ -5878,46 +5878,6 @@
     },
     {
       "track": {
-        "title": "ビビデバ",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1003403,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1788,
-          "max": 2004,
-          "percentage": 89.22155688622755
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "はいよろこんで",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1009085,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1791,
-          "max": 1947,
-          "percentage": 91.98767334360555
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO+",
-        "sync": "SYNC PLAY"
-      }
-    },
-    {
-      "track": {
         "title": "アイドル",
         "type": "DX",
         "difficulty": "MASTER"
@@ -5958,18 +5918,38 @@
     },
     {
       "track": {
-        "title": "きゅびずむ",
+        "title": "はいよろこんで",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 985090,
-        "rank": "S+",
+        "achievement": 1009085,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1919,
-          "max": 2214,
-          "percentage": 86.67570009033425
+          "score": 1791,
+          "max": 1947,
+          "percentage": 91.98767334360555
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ビビデバ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003403,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1788,
+          "max": 2004,
+          "percentage": 89.22155688622755
         },
         "dxRank": 1,
         "combo": null,
@@ -5992,6 +5972,26 @@
           "percentage": 85.76143328618576
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "廻廻奇譚",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979154,
+        "rank": "S",
+        "dxScore": {
+          "score": 1828,
+          "max": 2163,
+          "percentage": 84.51225150254277
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -6038,20 +6038,20 @@
     },
     {
       "track": {
-        "title": "廻廻奇譚",
+        "title": "きゅびずむ",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 979154,
-        "rank": "S",
+        "achievement": 985090,
+        "rank": "S+",
         "dxScore": {
-          "score": 1828,
-          "max": 2163,
-          "percentage": 84.51225150254277
+          "score": 1919,
+          "max": 2214,
+          "percentage": 86.67570009033425
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -6178,242 +6178,42 @@
     },
     {
       "track": {
-        "title": "少女レイ",
+        "title": "オーバーライド",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 976397,
+        "achievement": 971563,
         "rank": "S",
         "dxScore": {
-          "score": 1570,
-          "max": 1866,
-          "percentage": 84.13719185423365
+          "score": 2163,
+          "max": 2637,
+          "percentage": 82.0250284414107
         },
         "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "MIRA",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 977589,
-        "rank": "S",
-        "dxScore": {
-          "score": 1355,
-          "max": 1620,
-          "percentage": 83.64197530864197
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ありきたりな恋の歌",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 905641,
-        "rank": "AA",
-        "dxScore": {
-          "score": 2106,
-          "max": 2793,
-          "percentage": 75.40279269602578
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "三日月ステップ 2023",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 982355,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1815,
-          "max": 2166,
-          "percentage": 83.79501385041551
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "好きな惣菜発表ドラゴン",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 977072,
-        "rank": "S",
-        "dxScore": {
-          "score": 1273,
-          "max": 1470,
-          "percentage": 86.5986394557823
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "あいたい星人",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 986598,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1885,
-          "max": 2256,
-          "percentage": 83.55496453900709
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ももいろの鍵",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 986910,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1653,
-          "max": 1920,
-          "percentage": 86.09375
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ザムザ",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 999685,
-        "rank": "SS+",
-        "dxScore": {
-          "score": 1708,
-          "max": 1902,
-          "percentage": 89.80021030494217
-        },
-        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
     },
     {
       "track": {
-        "title": "ダーリンダンス",
+        "title": "きゅうくらりん",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 1006820,
-        "rank": "SSS+",
-        "dxScore": {
-          "score": 1902,
-          "max": 2127,
-          "percentage": 89.42172073342736
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "デビルじゃないもん",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 987403,
+        "achievement": 981662,
         "rank": "S+",
         "dxScore": {
-          "score": 1960,
-          "max": 2316,
-          "percentage": 84.6286701208981
+          "score": 2125,
+          "max": 2577,
+          "percentage": 82.46022506790842
         },
         "dxRank": 0,
         "combo": null,
         "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "バグ",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 1004091,
-        "rank": "SSS",
-        "dxScore": {
-          "score": 1941,
-          "max": 2139,
-          "percentage": 90.74333800841514
-        },
-        "dxRank": 2,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "イガク",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": false,
-        "achievement": 642614,
-        "rank": "B",
-        "dxScore": {
-          "score": 1174,
-          "max": 2379,
-          "percentage": 49.34846574190836
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": "SYNC PLAY"
       }
     },
     {
@@ -6458,21 +6258,81 @@
     },
     {
       "track": {
-        "title": "きゅうくらりん",
+        "title": "イガク",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 642614,
+        "rank": "B",
+        "dxScore": {
+          "score": 1174,
+          "max": 2379,
+          "percentage": 49.34846574190836
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "ももいろの鍵",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 981662,
+        "achievement": 986910,
         "rank": "S+",
         "dxScore": {
-          "score": 2125,
-          "max": 2577,
-          "percentage": 82.46022506790842
+          "score": 1653,
+          "max": 1920,
+          "percentage": 86.09375
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ザムザ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999685,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1708,
+          "max": 1902,
+          "percentage": 89.80021030494217
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "バグ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004091,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1941,
+          "max": 2139,
+          "percentage": 90.74333800841514
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -6490,6 +6350,66 @@
           "score": 1814,
           "max": 2127,
           "percentage": 85.28443817583451
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "少女レイ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 976397,
+        "rank": "S",
+        "dxScore": {
+          "score": 1570,
+          "max": 1866,
+          "percentage": 84.13719185423365
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ありきたりな恋の歌",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 905641,
+        "rank": "AA",
+        "dxScore": {
+          "score": 2106,
+          "max": 2793,
+          "percentage": 75.40279269602578
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977072,
+        "rank": "S",
+        "dxScore": {
+          "score": 1273,
+          "max": 1470,
+          "percentage": 86.5986394557823
         },
         "dxRank": 1,
         "combo": null,
@@ -6518,38 +6438,38 @@
     },
     {
       "track": {
-        "title": "神っぽいな",
+        "title": "あいたい星人",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 1003276,
-        "rank": "SSS",
+        "achievement": 986598,
+        "rank": "S+",
         "dxScore": {
-          "score": 1305,
-          "max": 1458,
-          "percentage": 89.50617283950618
+          "score": 1885,
+          "max": 2256,
+          "percentage": 83.55496453900709
         },
-        "dxRank": 1,
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
     },
     {
       "track": {
-        "title": "すろぉもぉしょん",
-        "type": "Standard",
+        "title": "デビルじゃないもん",
+        "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 983885,
+        "achievement": 987403,
         "rank": "S+",
         "dxScore": {
           "score": 1960,
-          "max": 2364,
-          "percentage": 82.91032148900169
+          "max": 2316,
+          "percentage": 84.6286701208981
         },
         "dxRank": 0,
         "combo": null,
@@ -6598,6 +6518,26 @@
     },
     {
       "track": {
+        "title": "アンドロイドガール",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 959750,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1935,
+          "max": 2355,
+          "percentage": 82.16560509554141
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ヒバナ",
         "type": "Standard",
         "difficulty": "MASTER"
@@ -6612,6 +6552,26 @@
           "percentage": 85.44461003477397
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "MIRA",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977589,
+        "rank": "S",
+        "dxScore": {
+          "score": 1355,
+          "max": 1620,
+          "percentage": 83.64197530864197
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -6658,6 +6618,66 @@
     },
     {
       "track": {
+        "title": "ダーリンダンス",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006820,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1902,
+          "max": 2127,
+          "percentage": 89.42172073342736
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "神っぽいな",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003276,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1305,
+          "max": 1458,
+          "percentage": 89.50617283950618
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "すろぉもぉしょん",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 983885,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1960,
+          "max": 2364,
+          "percentage": 82.91032148900169
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "テレキャスタービーボーイ",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6672,6 +6692,26 @@
           "percentage": 87.12930011862396
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "三日月ステップ 2023",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 982355,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1815,
+          "max": 2166,
+          "percentage": 83.79501385041551
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -6698,18 +6738,38 @@
     },
     {
       "track": {
-        "title": "エイプリルスター",
+        "title": "再会",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 976989,
+        "achievement": 997521,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1690,
+          "max": 1929,
+          "percentage": 87.61016070502852
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "約束",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 974605,
         "rank": "S",
         "dxScore": {
-          "score": 2131,
-          "max": 2556,
-          "percentage": 83.37245696400626
+          "score": 1372,
+          "max": 1644,
+          "percentage": 83.45498783454988
         },
         "dxRank": 0,
         "combo": null,
@@ -6718,22 +6778,22 @@
     },
     {
       "track": {
-        "title": "オーバーライド",
+        "title": "シャルル",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 971563,
-        "rank": "S",
+        "achievement": 988299,
+        "rank": "S+",
         "dxScore": {
-          "score": 2163,
-          "max": 2637,
-          "percentage": 82.0250284414107
+          "score": 1408,
+          "max": 1572,
+          "percentage": 89.56743002544529
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
-        "sync": "SYNC PLAY"
+        "sync": null
       }
     },
     {
@@ -6790,26 +6850,6 @@
           "score": 2172,
           "max": 2541,
           "percentage": 85.47815820543093
-        },
-        "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "シャルル",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 988299,
-        "rank": "S+",
-        "dxScore": {
-          "score": 1408,
-          "max": 1572,
-          "percentage": 89.56743002544529
         },
         "dxRank": 1,
         "combo": null,
@@ -6878,38 +6918,18 @@
     },
     {
       "track": {
-        "title": "再会",
+        "title": "エイプリルスター",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 997521,
-        "rank": "SS+",
+        "achievement": 982052,
+        "rank": "S+",
         "dxScore": {
-          "score": 1690,
-          "max": 1929,
-          "percentage": 87.61016070502852
-        },
-        "dxRank": 1,
-        "combo": "FULL COMBO",
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "約束",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 974605,
-        "rank": "S",
-        "dxScore": {
-          "score": 1372,
-          "max": 1644,
-          "percentage": 83.45498783454988
+          "score": 2163,
+          "max": 2556,
+          "percentage": 84.6244131455399
         },
         "dxRank": 0,
         "combo": null,
@@ -6978,26 +6998,6 @@
     },
     {
       "track": {
-        "title": "LOSTPHANTASIA",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 978028,
-        "rank": "S",
-        "dxScore": {
-          "score": 1380,
-          "max": 1647,
-          "percentage": 83.7887067395264
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "ナイト・オブ・ナイツ (Cranky Remix)",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7010,6 +7010,26 @@
           "score": 2006,
           "max": 2433,
           "percentage": 82.44965063707357
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "LOSTPHANTASIA",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 978028,
+        "rank": "S",
+        "dxScore": {
+          "score": 1380,
+          "max": 1647,
+          "percentage": 83.7887067395264
         },
         "dxRank": 0,
         "combo": null,
@@ -7050,6 +7070,26 @@
           "score": 1690,
           "max": 2163,
           "percentage": 78.13222376329172
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ピポピポ -People People- feat. ななひら",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 874349,
+        "rank": "A",
+        "dxScore": {
+          "score": 2211,
+          "max": 3090,
+          "percentage": 71.55339805825243
         },
         "dxRank": 0,
         "combo": null,
@@ -7152,26 +7192,6 @@
           "percentage": 85.16057585825027
         },
         "dxRank": 1,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "ピポピポ -People People- feat. ななひら",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 874349,
-        "rank": "A",
-        "dxScore": {
-          "score": 2211,
-          "max": 3090,
-          "percentage": 71.55339805825243
-        },
-        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -7358,46 +7378,6 @@
     },
     {
       "track": {
-        "title": "Amereistr",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 925872,
-        "rank": "AA",
-        "dxScore": {
-          "score": 1628,
-          "max": 2214,
-          "percentage": 73.53206865401988
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "果ての空、僕らが見た光。",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": true,
-        "achievement": 964771,
-        "rank": "AAA",
-        "dxScore": {
-          "score": 1965,
-          "max": 2460,
-          "percentage": 79.8780487804878
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
         "title": "Ourania",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7498,42 +7478,22 @@
     },
     {
       "track": {
-        "title": "封焔の135秒",
-        "type": "DX",
-        "difficulty": "MASTER"
-      },
-      "score": {
-        "clear": false,
-        "achievement": 480279,
-        "rank": "D",
-        "dxScore": {
-          "score": 1151,
-          "max": 3276,
-          "percentage": 35.134310134310134
-        },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
-      }
-    },
-    {
-      "track": {
-        "title": "宙天",
+        "title": "Amereistr",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 829062,
-        "rank": "A",
+        "achievement": 925872,
+        "rank": "AA",
         "dxScore": {
-          "score": 1876,
-          "max": 3174,
-          "percentage": 59.105229993698806
+          "score": 1628,
+          "max": 2214,
+          "percentage": 73.53206865401988
         },
         "dxRank": 0,
         "combo": null,
-        "sync": "SYNC PLAY"
+        "sync": null
       }
     },
     {
@@ -7578,6 +7538,26 @@
     },
     {
       "track": {
+        "title": "封焔の135秒",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 480279,
+        "rank": "D",
+        "dxScore": {
+          "score": 1151,
+          "max": 3276,
+          "percentage": 35.134310134310134
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "≠彡\"/了→",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7614,6 +7594,46 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "果ての空、僕らが見た光。",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 964771,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1965,
+          "max": 2460,
+          "percentage": 79.8780487804878
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "宙天",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 829062,
+        "rank": "A",
+        "dxScore": {
+          "score": 1876,
+          "max": 3174,
+          "percentage": 59.105229993698806
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -7690,6 +7710,26 @@
           "score": 1612,
           "max": 2187,
           "percentage": 73.70827617741197
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "勇者",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 968483,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1227,
+          "max": 1551,
+          "percentage": 79.11025145067698
         },
         "dxRank": 0,
         "combo": null,

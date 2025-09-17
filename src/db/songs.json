@@ -1,5 +1,5 @@
 {
-  "chartCount": 5775,
+  "chartCount": 5858,
   "availableVersions": [
     {
       "value": 0,
@@ -100,6 +100,10 @@
     {
       "value": 24,
       "name": "PRiSM PLUS"
+    },
+    {
+      "value": 25,
+      "name": "CiRCLE"
     }
   ],
   "tracks": [
@@ -200,6 +204,30 @@
       ]
     },
     {
+      "title": "パンダヒーロー",
+      "type": "Standard",
+      "version": 0,
+      "displayLevel": [
+        "6",
+        "7+",
+        "9+",
+        "12",
+        null
+      ]
+    },
+    {
+      "title": "マトリョシカ",
+      "type": "Standard",
+      "version": 0,
+      "displayLevel": [
+        "6",
+        "8+",
+        "9+",
+        "11+",
+        "13"
+      ]
+    },
+    {
       "title": "メランコリック",
       "type": "Standard",
       "version": 0,
@@ -233,30 +261,6 @@
         "9+",
         "12",
         null
-      ]
-    },
-    {
-      "title": "パンダヒーロー",
-      "type": "Standard",
-      "version": 0,
-      "displayLevel": [
-        "6",
-        "7+",
-        "9+",
-        "12",
-        null
-      ]
-    },
-    {
-      "title": "マトリョシカ",
-      "type": "Standard",
-      "version": 0,
-      "displayLevel": [
-        "6",
-        "8+",
-        "9+",
-        "11+",
-        "13"
       ]
     },
     {
@@ -632,18 +636,6 @@
       ]
     },
     {
-      "title": "スイートマジック",
-      "type": "Standard",
-      "version": 1,
-      "displayLevel": [
-        "4",
-        "7",
-        "10+",
-        "12",
-        null
-      ]
-    },
-    {
       "title": "ゴーゴー幽霊船",
       "type": "Standard",
       "version": 1,
@@ -664,6 +656,18 @@
         "8",
         "10+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "スイートマジック",
+      "type": "Standard",
+      "version": 1,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
+        "12",
         null
       ]
     },
@@ -3958,18 +3962,6 @@
       ]
     },
     {
-      "title": "ひれ伏せ愚民どもっ！",
-      "type": "Standard",
-      "version": 7,
-      "displayLevel": [
-        "5",
-        "7+",
-        "10+",
-        "13",
-        null
-      ]
-    },
-    {
       "title": "No Routine",
       "type": "Standard",
       "version": 7,
@@ -3977,6 +3969,18 @@
         "6",
         "7",
         "11",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "ひれ伏せ愚民どもっ！",
+      "type": "Standard",
+      "version": 7,
+      "displayLevel": [
+        "5",
+        "7+",
+        "10+",
         "13",
         null
       ]
@@ -4534,6 +4538,18 @@
       ]
     },
     {
+      "title": "Scream out! -maimai SONIC WASHER Edit-",
+      "type": "Standard",
+      "version": 8,
+      "displayLevel": [
+        "5",
+        "8+",
+        "12+",
+        "13+",
+        null
+      ]
+    },
+    {
       "title": "Club Ibuki in Break All",
       "type": "Standard",
       "version": 8,
@@ -4554,18 +4570,6 @@
         "8",
         "11+",
         "13",
-        null
-      ]
-    },
-    {
-      "title": "Scream out! -maimai SONIC WASHER Edit-",
-      "type": "Standard",
-      "version": 8,
-      "displayLevel": [
-        "5",
-        "8+",
-        "12+",
-        "13+",
         null
       ]
     },
@@ -5638,18 +5642,6 @@
       ]
     },
     {
-      "title": "天狗の落とし文 feat. ｙｔｒ",
-      "type": "Standard",
-      "version": 10,
-      "displayLevel": [
-        "5",
-        "7+",
-        "11+",
-        "12+",
-        null
-      ]
-    },
-    {
       "title": "疾走あんさんぶる",
       "type": "Standard",
       "version": 10,
@@ -5658,6 +5650,18 @@
         "8+",
         "11+",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "天狗の落とし文 feat. ｙｔｒ",
+      "type": "Standard",
+      "version": 10,
+      "displayLevel": [
+        "5",
+        "7+",
+        "11+",
+        "12+",
         null
       ]
     },
@@ -5722,18 +5726,6 @@
       ]
     },
     {
-      "title": "バレリーコ",
-      "type": "Standard",
-      "version": 10,
-      "displayLevel": [
-        "5",
-        "7",
-        "10+",
-        "12+",
-        null
-      ]
-    },
-    {
       "title": "シャルル",
       "type": "Standard",
       "version": 10,
@@ -5741,6 +5733,18 @@
         "5",
         "7",
         "9+",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "バレリーコ",
+      "type": "Standard",
+      "version": 10,
+      "displayLevel": [
+        "5",
+        "7",
+        "10+",
         "12+",
         null
       ]
@@ -6094,18 +6098,6 @@
       ]
     },
     {
-      "title": "アマノジャクリバース feat. ｙｔｒ",
-      "type": "Standard",
-      "version": 11,
-      "displayLevel": [
-        "5",
-        "8",
-        "11",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "サドマミホリック",
       "type": "Standard",
       "version": 11,
@@ -6115,6 +6107,18 @@
         "11+",
         "12",
         "13"
+      ]
+    },
+    {
+      "title": "アマノジャクリバース feat. ｙｔｒ",
+      "type": "Standard",
+      "version": 11,
+      "displayLevel": [
+        "5",
+        "8",
+        "11",
+        "13+",
+        null
       ]
     },
     {
@@ -6634,6 +6638,18 @@
       ]
     },
     {
+      "title": "White Traveling Girl",
+      "type": "Standard",
+      "version": 12,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",
       "type": "Standard",
       "version": 12,
@@ -6655,18 +6671,6 @@
         "11",
         "12",
         "13"
-      ]
-    },
-    {
-      "title": "White Traveling Girl",
-      "type": "Standard",
-      "version": 12,
-      "displayLevel": [
-        "4",
-        "7+",
-        "10+",
-        "13",
-        null
       ]
     },
     {
@@ -7030,26 +7034,14 @@
       ]
     },
     {
-      "title": "39",
-      "type": "DX",
-      "version": 13,
-      "displayLevel": [
-        "3",
-        "7",
-        "9",
-        "12+",
-        null
-      ]
-    },
-    {
-      "title": "いーあるふぁんくらぶ",
+      "title": "メルティランドナイトメア",
       "type": "DX",
       "version": 13,
       "displayLevel": [
         "2",
         "6",
-        "8",
-        "11",
+        "8+",
+        "11+",
         null
       ]
     },
@@ -7078,6 +7070,30 @@
       ]
     },
     {
+      "title": "39",
+      "type": "DX",
+      "version": 13,
+      "displayLevel": [
+        "3",
+        "7",
+        "9",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "いーあるふぁんくらぶ",
+      "type": "DX",
+      "version": 13,
+      "displayLevel": [
+        "2",
+        "6",
+        "8",
+        "11",
+        null
+      ]
+    },
+    {
       "title": "脳漿炸裂ガール",
       "type": "DX",
       "version": 13,
@@ -7098,18 +7114,6 @@
         "6",
         "9+",
         "12",
-        null
-      ]
-    },
-    {
-      "title": "メルティランドナイトメア",
-      "type": "DX",
-      "version": 13,
-      "displayLevel": [
-        "2",
-        "6",
-        "8+",
-        "11+",
         null
       ]
     },
@@ -7157,6 +7161,18 @@
         "4",
         "7",
         "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Scream out! -maimai SONIC WASHER Edit-",
+      "type": "DX",
+      "version": 13,
+      "displayLevel": [
+        "3",
+        "7",
+        "11",
         "13",
         null
       ]
@@ -7217,18 +7233,6 @@
         "4",
         "7+",
         "10",
-        "13",
-        null
-      ]
-    },
-    {
-      "title": "Scream out! -maimai SONIC WASHER Edit-",
-      "type": "DX",
-      "version": 13,
-      "displayLevel": [
-        "3",
-        "7",
-        "11",
         "13",
         null
       ]
@@ -8278,6 +8282,18 @@
       ]
     },
     {
+      "title": "Maboroshi",
+      "type": "DX",
+      "version": 14,
+      "displayLevel": [
+        "5",
+        "7+",
+        "11",
+        "14",
+        null
+      ]
+    },
+    {
       "title": "Entrance",
       "type": "DX",
       "version": 14,
@@ -8298,18 +8314,6 @@
         "8",
         "11+",
         "13+",
-        null
-      ]
-    },
-    {
-      "title": "Maboroshi",
-      "type": "DX",
-      "version": 14,
-      "displayLevel": [
-        "5",
-        "7+",
-        "11",
-        "14",
         null
       ]
     },
@@ -8470,18 +8474,6 @@
       ]
     },
     {
-      "title": "封焔の135秒",
-      "type": "DX",
-      "version": 14,
-      "displayLevel": [
-        "5",
-        "8+",
-        "12+",
-        "14+",
-        null
-      ]
-    },
-    {
       "title": "渦状銀河のシンフォニエッタ",
       "type": "DX",
       "version": 14,
@@ -8506,6 +8498,18 @@
       ]
     },
     {
+      "title": "封焔の135秒",
+      "type": "DX",
+      "version": 14,
+      "displayLevel": [
+        "5",
+        "8+",
+        "12+",
+        "14+",
+        null
+      ]
+    },
+    {
       "title": "全力ハッピーライフ",
       "type": "DX",
       "version": 14,
@@ -8513,6 +8517,18 @@
         "4",
         "7",
         "10",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "Drive Your Fire",
+      "type": "DX",
+      "version": 14,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
         "12+",
         null
       ]
@@ -8526,18 +8542,6 @@
         "6",
         "9+",
         "12",
-        null
-      ]
-    },
-    {
-      "title": "Drive Your Fire",
-      "type": "DX",
-      "version": 14,
-      "displayLevel": [
-        "3",
-        "6",
-        "9+",
-        "12+",
         null
       ]
     },
@@ -9226,18 +9230,6 @@
       ]
     },
     {
-      "title": "Sweet Requiem",
-      "type": "DX",
-      "version": 15,
-      "displayLevel": [
-        "4",
-        "7+",
-        "10+",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "Dive into The Sky ～initialized～",
       "type": "DX",
       "version": 15,
@@ -9246,6 +9238,18 @@
         "6",
         "9",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "Sweet Requiem",
+      "type": "DX",
+      "version": 15,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13+",
         null
       ]
     },
@@ -9682,6 +9686,18 @@
       ]
     },
     {
+      "title": "ベースラインやってる？笑",
+      "type": "DX",
+      "version": 16,
+      "displayLevel": [
+        "2",
+        "7+",
+        "11",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "Strange Bar",
       "type": "DX",
       "version": 16,
@@ -9750,18 +9766,6 @@
         "8+",
         "11+",
         "13+",
-        null
-      ]
-    },
-    {
-      "title": "ベースラインやってる？笑",
-      "type": "DX",
-      "version": 16,
-      "displayLevel": [
-        "2",
-        "7+",
-        "11",
-        "13",
         null
       ]
     },
@@ -10162,18 +10166,6 @@
       ]
     },
     {
-      "title": "テレキャスタービーボーイ",
-      "type": "DX",
-      "version": 17,
-      "displayLevel": [
-        "2",
-        "7",
-        "9+",
-        "11+",
-        "12+"
-      ]
-    },
-    {
       "title": "僕は空気が嫁ない",
       "type": "DX",
       "version": 17,
@@ -10195,6 +10187,18 @@
         "12",
         "14",
         null
+      ]
+    },
+    {
+      "title": "テレキャスタービーボーイ",
+      "type": "DX",
+      "version": 17,
+      "displayLevel": [
+        "2",
+        "7",
+        "9+",
+        "11+",
+        "12+"
       ]
     },
     {
@@ -10462,18 +10466,6 @@
       ]
     },
     {
-      "title": "幻想に咲いた花",
-      "type": "DX",
-      "version": 17,
-      "displayLevel": [
-        "3",
-        "7",
-        "9+",
-        "13",
-        "13+"
-      ]
-    },
-    {
       "title": "マツヨイナイトバグ",
       "type": "DX",
       "version": 17,
@@ -10483,6 +10475,18 @@
         "10+",
         "13+",
         "14"
+      ]
+    },
+    {
+      "title": "幻想に咲いた花",
+      "type": "DX",
+      "version": 17,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "13",
+        "13+"
       ]
     },
     {
@@ -11902,18 +11906,6 @@
       ]
     },
     {
-      "title": "[X]",
-      "type": "DX",
-      "version": 19,
-      "displayLevel": [
-        "5",
-        "8",
-        "12",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "Tricolor⁂circuS",
       "type": "DX",
       "version": 19,
@@ -11922,6 +11914,18 @@
         "7",
         "10+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "[X]",
+      "type": "DX",
+      "version": 19,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "13+",
         null
       ]
     },
@@ -12646,18 +12650,6 @@
       ]
     },
     {
-      "title": "INTERNET OVERDOSE",
-      "type": "DX",
-      "version": 20,
-      "displayLevel": [
-        "4",
-        "7",
-        "10+",
-        "13",
-        null
-      ]
-    },
-    {
       "title": "おとせサンダー",
       "type": "DX",
       "version": 20,
@@ -12701,6 +12693,18 @@
         "3",
         "7",
         "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "INTERNET OVERDOSE",
+      "type": "DX",
+      "version": 20,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
         "13",
         null
       ]
@@ -14170,18 +14174,6 @@
       ]
     },
     {
-      "title": "ずんだもんの朝食　〜目覚ましずんラップ〜",
-      "type": "DX",
-      "version": 21,
-      "displayLevel": [
-        "3",
-        "8",
-        "10+",
-        "13",
-        null
-      ]
-    },
-    {
       "title": "あなたは世界の終わりにずんだを食べるのだ",
       "type": "DX",
       "version": 21,
@@ -14190,6 +14182,18 @@
         "6",
         "9+",
         "12+",
+        null
+      ]
+    },
+    {
+      "title": "ずんだもんの朝食　〜目覚ましずんラップ〜",
+      "type": "DX",
+      "version": 21,
+      "displayLevel": [
+        "3",
+        "8",
+        "10+",
+        "13",
         null
       ]
     },
@@ -14398,18 +14402,6 @@
       ]
     },
     {
-      "title": "INTERNET YAMERO",
-      "type": "DX",
-      "version": 22,
-      "displayLevel": [
-        "4",
-        "7+",
-        "10+",
-        "11+",
-        "13+"
-      ]
-    },
-    {
       "title": "壱雫空",
       "type": "DX",
       "version": 22,
@@ -14422,6 +14414,18 @@
       ]
     },
     {
+      "title": "INTERNET YAMERO",
+      "type": "DX",
+      "version": 22,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "11+",
+        "13+"
+      ]
+    },
+    {
       "title": "過去を喰らう",
       "type": "DX",
       "version": 22,
@@ -14430,18 +14434,6 @@
         "7",
         "10",
         "13",
-        null
-      ]
-    },
-    {
-      "title": "匿名M",
-      "type": "DX",
-      "version": 22,
-      "displayLevel": [
-        "3",
-        "7",
-        "9+",
-        "12+",
         null
       ]
     },
@@ -14467,6 +14459,18 @@
         "8",
         "11+",
         "13"
+      ]
+    },
+    {
+      "title": "匿名M",
+      "type": "DX",
+      "version": 22,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "12+",
+        null
       ]
     },
     {
@@ -14854,6 +14858,18 @@
       ]
     },
     {
+      "title": "LOSTPHANTASIA",
+      "type": "DX",
+      "version": 22,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "12+",
+        null
+      ]
+    },
+    {
       "title": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)",
       "type": "DX",
       "version": 22,
@@ -14874,18 +14890,6 @@
         "9",
         "12",
         "14+",
-        null
-      ]
-    },
-    {
-      "title": "LOSTPHANTASIA",
-      "type": "DX",
-      "version": 22,
-      "displayLevel": [
-        "2",
-        "6",
-        "9+",
-        "12+",
         null
       ]
     },
@@ -15262,18 +15266,6 @@
       ]
     },
     {
-      "title": "ダーリンダンス",
-      "type": "DX",
-      "version": 23,
-      "displayLevel": [
-        "3",
-        "7",
-        "9+",
-        "11+",
-        "13"
-      ]
-    },
-    {
       "title": "デビルじゃないもん",
       "type": "DX",
       "version": 23,
@@ -15283,6 +15275,18 @@
         "9+",
         "13",
         null
+      ]
+    },
+    {
+      "title": "ダーリンダンス",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "11+",
+        "13"
       ]
     },
     {
@@ -15394,18 +15398,6 @@
       ]
     },
     {
-      "title": "果ての空、僕らが見た光。",
-      "type": "DX",
-      "version": 23,
-      "displayLevel": [
-        "4",
-        "8",
-        "10+",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "プリズム△▽リズム",
       "type": "DX",
       "version": 23,
@@ -15414,6 +15406,18 @@
         "6",
         "10",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "果ての空、僕らが見た光。",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "8",
+        "10+",
+        "13+",
         null
       ]
     },
@@ -15478,18 +15482,6 @@
       ]
     },
     {
-      "title": "ゆけむり魂温泉 II",
-      "type": "DX",
-      "version": 23,
-      "displayLevel": [
-        "4",
-        "6",
-        "10",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "人間が大好きなこわれた妖怪の唄",
       "type": "DX",
       "version": 23,
@@ -15498,6 +15490,18 @@
         "6",
         "9+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "ゆけむり魂温泉 II",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "6",
+        "10",
+        "13+",
         null
       ]
     },
@@ -15538,18 +15542,6 @@
       ]
     },
     {
-      "title": "氷滅の135小節",
-      "type": "DX",
-      "version": 23,
-      "displayLevel": [
-        "7",
-        "9+",
-        "13",
-        "14+",
-        null
-      ]
-    },
-    {
       "title": "天蓋",
       "type": "DX",
       "version": 23,
@@ -15570,6 +15562,18 @@
         "7+",
         "12",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "氷滅の135小節",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "7",
+        "9+",
+        "13",
+        "14+",
         null
       ]
     },
@@ -15694,6 +15698,18 @@
       ]
     },
     {
+      "title": "オーバーライド",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "バベル",
       "type": "DX",
       "version": 23,
@@ -15718,30 +15734,6 @@
       ]
     },
     {
-      "title": "エイプリルスター",
-      "type": "DX",
-      "version": 23,
-      "displayLevel": [
-        "4",
-        "7",
-        "10",
-        "13",
-        null
-      ]
-    },
-    {
-      "title": "オーバーライド",
-      "type": "DX",
-      "version": 23,
-      "displayLevel": [
-        "4",
-        "7+",
-        "11",
-        "13",
-        null
-      ]
-    },
-    {
       "title": "右に曲ガール",
       "type": "DX",
       "version": 23,
@@ -15750,6 +15742,18 @@
         "6",
         "9+",
         "12+",
+        null
+      ]
+    },
+    {
+      "title": "エイプリルスター",
+      "type": "DX",
+      "version": 23,
+      "displayLevel": [
+        "4",
+        "7",
+        "10",
+        "13",
         null
       ]
     },
@@ -16066,11 +16070,11 @@
       ]
     },
     {
-      "title": "ビビデバ",
+      "title": "はいよろこんで",
       "type": "DX",
       "version": 24,
       "displayLevel": [
-        "2",
+        "3",
         "6",
         "9+",
         "11+",
@@ -16078,11 +16082,11 @@
       ]
     },
     {
-      "title": "はいよろこんで",
+      "title": "ビビデバ",
       "type": "DX",
       "version": 24,
       "displayLevel": [
-        "3",
+        "2",
         "6",
         "9+",
         "11+",
@@ -16138,18 +16142,6 @@
       ]
     },
     {
-      "title": "ももいろの鍵",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "2",
-        "6",
-        "9",
-        "12+",
-        null
-      ]
-    },
-    {
       "title": "のだ",
       "type": "DX",
       "version": 24,
@@ -16158,6 +16150,18 @@
         "6",
         "9+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "ももいろの鍵",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9",
+        "12+",
         null
       ]
     },
@@ -16222,18 +16226,6 @@
       ]
     },
     {
-      "title": "Fraq",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "5",
-        "8",
-        "12",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "ウタヒメナイトストーム",
       "type": "DX",
       "version": 24,
@@ -16241,6 +16233,18 @@
         "4",
         "7",
         "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Fraq",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
         "13+",
         null
       ]
@@ -16270,18 +16274,6 @@
       ]
     },
     {
-      "title": "Supersonic Generation",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "4",
-        "8",
-        "11+",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "Zitronectar",
       "type": "DX",
       "version": 24,
@@ -16294,13 +16286,13 @@
       ]
     },
     {
-      "title": "モエチャッカファイア",
+      "title": "Supersonic Generation",
       "type": "DX",
       "version": 24,
       "displayLevel": [
-        "3",
-        "6",
-        "10",
+        "4",
+        "8",
+        "11+",
         "13+",
         null
       ]
@@ -16314,6 +16306,18 @@
         "6",
         "9+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "モエチャッカファイア",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13+",
         null
       ]
     },
@@ -16390,6 +16394,18 @@
       ]
     },
     {
+      "title": "ATLAS RUSH",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "5",
+        "7+",
+        "12+",
+        "14+",
+        null
+      ]
+    },
+    {
       "title": "あいたい星人",
       "type": "DX",
       "version": 24,
@@ -16426,6 +16442,18 @@
       ]
     },
     {
+      "title": "忙シー日",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7+",
+        "11+",
+        "14",
+        null
+      ]
+    },
+    {
       "title": "概して過誤",
       "type": "DX",
       "version": 24,
@@ -16446,18 +16474,6 @@
         "8+",
         "11",
         "13+",
-        null
-      ]
-    },
-    {
-      "title": "忙シー日",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "3",
-        "7+",
-        "11+",
-        "14",
         null
       ]
     },
@@ -16534,6 +16550,18 @@
       ]
     },
     {
+      "title": "抜錨",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "ゼロトーキング",
       "type": "DX",
       "version": 24,
@@ -16594,14 +16622,14 @@
       ]
     },
     {
-      "title": "抜錨",
+      "title": "BlackFlagBreaker!!",
       "type": "DX",
       "version": 24,
       "displayLevel": [
-        "3",
-        "6",
-        "10+",
-        "13",
+        "4",
+        "8",
+        "11",
+        "13+",
         null
       ]
     },
@@ -16613,18 +16641,6 @@
         "3",
         "7",
         "9+",
-        "13+",
-        null
-      ]
-    },
-    {
-      "title": "BlackFlagBreaker!!",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "4",
-        "8",
-        "11",
         "13+",
         null
       ]
@@ -16642,18 +16658,6 @@
       ]
     },
     {
-      "title": "JIGOKU STATION CENTRAL GATE",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "4",
-        "7+",
-        "11",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "三日月ステップ 2023",
       "type": "DX",
       "version": 24,
@@ -16666,6 +16670,18 @@
       ]
     },
     {
+      "title": "JIGOKU STATION CENTRAL GATE",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
       "title": "Endless, Sleepless Night",
       "type": "DX",
       "version": 24,
@@ -16674,6 +16690,18 @@
         "6",
         "10+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "Lover's Trick",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13+",
         null
       ]
     },
@@ -16733,18 +16761,6 @@
         "3",
         "7",
         "10",
-        "13+",
-        null
-      ]
-    },
-    {
-      "title": "Lover's Trick",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "3",
-        "7",
-        "10+",
         "13+",
         null
       ]
@@ -16834,6 +16850,18 @@
       ]
     },
     {
+      "title": "Tidal Wave",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "12",
+        "13+",
+        null
+      ]
+    },
+    {
       "title": "ローリンガール",
       "type": "DX",
       "version": 24,
@@ -16841,6 +16869,18 @@
         "4",
         "7+",
         "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Pixel Galaxy",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
         "13",
         null
       ]
@@ -16854,30 +16894,6 @@
         "8",
         "11+",
         "14",
-        null
-      ]
-    },
-    {
-      "title": "Tidal Wave",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "4",
-        "7+",
-        "12",
-        "13+",
-        null
-      ]
-    },
-    {
-      "title": "MIRA",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "2",
-        "6",
-        "9",
-        "12+",
         null
       ]
     },
@@ -16906,14 +16922,26 @@
       ]
     },
     {
-      "title": "Pixel Galaxy",
+      "title": "ありきたりな恋の歌",
       "type": "DX",
       "version": 24,
       "displayLevel": [
-        "3",
+        "4",
         "7",
-        "9+",
-        "13",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "MIRA",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9",
+        "12+",
         null
       ]
     },
@@ -16938,30 +16966,6 @@
         "6",
         "9+",
         "13",
-        null
-      ]
-    },
-    {
-      "title": "ありきたりな恋の歌",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "4",
-        "7",
-        "10",
-        "13+",
-        null
-      ]
-    },
-    {
-      "title": "Luminescence",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "4",
-        "7+",
-        "11",
-        "13+",
         null
       ]
     },
@@ -17009,6 +17013,246 @@
         "6",
         "8",
         "13",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "Luminescence",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Overdose",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "1",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "死ぬな！",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "どんぐりGAME",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "2",
+        "6",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Bring it on",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "君だったから",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "テトリス",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
+        "12",
+        "13+"
+      ]
+    },
+    {
+      "title": "モニタリング",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10+",
+        "11+",
+        "13"
+      ]
+    },
+    {
+      "title": "サイエンス",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "有頂天ドリーマーズ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "チルノのパーフェクトさんすう教室",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Unwelcome School",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
+        "12",
+        "14"
+      ]
+    },
+    {
+      "title": "彩りキャンバス",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Eureka",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7+",
+        "11+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "ニルヴの心臓",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "8",
+        "12+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "CiRCLE CAMPAiGN",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "殿ッ！？ご乱心！？",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "8",
+        "12+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "Magical Paradox",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "11+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "イーヴィルガール",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Dazzle hop",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "9",
+        "12+",
         "14",
         null
       ]
