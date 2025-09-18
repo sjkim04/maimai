@@ -125,7 +125,7 @@ const buildSongDb = () => {
           record: record
             ? {
                 ...record,
-                rating: rating(record?.achievement, internalLevel),
+                rating: rating(record?.achievement, internalLevel, record?.combo.includes('ALL PERFECT')),
                 isRatingAccurate: accurate,
               }
             : null,
