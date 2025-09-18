@@ -148,6 +148,22 @@ export const INTERNAL_V24: InternalFetchData = {
   }
 }
 
+// CiRCLE
+export const INTERNAL_V25: InternalFetchData = {
+    id: "17vd35oIHxjXPUU-6QJwYoTLPs2nneHN4hokMNLoQQLY",
+    sheets: {
+      "CiRCLE新曲": ABCE,
+      "PRiSM PLUS新曲": ABCE,
+      "新曲枠": ACDF,
+      "14以上": ACDF,
+      "13+": ABCE,
+      "13": ABCE,
+      "12+": ABCE,
+      "12": ABCE,
+  }
+}
+      
+
 export const INTERNALS = {
   15: INTERNAL_V15,
   16: INTERNAL_V16,
@@ -159,4 +175,5 @@ export const INTERNALS = {
   22: INTERNAL_V22,
   23: INTERNAL_V23,
   24: INTERNAL_V24
+  25: INTERNAL_V25
 };
