@@ -26,9 +26,9 @@ export const ratingFactor = (achievement: number) => {
   return 0;
 };
 
-export const rating = (achievement: number, internalLevel: number) => {
+export const rating = (achievement: number, internalLevel: number, isAP = false) => {
   const factor = ratingFactor(achievement);
   return (
-    (Math.min(100.5e4, achievement) / 10000) * (internalLevel / 10) * factor
+    (Math.min(100.5e4, achievement) / 10000) * (internalLevel / 10) * factor + (isAP ? 1 : 0)
   );
 };
