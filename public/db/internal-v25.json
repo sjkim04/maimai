@@ -1,5 +1,965 @@
 [
   {
+    "title": "ダーリンダンス",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "アージェントシンメトリー",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Limit Break",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "絶え間なく藍色",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "曖昧mind",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Link",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "隠然",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Lionheart",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "インドア系ならトラックメイカー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "インターネットサバイバー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ウッーウッーウマウマ(ﾟ∀ﾟ)",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ちがう!!!",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "神々が恋した幻想郷",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "雨露霜雪",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 135
+  },
+  {
+    "title": "廻廻奇譚",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "キャプテン・ムラサのケツアンカー",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "隠密あんみつDX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "響縁",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "噛み係",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "唱",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "キリキリ舞Mine",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Mystic Parade",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "真・ハンサム体操でズンドコホイ",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ここからはじまるプロローグ。",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ケロ⑨destiny",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "言ノ葉カルマ",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Night Fly",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "どういうことなの！？",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "天国と地獄",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "NOIZY BOUNCE",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "咲キ誇レ常世ノ華",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Now or Never",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "ヒトガタ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ドクハク",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "幻想のサテライト",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "ばかみたい【Taxi Driver Edition】",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Ourania",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ヒバリ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ファンタジーゾーン OPA-OPA! -GMT remix-",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "相思創愛",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "夢現妄想世界",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "パーフェクト生命",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "スカーレット警察のゲットーパトロール24時",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "ベースラインやってる？笑",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ソーラン☆節",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "タカハせ！名人マン",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "敗北の少年",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "蒼空に舞え、墨染の桜",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "バッド・ダンス・ホール",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ソリッド",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "宙天",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 135
+  },
+  {
+    "title": "チューリングの跡",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 135
+  },
+  {
+    "title": "Signature",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Brain Power",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "INTERNET OVERDOSE",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "conflict",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "SPILL OVER COLORS",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ULTRA POWER",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "+♂",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Spin me harder",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ブリキノダンス",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Define",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "トランスダンスアナーキー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "ENERGY SYNERGY MATRIX",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "ナイト・オブ・ナイツ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "パーフェクション",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Starlight Disco",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "EVERGREEN",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "パラドクスイヴ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Garden Of The Dragon",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Technicians High",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "GOODMEN",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ピリオドサイン",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "The Cursed Doll",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "魔法少女とチョコレゐト",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Halcyon",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "氷滅の135小節",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 134
+  },
+  {
+    "title": "the EmpErroR",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 134
+  },
+  {
+    "title": "フタタビ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "アンハッピーリフレイン",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "KISS CANDY FLAVOR",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "KONNANじゃないっ！",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ヴァンパイア",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "物凄い勢いでけーねが物凄いうた",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ウミユリ海底譚",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "物凄いヴァイブスで魔理沙が物凄いラップ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Love Kills U",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ぽわわん劇場",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "オーバーライド",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "四次元跳躍機関",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "いちげき！のテーマ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ロストワードクロニカル",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ユメヒバナ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "カーニバルハッピー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ワードワードワード",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "骸骨楽団とリリア",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Acceleration",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "心象蜃気楼",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ロウワー",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Aetheric Energy",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "RIDGE RACER STEPS -GMT remix-",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ツクヨミステップ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Grip & Break down !!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Grip & Break down !!",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Rush-More",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Believe the Rainbow",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "猫祭り",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ハート・ビート",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "No Routine",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Blew Moon",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "金の聖夜霜雪に朽ちて",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Blew Moon",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "クノイチでも恋がしたい",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Phantasm Brigade",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Sunday Night feat Kanata.N",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Scream out! -maimai SONIC WASHER Edit-",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Terminal Storm",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Cider P@rty",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "まっすぐ→→→ストリーム！",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "sweet little sister",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "BAD∞END∞NIGHT",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "sweet little sister",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Urban Crusher [Remix]",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "このピアノでお前を8759632145回ぶん殴る",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "ECHO",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "VOLT",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "撩乱乙女†無双劇",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "taboo tears you up",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Windy Hill -Zone 1",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "White Traveling Girl",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "with U",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Danza zandA",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "D✪N’T  ST✪P  R✪CKIN’",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "春嵐",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Magical Sound Shower",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "YA･DA･YO [Reborn]",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Dragoon",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "白ゆき",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Endless World",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "BOKUTO",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "1000年生きてる",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Falling",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Change Our MIRAI！",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "39",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "FestivaLight",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "セツナトリップ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Limits",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "千本桜",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Imitation:Loud Lounge",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "SPICY SWINGY STYLE",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Splash Dance!!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Still",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Kairos",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "Transcend Lights",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
+    "title": "We Are Us",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
     "title": "Overdose",
     "type": "DX",
     "difficulty": "MASTER",
@@ -162,6 +1122,12 @@
     "internalLevel": 141
   },
   {
+    "title": "超最終鬼畜妹フランドール・S",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
+  },
+  {
     "title": "砂の函",
     "type": "DX",
     "difficulty": "MASTER",
@@ -172,6 +1138,30 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
+  },
+  {
+    "title": "Amereistr",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
+  },
+  {
+    "title": "モエチャッカファイア",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "NO ONE YES MAN",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
+  },
+  {
+    "title": "メズマライザー",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 138
   },
   {
     "title": "MYTH Re：LEASE",
@@ -186,6 +1176,30 @@
     "internalLevel": 149
   },
   {
+    "title": "Luminescence",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "スナネコのうた",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Leave All Behind",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "月光",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "AFTER PANDORA",
     "type": "Standard",
     "difficulty": "MASTER",
@@ -196,6 +1210,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 144
+  },
+  {
+    "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "Synthesis.",
@@ -222,10 +1242,34 @@
     "internalLevel": 140
   },
   {
+    "title": "Xaleid◆scopiX",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 137
+  },
+  {
+    "title": "Dragoon",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
     "title": "Ref:rain (for 7th Heaven)",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 140
+  },
+  {
+    "title": "きゅびびびびずむ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "ネコ日和。",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "ATLAS RUSH",
@@ -234,16 +1278,112 @@
     "internalLevel": 147
   },
   {
+    "title": "うぇいびー",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "crazy (about you)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "Fraq",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
+  },
+  {
+    "title": "ホラフキパペット",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
+  },
+  {
+    "title": "ウタヒメナイトストーム",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "なんかノイズにきこえる",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "BlackFlagBreaker!!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "Tidal Wave",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "Feel The Luv",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "㋰責任集合体",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
+  },
+  {
     "title": "Zitronectar",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 143
   },
   {
+    "title": "JIGOKU STATION CENTRAL GATE",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "∀",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
+  },
+  {
+    "title": "概して過誤",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "Unfinished Epic",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "Lover's Trick",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "Supersonic Generation",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 139
   },
   {
     "title": "忙シー日",
@@ -258,10 +1398,28 @@
     "internalLevel": 148
   },
   {
+    "title": "サウンドプレイヤー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "ありきたりな恋の歌",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
     "title": "超最終鬼畜妹フランドール・S",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "㋰責任集合体",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 135
   },
   {
     "title": "World's end BLACKBOX",
@@ -274,6 +1432,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "スナネコのうた",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
   },
   {
     "title": "Xaleid◆scopiX",
@@ -4300,6 +5464,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 139
+  },
+  {
+    "title": "PinqPiq (xovevox Remix)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "NightTheater",
