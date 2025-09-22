@@ -1244,6 +1244,12 @@
   {
     "title": "Xaleid◆scopiX",
     "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 150
+  },
+  {
+    "title": "Xaleid◆scopiX",
+    "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 137
   },
@@ -1408,6 +1414,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "Xaleid◆scopiX",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 150
   },
   {
     "title": "超最終鬼畜妹フランドール・S",
@@ -1860,6 +1872,12 @@
     "internalLevel": 136
   },
   {
+    "title": "系ぎて",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 150
+  },
+  {
     "title": "神威",
     "type": "DX",
     "difficulty": "MASTER",
@@ -1882,6 +1900,12 @@
     "type": "DX",
     "difficulty": "Re:MASTER",
     "internalLevel": 141
+  },
+  {
+    "title": "PANDORA PARADOXXX",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 150
   },
   {
     "title": "渦状銀河のシンフォニエッタ",
