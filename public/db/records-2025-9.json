@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 86,
     "playCount": {
-      "total": 180,
-      "current": 1
+      "total": 181,
+      "current": 2
     }
   },
   "records": [
@@ -693,6 +693,26 @@
         },
         "dxRank": 2,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "サイエンス",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007409,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1488,
+          "max": 1596,
+          "percentage": 93.23308270676691
+        },
+        "dxRank": 3,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -7154,6 +7174,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Leave All Behind",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 908649,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1466,
+          "max": 2052,
+          "percentage": 71.44249512670565
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
