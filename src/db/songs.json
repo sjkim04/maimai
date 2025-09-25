@@ -1,5 +1,5 @@
 {
-  "chartCount": 5858,
+  "chartCount": 5870,
   "availableVersions": [
     {
       "value": 0,
@@ -17254,6 +17254,42 @@
         "9",
         "12+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "エンジェル ドリーム",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7+",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Hurtling Boys",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "12+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "Magical Flavor",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
         null
       ]
     }

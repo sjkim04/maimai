@@ -3618,6 +3618,12 @@
     "internalLevel": 132
   },
   {
+    "title": "超最終鬼畜妹フランドール・S",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
     "title": "Dazzle hop",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3636,6 +3642,12 @@
     "internalLevel": 132
   },
   {
+    "title": "Synthesis.",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
     "title": "Eureka",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3652,6 +3664,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 132
+  },
+  {
+    "title": "ATLAS RUSH",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
   },
   {
     "title": "Overjoy ★ OVERDOSE!!",
@@ -7600,5 +7618,281 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "さくゆいたいそう",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "拝啓ドッペルゲンガー",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "バレリーコ",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "セイクリッド　ルイン",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "Crazy Circle",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "天使光輪",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "フリィダム ロリィタ",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "B.M.S.",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "ロールプレイングゲーム",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "keep hopping",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "Dreadnought",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "Link",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "M.S.S.Planet",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Ignite Infinity",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Living Universe",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "裏表ラバーズ",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "MilK",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "Strobe♡Girl",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Natural Flow",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "からくりピエロ",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "NULCTRL",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "カラフル×メロディ",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Riders Of The Light",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "TEmPTaTiON",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "強風オールバック",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "囲い無き世は一期の月影",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Vallista",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "ゴーゴー幽霊船",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "最速最高シャッターガール",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "月に叢雲華に風",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "火炎地獄",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "サヨナラフリーウェイ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "ぐるぐるWASH！コインランドリー・ディスコ",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "スターリースカイ☆パレード",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Bad Apple!! feat.nomico (REDALiCE Remix)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "INFINITE WORLD",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "LOSTPHANTASIA",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "フォルテシモBELL",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "猛進ソリストライフ！",
+    "type": "Standard",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "Change Our MIRAI！",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "WARNING×WARNING×WARNING",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Falsum Atlantis.",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
+  },
+  {
+    "title": "Yet Another ”drizzly rain”",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "Help me, あーりん！",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "ネコ日和。",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": 126
+  },
+  {
+    "title": "8-EM",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
   }
 ]
