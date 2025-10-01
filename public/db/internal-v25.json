@@ -2874,6 +2874,12 @@
     "internalLevel": 130
   },
   {
+    "title": "Magical Flavor",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 132
+  },
+  {
     "title": "Bring it on",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3016,6 +3022,18 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
+  },
+  {
+    "title": "エンジェル ドリーム",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "Hurtling Boys",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 145
   },
   {
     "title": "Åntinomiε",

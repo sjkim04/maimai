@@ -26038,6 +26038,14 @@
     }
   },
   {
+    "title": "Magical Flavor",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 132
+    }
+  },
+  {
     "title": "Bring it on",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26227,6 +26235,22 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 130
+    }
+  },
+  {
+    "title": "エンジェル ドリーム",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 137
+    }
+  },
+  {
+    "title": "Hurtling Boys",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 145
     }
   }
 ]
