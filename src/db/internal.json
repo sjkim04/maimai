@@ -26070,7 +26070,23 @@
     }
   },
   {
+    "title": "しゅ～しん？変身☆ハカイシンzzZ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 138
+    }
+  },
+  {
     "title": "どんぐりGAME",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 136
+    }
+  },
+  {
+    "title": "命テステス",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
@@ -26102,6 +26118,14 @@
     }
   },
   {
+    "title": "拝啓、最高の思い出たち",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 130
+    }
+  },
+  {
     "title": "テトリス",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -26110,11 +26134,27 @@
     }
   },
   {
+    "title": "おべんきょうたいむ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 141
+    }
+  },
+  {
     "title": "サイエンス",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 130
+    }
+  },
+  {
+    "title": "おべんきょうたいむ",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 124
     }
   },
   {
@@ -26139,6 +26179,14 @@
     "difficulty": "Re:MASTER",
     "internalLevel": {
       "25": 140
+    }
+  },
+  {
+    "title": "るろうらんる",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 143
     }
   },
   {
@@ -26251,6 +26299,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 145
+    }
+  },
+  {
+    "title": "Hurtling Boys",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 128
     }
   }
 ]
