@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 86,
     "playCount": {
-      "total": 181,
-      "current": 2
+      "total": 182,
+      "current": 3
     }
   },
   "records": [
@@ -3504,7 +3504,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1006402,
+        "achievement": 1008440,
         "rank": "SSS+",
         "dxScore": {
           "score": 1747,
@@ -3512,7 +3512,7 @@
           "percentage": 94.07646742057081
         },
         "dxRank": 3,
-        "combo": "FULL COMBO",
+        "combo": "FULL COMBO+",
         "sync": "FULL SYNC+"
       }
     },
