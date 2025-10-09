@@ -147,8 +147,8 @@
     "type": "icon",
     "image": "https://maimaidx.jp/maimai-mobile/img/Icon/a9dc639d3b536d5e.png",
     "title": "CiRCLE",
-    "complete": false,
-    "stampCount": 4,
+    "complete": true,
+    "stampCount": 5,
     "max": 5
   },
   {

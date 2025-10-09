@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 86,
     "playCount": {
-      "total": 182,
-      "current": 3
+      "total": 183,
+      "current": 4
     }
   },
   "records": [
@@ -713,6 +713,26 @@
         },
         "dxRank": 3,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "しゅ～しん？変身☆ハカイシンzzZ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003809,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1579,
+          "max": 1824,
+          "percentage": 86.56798245614034
+        },
+        "dxRank": 1,
+        "combo": null,
         "sync": null
       }
     },
@@ -6234,6 +6254,26 @@
         "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "サイエンス",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 968914,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1814,
+          "max": 2250,
+          "percentage": 80.62222222222222
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
