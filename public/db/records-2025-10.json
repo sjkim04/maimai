@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13339,
+    "rating": 13365,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 5,
-    "stars": 86,
+    "stars": 87,
     "playCount": {
-      "total": 183,
-      "current": 4
+      "total": 185,
+      "current": 6
     }
   },
   "records": [
@@ -2704,7 +2704,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 998049,
+        "achievement": 999247,
         "rank": "SS+",
         "dxScore": {
           "score": 1593,
@@ -2864,15 +2864,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 967485,
-        "rank": "AAA",
+        "achievement": 1006955,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1460,
+          "score": 1735,
           "max": 1947,
-          "percentage": 74.98715973292245
+          "percentage": 89.11145351823318
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
       }
     },
@@ -4644,14 +4644,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 987839,
-        "rank": "S+",
+        "achievement": 997871,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1683,
+          "score": 1707,
           "max": 1995,
-          "percentage": 84.3609022556391
+          "percentage": 85.56390977443608
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -6264,12 +6264,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 968914,
-        "rank": "AAA",
+        "achievement": 982109,
+        "rank": "S+",
         "dxScore": {
-          "score": 1814,
+          "score": 1910,
           "max": 2250,
-          "percentage": 80.62222222222222
+          "percentage": 84.88888888888889
         },
         "dxRank": 0,
         "combo": null,
@@ -7903,13 +7903,13 @@
         "difficulty": "Re:MASTER"
       },
       "score": {
-        "clear": false,
-        "achievement": 790672,
-        "rank": "BBB",
+        "clear": true,
+        "achievement": 828744,
+        "rank": "A",
         "dxScore": {
-          "score": 1859,
+          "score": 2044,
           "max": 3543,
-          "percentage": 52.46965848151284
+          "percentage": 57.69122212814
         },
         "dxRank": 0,
         "combo": null,
