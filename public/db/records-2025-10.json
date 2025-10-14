@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13365,
+    "rating": 13392,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 5,
-    "stars": 87,
+    "stars": 88,
     "playCount": {
-      "total": 185,
-      "current": 6
+      "total": 187,
+      "current": 8
     }
   },
   "records": [
@@ -2358,6 +2358,26 @@
     },
     {
       "track": {
+        "title": "ニルヴの心臓",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997648,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1691,
+          "max": 2019,
+          "percentage": 83.75433382862803
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Synthesis.",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -2694,6 +2714,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "NO ONE YES MAN",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1005977,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1436,
+          "max": 1563,
+          "percentage": 91.87460012795906
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -5424,8 +5464,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 982027,
-        "rank": "S+",
+        "achievement": 993202,
+        "rank": "SS",
         "dxScore": {
           "score": 1888,
           "max": 2220,
@@ -5467,9 +5507,9 @@
         "achievement": 983656,
         "rank": "S+",
         "dxScore": {
-          "score": 1683,
+          "score": 1702,
           "max": 1980,
-          "percentage": 85
+          "percentage": 85.95959595959596
         },
         "dxRank": 1,
         "combo": null,
@@ -6867,11 +6907,11 @@
         "achievement": 974605,
         "rank": "S",
         "dxScore": {
-          "score": 1372,
+          "score": 1410,
           "max": 1644,
-          "percentage": 83.45498783454988
+          "percentage": 85.76642335766424
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
