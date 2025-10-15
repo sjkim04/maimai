@@ -26174,19 +26174,19 @@
     }
   },
   {
-    "title": "Unwelcome School",
-    "type": "DX",
-    "difficulty": "Re:MASTER",
-    "internalLevel": {
-      "25": 140
-    }
-  },
-  {
     "title": "るろうらんる",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 143
+    }
+  },
+  {
+    "title": "Unwelcome School",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": {
+      "25": 140
     }
   },
   {
@@ -26206,11 +26206,27 @@
     }
   },
   {
+    "title": "はじまりの未来",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 130
+    }
+  },
+  {
     "title": "ニルヴの心臓",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 143
+    }
+  },
+  {
+    "title": "Worlders",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 128
     }
   },
   {
@@ -26235,6 +26251,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 138
+    }
+  },
+  {
+    "title": "怪盗Rのテーマ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 132
     }
   },
   {

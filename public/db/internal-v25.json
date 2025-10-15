@@ -2976,16 +2976,16 @@
     "internalLevel": 122
   },
   {
-    "title": "Unwelcome School",
-    "type": "DX",
-    "difficulty": "Re:MASTER",
-    "internalLevel": 140
-  },
-  {
     "title": "るろうらんる",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 143
+  },
+  {
+    "title": "Unwelcome School",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": 140
   },
   {
     "title": "彩りキャンバス",
@@ -3000,10 +3000,22 @@
     "internalLevel": 141
   },
   {
+    "title": "はじまりの未来",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 130
+  },
+  {
     "title": "ニルヴの心臓",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 143
+  },
+  {
+    "title": "Worlders",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 128
   },
   {
     "title": "ニルヴの心臓",
@@ -3022,6 +3034,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "怪盗Rのテーマ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 132
   },
   {
     "title": "殿ッ！？ご乱心！？",
@@ -3570,9 +3588,9 @@
     "internalLevel": 133
   },
   {
-    "title": "Hurtling Boys",
+    "title": "Worlders",
     "type": "DX",
-    "difficulty": "EXPERT",
+    "difficulty": "MASTER",
     "internalLevel": 128
   },
   {
@@ -3594,6 +3612,12 @@
     "internalLevel": 133
   },
   {
+    "title": "Hurtling Boys",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 128
+  },
+  {
     "title": "Zitronectar",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3610,12 +3634,6 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 133
-  },
-  {
-    "title": "Dazzle hop",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 128
   },
   {
     "title": "Destined Marionette",
@@ -3636,6 +3654,12 @@
     "internalLevel": 133
   },
   {
+    "title": "Dazzle hop",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 128
+  },
+  {
     "title": "∀",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3652,12 +3676,6 @@
     "type": "DX",
     "difficulty": "Re:MASTER",
     "internalLevel": 132
-  },
-  {
-    "title": "ニルヴの心臓",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": 127
   },
   {
     "title": "忙シー日",
@@ -3678,7 +3696,7 @@
     "internalLevel": 132
   },
   {
-    "title": "殿ッ！？ご乱心！？",
+    "title": "ニルヴの心臓",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 127
@@ -3702,10 +3720,10 @@
     "internalLevel": 132
   },
   {
-    "title": "超最終鬼畜妹フランドール・S",
+    "title": "殿ッ！？ご乱心！？",
     "type": "DX",
     "difficulty": "EXPERT",
-    "internalLevel": 126
+    "internalLevel": 127
   },
   {
     "title": "AFTER PANDORA",
@@ -3726,7 +3744,7 @@
     "internalLevel": 132
   },
   {
-    "title": "Synthesis.",
+    "title": "超最終鬼畜妹フランドール・S",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 126
@@ -3750,7 +3768,7 @@
     "internalLevel": 132
   },
   {
-    "title": "ATLAS RUSH",
+    "title": "Synthesis.",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 126
@@ -3768,10 +3786,16 @@
     "internalLevel": 138
   },
   {
-    "title": "プリズム△▽リズム",
-    "type": "Standard",
+    "title": "怪盗Rのテーマ",
+    "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 132
+  },
+  {
+    "title": "ATLAS RUSH",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 126
   },
   {
     "title": "Eureka",
@@ -3786,8 +3810,8 @@
     "internalLevel": 138
   },
   {
-    "title": "Magical Flavor",
-    "type": "DX",
+    "title": "プリズム△▽リズム",
+    "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 132
   },
@@ -3804,10 +3828,10 @@
     "internalLevel": 137
   },
   {
-    "title": "もういいよ",
+    "title": "Magical Flavor",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 131
+    "internalLevel": 132
   },
   {
     "title": "Synthesis.",
@@ -3822,7 +3846,7 @@
     "internalLevel": 137
   },
   {
-    "title": "有頂天ドリーマーズ",
+    "title": "もういいよ",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 131
@@ -3840,7 +3864,7 @@
     "internalLevel": 137
   },
   {
-    "title": "Pixel Galaxy",
+    "title": "有頂天ドリーマーズ",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 131
@@ -3858,9 +3882,9 @@
     "internalLevel": 137
   },
   {
-    "title": "World's end BLACKBOX",
+    "title": "Pixel Galaxy",
     "type": "DX",
-    "difficulty": "EXPERT",
+    "difficulty": "MASTER",
     "internalLevel": 131
   },
   {
@@ -3871,6 +3895,24 @@
   },
   {
     "title": "エンジェル ドリーム",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "World's end BLACKBOX",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 131
+  },
+  {
+    "title": "砂の函",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 140
+  },
+  {
+    "title": "概して過誤",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3888,13 +3930,13 @@
     "internalLevel": 124
   },
   {
-    "title": "砂の函",
+    "title": "Ref:rain (for 7th Heaven)",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 140
   },
   {
-    "title": "概して過誤",
+    "title": "ネコ日和。",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3906,13 +3948,7 @@
     "internalLevel": 130
   },
   {
-    "title": "Ref:rain (for 7th Heaven)",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 140
-  },
-  {
-    "title": "ネコ日和。",
+    "title": "CiRCLE CAMPAiGN",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3930,7 +3966,7 @@
     "internalLevel": 122
   },
   {
-    "title": "CiRCLE CAMPAiGN",
+    "title": "Dragoon",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3942,7 +3978,7 @@
     "internalLevel": 130
   },
   {
-    "title": "Dragoon",
+    "title": "Fraq",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3954,9 +3990,9 @@
     "internalLevel": 130
   },
   {
-    "title": "Fraq",
+    "title": "Xaleid◆scopiX",
     "type": "DX",
-    "difficulty": "MASTER",
+    "difficulty": "EXPERT",
     "internalLevel": 137
   },
   {
@@ -3966,9 +4002,9 @@
     "internalLevel": 130
   },
   {
-    "title": "Xaleid◆scopiX",
+    "title": "サウンドプレイヤー",
     "type": "DX",
-    "difficulty": "EXPERT",
+    "difficulty": "MASTER",
     "internalLevel": 137
   },
   {
@@ -3984,25 +4020,13 @@
     "internalLevel": 120
   },
   {
-    "title": "サウンドプレイヤー",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 137
-  },
-  {
-    "title": "抜錨",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 130
-  },
-  {
     "title": "なんかノイズにきこえる",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
   },
   {
-    "title": "三日月ステップ 2023",
+    "title": "はじまりの未来",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
@@ -4014,7 +4038,7 @@
     "internalLevel": 137
   },
   {
-    "title": "ゆりかご",
+    "title": "抜錨",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
@@ -4026,7 +4050,7 @@
     "internalLevel": 136
   },
   {
-    "title": "チルノのパーフェクトさんすう教室",
+    "title": "三日月ステップ 2023",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
@@ -4038,7 +4062,19 @@
     "internalLevel": 136
   },
   {
-    "title": "彩りキャンバス",
+    "title": "ゆりかご",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 130
+  },
+  {
+    "title": "命テステス",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
+  },
+  {
+    "title": "チルノのパーフェクトさんすう教室",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
@@ -4050,22 +4086,22 @@
     "internalLevel": 118
   },
   {
-    "title": "命テステス",
+    "title": "Drivessover",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 136
+  },
+  {
+    "title": "彩りキャンバス",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 130
   },
   {
     "title": "Retribution 〜 Cycle of Redemption 〜",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 130
-  },
-  {
-    "title": "Drivessover",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": 136
   },
   {
     "title": "Believe the Rainbow",

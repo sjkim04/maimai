@@ -1,5 +1,5 @@
 {
-  "chartCount": 5890,
+  "chartCount": 5902,
   "availableVersions": [
     {
       "value": 0,
@@ -17350,6 +17350,42 @@
         "7+",
         "11+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "はじまりの未来",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Worlders",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "怪盗Rのテーマ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
         null
       ]
     }
