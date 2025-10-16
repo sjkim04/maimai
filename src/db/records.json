@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13392,
+    "rating": 13407,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
-      "tier": "Normal",
-      "title": "\n\t\t\t\t\tサイゴノキボウ ヲミツケテ\n\t\t\t\t"
+      "tier": "Rainbow",
+      "title": "\n\t\t\t\t\tシフォンチーム　1位\n\t\t\t\t"
     },
     "courseRank": 7,
     "classRank": 5,
     "stars": 88,
     "playCount": {
-      "total": 187,
-      "current": 8
+      "total": 188,
+      "current": 9
     }
   },
   "records": [
@@ -694,6 +694,46 @@
         "dxRank": 2,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "はじまりの未来",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1008813,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1161,
+          "max": 1299,
+          "percentage": 89.37644341801386
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO+",
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Worlders",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1009500,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1053,
+          "max": 1152,
+          "percentage": 91.40625
+        },
+        "dxRank": 2,
+        "combo": "ALL PERFECT",
+        "sync": "FULL SYNC"
       }
     },
     {
@@ -4124,8 +4164,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1004764,
-        "rank": "SSS",
+        "achievement": 1006347,
+        "rank": "SSS+",
         "dxScore": {
           "score": 1768,
           "max": 1956,
@@ -4133,7 +4173,7 @@
         },
         "dxRank": 2,
         "combo": "FULL COMBO+",
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -5084,16 +5124,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 991056,
-        "rank": "SS",
+        "achievement": 995292,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1625,
+          "score": 1641,
           "max": 1923,
-          "percentage": 84.5033801352054
+          "percentage": 85.33541341653667
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
