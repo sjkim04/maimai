@@ -26246,6 +26246,14 @@
     }
   },
   {
+    "title": "廃墟にいますキャンペーン",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 139
+    }
+  },
+  {
     "title": "Magical Paradox",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26275,6 +26283,22 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "25": 127
+    }
+  },
+  {
+    "title": "Customized Justice",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 148
+    }
+  },
+  {
+    "title": "Customized Justice",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 130
     }
   },
   {
