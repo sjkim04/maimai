@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13407,
+    "rating": 13414,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Rainbow",
@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 88,
     "playCount": {
-      "total": 188,
-      "current": 9
+      "total": 189,
+      "current": 10
     }
   },
   "records": [
@@ -4987,9 +4987,9 @@
         "achievement": 961305,
         "rank": "AAA",
         "dxScore": {
-          "score": 2089,
+          "score": 2102,
           "max": 2664,
-          "percentage": 78.41591591591592
+          "percentage": 78.90390390390391
         },
         "dxRank": 0,
         "combo": null,
@@ -6338,20 +6338,40 @@
     },
     {
       "track": {
+        "title": "はじまりの未来",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987625,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1590,
+          "max": 1869,
+          "percentage": 85.07223113964687
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "サイエンス",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 982109,
-        "rank": "S+",
+        "achievement": 993318,
+        "rank": "SS",
         "dxScore": {
-          "score": 1910,
+          "score": 1958,
           "max": 2250,
-          "percentage": 84.88888888888889
+          "percentage": 87.02222222222223
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
