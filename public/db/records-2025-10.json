@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13426,
+    "rating": 13431,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Rainbow",
@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 89,
     "playCount": {
-      "total": 190,
-      "current": 11
+      "total": 191,
+      "current": 12
     }
   },
   "records": [
@@ -1704,12 +1704,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 895508,
-        "rank": "A",
+        "achievement": 953039,
+        "rank": "AAA",
         "dxScore": {
-          "score": 1020,
+          "score": 1059,
           "max": 1455,
-          "percentage": 70.10309278350515
+          "percentage": 72.78350515463917
         },
         "dxRank": 0,
         "combo": null,
@@ -5564,8 +5564,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 991835,
-        "rank": "SS",
+        "achievement": 996794,
+        "rank": "SS+",
         "dxScore": {
           "score": 1792,
           "max": 2064,
@@ -7827,9 +7827,9 @@
         "achievement": 964771,
         "rank": "AAA",
         "dxScore": {
-          "score": 1965,
+          "score": 1983,
           "max": 2460,
-          "percentage": 79.8780487804878
+          "percentage": 80.60975609756098
         },
         "dxRank": 0,
         "combo": null,
