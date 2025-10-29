@@ -1,5 +1,5 @@
 {
-  "chartCount": 5902,
+  "chartCount": 5910,
   "availableVersions": [
     {
       "value": 0,
@@ -17386,6 +17386,30 @@
         "6",
         "10",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "ヒアソビ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "9",
+        "13",
+        "14+",
         null
       ]
     }
