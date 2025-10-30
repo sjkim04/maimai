@@ -26318,11 +26318,35 @@
     }
   },
   {
+    "title": "ヒアソビ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 137
+    }
+  },
+  {
+    "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 148
+    }
+  },
+  {
     "title": "イーヴィルガール",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 138
+    }
+  },
+  {
+    "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 132
     }
   },
   {

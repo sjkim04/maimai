@@ -3084,10 +3084,28 @@
     "internalLevel": 128
   },
   {
+    "title": "ヒアソビ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
+  },
+  {
+    "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 148
+  },
+  {
     "title": "イーヴィルガール",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 138
+  },
+  {
+    "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 132
   },
   {
     "title": "チルノのパーフェクトさんすう教室",
@@ -3492,7 +3510,7 @@
     "internalLevel": 134
   },
   {
-    "title": "FLΛME/FRΦST",
+    "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 148
@@ -3510,10 +3528,10 @@
     "internalLevel": 133
   },
   {
-    "title": "ATLAS RUSH",
+    "title": "FLΛME/FRΦST",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 147
+    "internalLevel": 148
   },
   {
     "title": "きゅびびびびずむ",
@@ -3534,10 +3552,10 @@
     "internalLevel": 128
   },
   {
-    "title": "Åntinomiε",
+    "title": "ATLAS RUSH",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 146
+    "internalLevel": 147
   },
   {
     "title": "モエチャッカファイア",
@@ -3552,10 +3570,10 @@
     "internalLevel": 133
   },
   {
-    "title": "Hurtling Boys",
+    "title": "Åntinomiε",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 145
+    "internalLevel": 146
   },
   {
     "title": "BlackFlagBreaker!!",
@@ -3570,7 +3588,7 @@
     "internalLevel": 133
   },
   {
-    "title": "MYTH Re：LEASE",
+    "title": "Hurtling Boys",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 145
@@ -3588,10 +3606,10 @@
     "internalLevel": 133
   },
   {
-    "title": "Retribution 〜 Cycle of Redemption 〜",
+    "title": "MYTH Re：LEASE",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 144
+    "internalLevel": 145
   },
   {
     "title": "しゅ～しん？変身☆ハカイシンzzZ",
@@ -3612,10 +3630,10 @@
     "internalLevel": 128
   },
   {
-    "title": "るろうらんる",
+    "title": "Retribution 〜 Cycle of Redemption 〜",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 143
+    "internalLevel": 144
   },
   {
     "title": "メズマライザー",
@@ -3636,7 +3654,7 @@
     "internalLevel": 128
   },
   {
-    "title": "ニルヴの心臓",
+    "title": "るろうらんる",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 143
@@ -3654,7 +3672,7 @@
     "internalLevel": 133
   },
   {
-    "title": "Zitronectar",
+    "title": "ニルヴの心臓",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 143
@@ -3678,10 +3696,10 @@
     "internalLevel": 128
   },
   {
-    "title": "Destined Marionette",
+    "title": "Zitronectar",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 142
+    "internalLevel": 143
   },
   {
     "title": "ウタヒメナイトストーム",
@@ -3696,7 +3714,7 @@
     "internalLevel": 132
   },
   {
-    "title": "∀",
+    "title": "Destined Marionette",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
@@ -3720,7 +3738,7 @@
     "internalLevel": 127
   },
   {
-    "title": "忙シー日",
+    "title": "∀",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
@@ -3744,7 +3762,7 @@
     "internalLevel": 127
   },
   {
-    "title": "殿ッ！？ご乱心！？",
+    "title": "忙シー日",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
@@ -3768,8 +3786,8 @@
     "internalLevel": 126
   },
   {
-    "title": "AFTER PANDORA",
-    "type": "Standard",
+    "title": "殿ッ！？ご乱心！？",
+    "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
   },
@@ -3792,8 +3810,8 @@
     "internalLevel": 126
   },
   {
-    "title": "Dazzle hop",
-    "type": "DX",
+    "title": "AFTER PANDORA",
+    "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 142
   },
@@ -3816,10 +3834,10 @@
     "internalLevel": 126
   },
   {
-    "title": "おべんきょうたいむ",
+    "title": "Dazzle hop",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 141
+    "internalLevel": 142
   },
   {
     "title": "JIGOKU STATION CENTRAL GATE",
@@ -3834,7 +3852,7 @@
     "internalLevel": 132
   },
   {
-    "title": "Eureka",
+    "title": "おべんきょうたいむ",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3852,7 +3870,7 @@
     "internalLevel": 132
   },
   {
-    "title": "Overjoy ★ OVERDOSE!!",
+    "title": "Eureka",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3870,7 +3888,7 @@
     "internalLevel": 131
   },
   {
-    "title": "Synthesis.",
+    "title": "Overjoy ★ OVERDOSE!!",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3888,7 +3906,7 @@
     "internalLevel": 131
   },
   {
-    "title": "IMBRUED:FLUX",
+    "title": "Synthesis.",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3906,13 +3924,13 @@
     "internalLevel": 131
   },
   {
-    "title": "DATAERR0R",
+    "title": "IMBRUED:FLUX",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 140
+    "internalLevel": 141
   },
   {
-    "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+    "title": "ヒアソビ",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3924,13 +3942,13 @@
     "internalLevel": 131
   },
   {
-    "title": "Unwelcome School",
+    "title": "DATAERR0R",
     "type": "DX",
-    "difficulty": "Re:MASTER",
+    "difficulty": "MASTER",
     "internalLevel": 140
   },
   {
-    "title": "エンジェル ドリーム",
+    "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3948,13 +3966,13 @@
     "internalLevel": 124
   },
   {
-    "title": "砂の函",
+    "title": "Unwelcome School",
     "type": "DX",
-    "difficulty": "MASTER",
+    "difficulty": "Re:MASTER",
     "internalLevel": 140
   },
   {
-    "title": "概して過誤",
+    "title": "エンジェル ドリーム",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3966,13 +3984,13 @@
     "internalLevel": 130
   },
   {
-    "title": "Ref:rain (for 7th Heaven)",
+    "title": "砂の函",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 140
   },
   {
-    "title": "ネコ日和。",
+    "title": "概して過誤",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -3990,7 +4008,13 @@
     "internalLevel": 122
   },
   {
-    "title": "CiRCLE CAMPAiGN",
+    "title": "Ref:rain (for 7th Heaven)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 140
+  },
+  {
+    "title": "ネコ日和。",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4002,7 +4026,7 @@
     "internalLevel": 130
   },
   {
-    "title": "Dragoon",
+    "title": "CiRCLE CAMPAiGN",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4014,7 +4038,7 @@
     "internalLevel": 130
   },
   {
-    "title": "Fraq",
+    "title": "Dragoon",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4026,9 +4050,9 @@
     "internalLevel": 130
   },
   {
-    "title": "Xaleid◆scopiX",
+    "title": "Fraq",
     "type": "DX",
-    "difficulty": "EXPERT",
+    "difficulty": "MASTER",
     "internalLevel": 137
   },
   {
@@ -4044,9 +4068,9 @@
     "internalLevel": 120
   },
   {
-    "title": "サウンドプレイヤー",
+    "title": "Xaleid◆scopiX",
     "type": "DX",
-    "difficulty": "MASTER",
+    "difficulty": "EXPERT",
     "internalLevel": 137
   },
   {
@@ -4056,7 +4080,7 @@
     "internalLevel": 130
   },
   {
-    "title": "なんかノイズにきこえる",
+    "title": "サウンドプレイヤー",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4068,7 +4092,7 @@
     "internalLevel": 130
   },
   {
-    "title": "Lover's Trick",
+    "title": "なんかノイズにきこえる",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
@@ -4080,10 +4104,10 @@
     "internalLevel": 130
   },
   {
-    "title": "どんぐりGAME",
+    "title": "Lover's Trick",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 136
+    "internalLevel": 137
   },
   {
     "title": "ゆりかご",
@@ -4092,7 +4116,7 @@
     "internalLevel": 130
   },
   {
-    "title": "ホラフキパペット",
+    "title": "どんぐりGAME",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 136
@@ -4110,7 +4134,7 @@
     "internalLevel": 118
   },
   {
-    "title": "命テステス",
+    "title": "ホラフキパペット",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 136
@@ -4122,7 +4146,7 @@
     "internalLevel": 130
   },
   {
-    "title": "Drivessover",
+    "title": "命テステス",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 136
@@ -4132,6 +4156,12 @@
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 130
+  },
+  {
+    "title": "Drivessover",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
   },
   {
     "title": "Believe the Rainbow",
