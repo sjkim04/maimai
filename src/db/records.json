@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 5,
-    "stars": 89,
+    "stars": 92,
     "playCount": {
-      "total": 191,
-      "current": 12
+      "total": 192,
+      "current": 13
     }
   },
   "records": [
@@ -753,6 +753,26 @@
         },
         "dxRank": 3,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ヒアソビ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1009140,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1417,
+          "max": 1557,
+          "percentage": 91.00834938985228
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
         "sync": null
       }
     },
@@ -5184,7 +5204,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 972961,
+        "achievement": 976100,
         "rank": "S",
         "dxScore": {
           "score": 1485,
@@ -5332,6 +5352,26 @@
           "percentage": 86.73982624599908
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "larva",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979943,
+        "rank": "S",
+        "dxScore": {
+          "score": 1752,
+          "max": 2301,
+          "percentage": 76.14080834419818
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
