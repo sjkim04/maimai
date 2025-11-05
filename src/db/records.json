@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 92,
     "playCount": {
-      "total": 192,
-      "current": 13
+      "total": 193,
+      "current": 14
     }
   },
   "records": [
@@ -3718,6 +3718,26 @@
     },
     {
       "track": {
+        "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 942959,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1769,
+          "max": 2424,
+          "percentage": 72.97854785478548
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Unfinished Epic",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5364,12 +5384,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 979943,
-        "rank": "S",
+        "achievement": 988866,
+        "rank": "S+",
         "dxScore": {
-          "score": 1752,
+          "score": 1943,
           "max": 2301,
-          "percentage": 76.14080834419818
+          "percentage": 84.44154715341156
         },
         "dxRank": 0,
         "combo": null,
@@ -5604,12 +5624,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 996794,
+        "achievement": 999648,
         "rank": "SS+",
         "dxScore": {
-          "score": 1792,
+          "score": 1806,
           "max": 2064,
-          "percentage": 86.82170542635659
+          "percentage": 87.5
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
