@@ -1,5 +1,5 @@
 {
-  "chartCount": 5910,
+  "chartCount": 5926,
   "availableVersions": [
     {
       "value": 0,
@@ -17410,6 +17410,54 @@
         "9",
         "13",
         "14+",
+        null
+      ]
+    },
+    {
+      "title": "真空都市",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Eternal Return",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "ぱぱぱらビーチ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Get U ♭ack",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8+",
+        "12+",
+        "14",
         null
       ]
     }
