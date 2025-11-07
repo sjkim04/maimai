@@ -3114,6 +3114,24 @@
     "internalLevel": 130
   },
   {
+    "title": "真空都市",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 134
+  },
+  {
+    "title": "Eternal Return",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
+  },
+  {
+    "title": "ぱぱぱらビーチ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 136
+  },
+  {
     "title": "エンジェル ドリーム",
     "type": "DX",
     "difficulty": "MASTER",
@@ -3126,10 +3144,22 @@
     "internalLevel": 145
   },
   {
+    "title": "Get U ♭ack",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 145
+  },
+  {
     "title": "Hurtling Boys",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": 128
+  },
+  {
+    "title": "Get U ♭ack",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 129
   },
   {
     "title": "Åntinomiε",
