@@ -9,10 +9,10 @@
     },
     "courseRank": 7,
     "classRank": 5,
-    "stars": 92,
+    "stars": 96,
     "playCount": {
-      "total": 193,
-      "current": 14
+      "total": 194,
+      "current": 15
     }
   },
   "records": [
@@ -3724,12 +3724,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 942959,
+        "achievement": 951812,
         "rank": "AAA",
         "dxScore": {
-          "score": 1769,
+          "score": 1801,
           "max": 2424,
-          "percentage": 72.97854785478548
+          "percentage": 74.29867986798679
         },
         "dxRank": 0,
         "combo": null,
@@ -6244,12 +6244,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 956049,
+        "achievement": 961662,
         "rank": "AAA",
         "dxScore": {
-          "score": 2021,
+          "score": 2051,
           "max": 2466,
-          "percentage": 81.95458231954582
+          "percentage": 83.17112733171128
         },
         "dxRank": 0,
         "combo": null,
