@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13431,
+    "rating": 13450,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Rainbow",
@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 96,
     "playCount": {
-      "total": 194,
-      "current": 15
+      "total": 195,
+      "current": 16
     }
   },
   "records": [
@@ -6404,12 +6404,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 987625,
-        "rank": "S+",
+        "achievement": 998991,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1590,
+          "score": 1635,
           "max": 1869,
-          "percentage": 85.07223113964687
+          "percentage": 87.47993579454254
         },
         "dxRank": 1,
         "combo": null,
@@ -6724,14 +6724,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 987403,
-        "rank": "S+",
+        "achievement": 993752,
+        "rank": "SS",
         "dxScore": {
-          "score": 1960,
+          "score": 1987,
           "max": 2316,
-          "percentage": 84.6286701208981
+          "percentage": 85.7944732297064
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -7610,6 +7610,26 @@
           "score": 1816,
           "max": 2238,
           "percentage": 81.1438784629133
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "アンビバレンス",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 968330,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2173,
+          "max": 2652,
+          "percentage": 81.93815987933635
         },
         "dxRank": 0,
         "combo": null,
