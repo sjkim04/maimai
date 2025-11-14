@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13450,
+    "rating": 13453,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Rainbow",
@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 96,
     "playCount": {
-      "total": 195,
-      "current": 16
+      "total": 197,
+      "current": 18
     }
   },
   "records": [
@@ -1904,14 +1904,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 984139,
-        "rank": "S+",
+        "achievement": 1007291,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1541,
+          "score": 1692,
           "max": 1848,
-          "percentage": 83.38744588744589
+          "percentage": 91.55844155844156
         },
-        "dxRank": 0,
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
@@ -6378,6 +6378,26 @@
     },
     {
       "track": {
+        "title": "テトリス",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003174,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 2028,
+          "max": 2223,
+          "percentage": 91.22807017543859
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "メズマライザー",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7098,6 +7118,46 @@
     },
     {
       "track": {
+        "title": "独りんぼエンヴィー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984659,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1583,
+          "max": 1818,
+          "percentage": 87.07370737073707
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ラグトレイン",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 965182,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1885,
+          "max": 2316,
+          "percentage": 81.39032815198618
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ダンスロボットダンス",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7110,6 +7170,26 @@
           "score": 2172,
           "max": 2541,
           "percentage": 85.47815820543093
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ツギハギスタッカート",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 994555,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1615,
+          "max": 1797,
+          "percentage": 89.87200890372844
         },
         "dxRank": 1,
         "combo": null,
@@ -7650,6 +7730,26 @@
           "score": 1717,
           "max": 2127,
           "percentage": 80.72402444757874
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "真空都市",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 952981,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1687,
+          "max": 2256,
+          "percentage": 74.77836879432624
         },
         "dxRank": 0,
         "combo": null,
