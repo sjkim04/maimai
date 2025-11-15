@@ -3660,10 +3660,10 @@
     "internalLevel": 128
   },
   {
-    "title": "Retribution 〜 Cycle of Redemption 〜",
+    "title": "Get U ♭ack",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 144
+    "internalLevel": 145
   },
   {
     "title": "メズマライザー",
@@ -3684,10 +3684,10 @@
     "internalLevel": 128
   },
   {
-    "title": "るろうらんる",
+    "title": "Retribution 〜 Cycle of Redemption 〜",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 143
+    "internalLevel": 144
   },
   {
     "title": "Leave All Behind",
@@ -3702,7 +3702,7 @@
     "internalLevel": 133
   },
   {
-    "title": "ニルヴの心臓",
+    "title": "るろうらんる",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 143
@@ -3726,7 +3726,7 @@
     "internalLevel": 128
   },
   {
-    "title": "Zitronectar",
+    "title": "ニルヴの心臓",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 143
@@ -3744,10 +3744,10 @@
     "internalLevel": 132
   },
   {
-    "title": "Destined Marionette",
+    "title": "Zitronectar",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 142
+    "internalLevel": 143
   },
   {
     "title": "Feel The Luv",
@@ -3768,7 +3768,7 @@
     "internalLevel": 127
   },
   {
-    "title": "∀",
+    "title": "Destined Marionette",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
@@ -3792,7 +3792,7 @@
     "internalLevel": 127
   },
   {
-    "title": "忙シー日",
+    "title": "∀",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
@@ -3816,7 +3816,7 @@
     "internalLevel": 126
   },
   {
-    "title": "殿ッ！？ご乱心！？",
+    "title": "忙シー日",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
@@ -3840,8 +3840,8 @@
     "internalLevel": 126
   },
   {
-    "title": "AFTER PANDORA",
-    "type": "Standard",
+    "title": "殿ッ！？ご乱心！？",
+    "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
   },
@@ -3864,8 +3864,8 @@
     "internalLevel": 126
   },
   {
-    "title": "Dazzle hop",
-    "type": "DX",
+    "title": "AFTER PANDORA",
+    "type": "Standard",
     "difficulty": "MASTER",
     "internalLevel": 142
   },
@@ -3882,10 +3882,10 @@
     "internalLevel": 132
   },
   {
-    "title": "おべんきょうたいむ",
+    "title": "Dazzle hop",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 141
+    "internalLevel": 142
   },
   {
     "title": "Tidal Wave",
@@ -3900,7 +3900,7 @@
     "internalLevel": 132
   },
   {
-    "title": "Eureka",
+    "title": "おべんきょうたいむ",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3918,7 +3918,7 @@
     "internalLevel": 131
   },
   {
-    "title": "Overjoy ★ OVERDOSE!!",
+    "title": "Eureka",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3936,7 +3936,7 @@
     "internalLevel": 131
   },
   {
-    "title": "Synthesis.",
+    "title": "Overjoy ★ OVERDOSE!!",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3954,7 +3954,7 @@
     "internalLevel": 131
   },
   {
-    "title": "IMBRUED:FLUX",
+    "title": "Synthesis.",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
@@ -3972,10 +3972,10 @@
     "internalLevel": 131
   },
   {
-    "title": "DATAERR0R",
+    "title": "IMBRUED:FLUX",
     "type": "DX",
     "difficulty": "MASTER",
-    "internalLevel": 140
+    "internalLevel": 141
   },
   {
     "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
@@ -3996,9 +3996,9 @@
     "internalLevel": 124
   },
   {
-    "title": "Unwelcome School",
+    "title": "DATAERR0R",
     "type": "DX",
-    "difficulty": "Re:MASTER",
+    "difficulty": "MASTER",
     "internalLevel": 140
   },
   {
@@ -4014,9 +4014,9 @@
     "internalLevel": 130
   },
   {
-    "title": "砂の函",
+    "title": "Unwelcome School",
     "type": "DX",
-    "difficulty": "MASTER",
+    "difficulty": "Re:MASTER",
     "internalLevel": 140
   },
   {
@@ -4038,7 +4038,7 @@
     "internalLevel": 122
   },
   {
-    "title": "Ref:rain (for 7th Heaven)",
+    "title": "砂の函",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 140
@@ -4054,6 +4054,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 130
+  },
+  {
+    "title": "Ref:rain (for 7th Heaven)",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 140
   },
   {
     "title": "CiRCLE CAMPAiGN",
