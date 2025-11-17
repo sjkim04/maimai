@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13453,
+    "rating": 13458,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Rainbow",
@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 96,
     "playCount": {
-      "total": 197,
-      "current": 18
+      "total": 198,
+      "current": 19
     }
   },
   "records": [
@@ -7198,6 +7198,26 @@
     },
     {
       "track": {
+        "title": "ジェヘナ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 961165,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1824,
+          "max": 2439,
+          "percentage": 74.78474784747847
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ウミユリ海底譚",
         "type": "Standard",
         "difficulty": "MASTER"
@@ -7938,6 +7958,26 @@
     },
     {
       "track": {
+        "title": "四月の雨",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 879507,
+        "rank": "A",
+        "dxScore": {
+          "score": 1267,
+          "max": 1902,
+          "percentage": 66.61409043112513
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "封焔の135秒",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8152,6 +8192,26 @@
           "percentage": 85.74590526781762
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Tell Your World",
+        "type": "Standard",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986049,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1180,
+          "max": 1419,
+          "percentage": 83.1571529245948
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
