@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 96,
     "playCount": {
-      "total": 198,
-      "current": 19
+      "total": 199,
+      "current": 20
     }
   },
   "records": [
@@ -3024,15 +3024,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 977065,
-        "rank": "S",
+        "achievement": 995018,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1428,
+          "score": 1529,
           "max": 1674,
-          "percentage": 85.30465949820788
+          "percentage": 91.33811230585425
         },
-        "dxRank": 1,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
       }
     },
@@ -3444,15 +3444,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 816844,
-        "rank": "A",
+        "achievement": 1007098,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 897,
+          "score": 1348,
           "max": 1521,
-          "percentage": 58.97435897435898
+          "percentage": 88.62590401051939
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
       }
     },
@@ -4824,8 +4824,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 988408,
-        "rank": "S+",
+        "achievement": 993862,
+        "rank": "SS",
         "dxScore": {
           "score": 1515,
           "max": 1665,
@@ -4833,7 +4833,7 @@
         },
         "dxRank": 2,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -6454,6 +6454,26 @@
         "dxRank": 1,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ヒアソビ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 950696,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2148,
+          "max": 2772,
+          "percentage": 77.48917748917748
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
