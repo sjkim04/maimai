@@ -26045,6 +26045,14 @@
     }
   },
   {
+    "title": "電光刹歌",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 138
+    }
+  },
+  {
     "title": "Bring it on",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26053,11 +26061,27 @@
     }
   },
   {
+    "title": "ウィーアーピコピコハンマーズ!!!!",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 139
+    }
+  },
+  {
     "title": "君だったから",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 128
+    }
+  },
+  {
+    "title": "ジェットブラック",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 132
     }
   },
   {
@@ -26070,6 +26094,14 @@
   },
   {
     "title": "しゅ～しん？変身☆ハカイシンzzZ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 138
+    }
+  },
+  {
+    "title": "トレジャーガーデン",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
@@ -26090,6 +26122,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 136
+    }
+  },
+  {
+    "title": "最愛人生ランナー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 137
     }
   },
   {
@@ -26125,6 +26165,14 @@
     }
   },
   {
+    "title": "YA･DA･YO [Reborn]",
+    "type": "Standard",
+    "difficulty": "Re:MASTER",
+    "internalLevel": {
+      "25": 144
+    }
+  },
+  {
     "title": "テトリス",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -26136,6 +26184,14 @@
     "title": "おべんきょうたいむ",
     "type": "DX",
     "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 141
+    }
+  },
+  {
+    "title": "Aetheric Energy",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
     "internalLevel": {
       "25": 141
     }
@@ -26157,11 +26213,27 @@
     }
   },
   {
+    "title": "時計の国のジェミニ",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": {
+      "25": 137
+    }
+  },
+  {
     "title": "有頂天ドリーマーズ",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 131
+    }
+  },
+  {
+    "title": "アンビバレンス",
+    "type": "DX",
+    "difficulty": "Re:MASTER",
+    "internalLevel": {
+      "25": 137
     }
   },
   {
@@ -26333,14 +26405,6 @@
     }
   },
   {
-    "title": "イーヴィルガール",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "25": 138
-    }
-  },
-  {
     "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
     "type": "DX",
     "difficulty": "EXPERT",
@@ -26349,11 +26413,11 @@
     }
   },
   {
-    "title": "チルノのパーフェクトさんすう教室",
+    "title": "イーヴィルガール",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
-      "25": 130
+      "25": 138
     }
   },
   {
@@ -26362,6 +26426,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 134
+    }
+  },
+  {
+    "title": "チルノのパーフェクトさんすう教室",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 130
     }
   },
   {
