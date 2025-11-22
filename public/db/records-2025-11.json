@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13458,
+    "rating": 13477,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Rainbow",
@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 96,
     "playCount": {
-      "total": 199,
-      "current": 20
+      "total": 201,
+      "current": 22
     }
   },
   "records": [
@@ -5024,12 +5024,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 961305,
-        "rank": "AAA",
+        "achievement": 980549,
+        "rank": "S+",
         "dxScore": {
-          "score": 2102,
+          "score": 2190,
           "max": 2664,
-          "percentage": 78.90390390390391
+          "percentage": 82.2072072072072
         },
         "dxRank": 0,
         "combo": null,
@@ -5684,8 +5684,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 991736,
-        "rank": "SS",
+        "achievement": 1000049,
+        "rank": "SSS",
         "dxScore": {
           "score": 879,
           "max": 999,
@@ -6478,6 +6478,26 @@
     },
     {
       "track": {
+        "title": "最愛人生ランナー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 901116,
+        "rank": "AA",
+        "dxScore": {
+          "score": 2237,
+          "max": 3162,
+          "percentage": 70.74636306135358
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "オーバーライド",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6670,6 +6690,26 @@
           "score": 1570,
           "max": 1866,
           "percentage": 84.13719185423365
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "お呪い",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975794,
+        "rank": "S",
+        "dxScore": {
+          "score": 1399,
+          "max": 1647,
+          "percentage": 84.94231936854888
         },
         "dxRank": 0,
         "combo": null,
@@ -7912,6 +7952,26 @@
           "percentage": 82.4185631414547
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Believe the Rainbow",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977899,
+        "rank": "S",
+        "dxScore": {
+          "score": 1411,
+          "max": 1593,
+          "percentage": 88.57501569365976
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
