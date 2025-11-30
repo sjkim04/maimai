@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13477,
+    "rating": 13487,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
-      "title": "\n\t\t\t\t\tでびゅー\n\t\t\t\t"
+      "title": "\n\t\t\t\t\tサイゴノキボウ ヲミツケテ\n\t\t\t\t"
     },
     "courseRank": 7,
     "classRank": 5,
-    "stars": 96,
+    "stars": 99,
     "playCount": {
-      "total": 201,
-      "current": 22
+      "total": 204,
+      "current": 25
     }
   },
   "records": [
@@ -772,6 +772,26 @@
           "percentage": 91.00834938985228
         },
         "dxRank": 2,
+        "combo": "FULL COMBO+",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ウィーアーピコピコハンマーズ!!!!",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004238,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1456,
+          "max": 1740,
+          "percentage": 83.67816091954023
+        },
+        "dxRank": 0,
         "combo": "FULL COMBO+",
         "sync": null
       }
@@ -7138,6 +7158,26 @@
     },
     {
       "track": {
+        "title": "＊ハロー、プラネット。",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 953272,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1341,
+          "max": 1614,
+          "percentage": 83.08550185873605
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "アスノヨゾラ哨戒班",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7284,7 +7324,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 993448,
+        "achievement": 994282,
         "rank": "SS",
         "dxScore": {
           "score": 1960,
@@ -7344,14 +7384,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 982052,
-        "rank": "S+",
+        "achievement": 991759,
+        "rank": "SS",
         "dxScore": {
-          "score": 2163,
+          "score": 2202,
           "max": 2556,
-          "percentage": 84.6244131455399
+          "percentage": 86.15023474178403
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
