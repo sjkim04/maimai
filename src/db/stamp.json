@@ -123,8 +123,8 @@
     "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/d44aee5f4b660d3d.png",
     "title": "チルノのパーフェクトさんすう教室",
-    "complete": false,
-    "stampCount": 8,
+    "complete": true,
+    "stampCount": 10,
     "max": 10
   },
   {
