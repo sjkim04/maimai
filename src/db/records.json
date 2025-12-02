@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13502,
+    "rating": 13517,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -11,8 +11,8 @@
     "classRank": 5,
     "stars": 100,
     "playCount": {
-      "total": 206,
-      "current": 27
+      "total": 207,
+      "current": 28
     }
   },
   "records": [
@@ -2818,6 +2818,26 @@
     },
     {
       "track": {
+        "title": "Retribution ～ Cycle of Redemption ～",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 980772,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1975,
+          "max": 2406,
+          "percentage": 82.08645054031588
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Luminescence",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5224,8 +5244,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 999618,
-        "rank": "SS+",
+        "achievement": 1000220,
+        "rank": "SSS",
         "dxScore": {
           "score": 1927,
           "max": 2163,
@@ -8384,14 +8404,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 986049,
-        "rank": "S+",
+        "achievement": 994811,
+        "rank": "SS",
         "dxScore": {
-          "score": 1180,
+          "score": 1247,
           "max": 1419,
-          "percentage": 83.1571529245948
+          "percentage": 87.87878787878788
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
