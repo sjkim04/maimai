@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13517,
+    "rating": 13518,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\tサイゴノキボウ ヲミツケテ\n\t\t\t\t"
     },
-    "courseRank": 7,
+    "courseRank": 8,
     "classRank": 5,
     "stars": 100,
     "playCount": {
-      "total": 207,
-      "current": 28
+      "total": 209,
+      "current": 30
     }
   },
   "records": [
@@ -6258,6 +6258,26 @@
     },
     {
       "track": {
+        "title": "シカ色デイズ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 987678,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1297,
+          "max": 1485,
+          "percentage": 87.34006734006734
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "INTERNET YAMERO",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6487,13 +6507,33 @@
         "achievement": 998991,
         "rank": "SS+",
         "dxScore": {
-          "score": 1635,
+          "score": 1637,
           "max": 1869,
-          "percentage": 87.47993579454254
+          "percentage": 87.58694489031568
         },
         "dxRank": 1,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "Worlders",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985487,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1360,
+          "max": 1596,
+          "percentage": 85.21303258145363
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -6604,16 +6644,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 988358,
+        "achievement": 988703,
         "rank": "S+",
         "dxScore": {
-          "score": 2189,
+          "score": 2208,
           "max": 2577,
-          "percentage": 84.94373302289485
+          "percentage": 85.68102444703143
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -7538,6 +7578,26 @@
     },
     {
       "track": {
+        "title": "ナイト・オブ・ナイツ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 971165,
+        "rank": "S",
+        "dxScore": {
+          "score": 1705,
+          "max": 2124,
+          "percentage": 80.27306967984934
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "LOSTPHANTASIA",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7904,14 +7964,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 968330,
-        "rank": "AAA",
+        "achievement": 987141,
+        "rank": "S+",
         "dxScore": {
-          "score": 2173,
+          "score": 2317,
           "max": 2652,
-          "percentage": 81.93815987933635
+          "percentage": 87.36802413273001
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -7970,6 +8030,26 @@
           "score": 1626,
           "max": 2400,
           "percentage": 67.75
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "隠密あんみつDX",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975439,
+        "rank": "S",
+        "dxScore": {
+          "score": 2068,
+          "max": 2496,
+          "percentage": 82.8525641025641
         },
         "dxRank": 0,
         "combo": null,
