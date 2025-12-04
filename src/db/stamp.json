@@ -129,6 +129,14 @@
   },
   {
     "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/379a393f1e3acfbf.png",
+    "title": "BAD∞END∞NIGHT",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/b4c2df0b003d74e2.png",
     "title": "ゴーゴー幽霊船",
     "complete": true,
@@ -156,7 +164,7 @@
     "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/a42d03bf82bb3eea.png",
     "title": "はっぴー（さーくる）",
     "complete": false,
-    "stampCount": 3,
+    "stampCount": 4,
     "max": 10
   },
   {

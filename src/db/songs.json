@@ -1,5 +1,5 @@
 {
-  "chartCount": 5954,
+  "chartCount": 5974,
   "availableVersions": [
     {
       "value": 0,
@@ -17530,6 +17530,66 @@
         "7+",
         "11",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "Let's ミクササイズ！！",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "初音ミクの暴走",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "8+",
+        "12+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "僕は空気が嫁ない",
+      "type": "Standard",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "BAD∞END∞NIGHT",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "ラストピースに祝福と栄光を",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "7",
+        "9",
+        "12+",
+        "14+",
         null
       ]
     }
