@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13547,
+    "rating": 13567,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
       "title": "\n\t\t\t\t\tサイゴノキボウ ヲミツケテ\n\t\t\t\t"
     },
     "courseRank": 8,
-    "classRank": 5,
+    "classRank": 6,
     "stars": 100,
     "playCount": {
-      "total": 211,
-      "current": 32
+      "total": 213,
+      "current": 34
     }
   },
   "records": [
@@ -618,6 +618,26 @@
     },
     {
       "track": {
+        "title": "過去を喰らう",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007990,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1385,
+          "max": 1518,
+          "percentage": 91.23847167325428
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "あつすぎの歌",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -692,6 +712,46 @@
           "percentage": 92.74809160305344
         },
         "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Let's ミクササイズ！！",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007918,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 2361,
+          "max": 2610,
+          "percentage": 90.45977011494253
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "初音ミクの暴走",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990539,
+        "rank": "SS",
+        "dxScore": {
+          "score": 2031,
+          "max": 2448,
+          "percentage": 82.9656862745098
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -5764,12 +5824,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 997759,
-        "rank": "SS+",
+        "achievement": 1003321,
+        "rank": "SSS",
         "dxScore": {
-          "score": 2740,
+          "score": 2768,
           "max": 3123,
-          "percentage": 87.7361511367275
+          "percentage": 88.63272494396413
         },
         "dxRank": 1,
         "combo": null,
@@ -6824,14 +6884,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 975794,
-        "rank": "S",
+        "achievement": 980959,
+        "rank": "S+",
         "dxScore": {
-          "score": 1399,
+          "score": 1418,
           "max": 1647,
-          "percentage": 84.94231936854888
+          "percentage": 86.09593199757134
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }

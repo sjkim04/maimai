@@ -26269,6 +26269,14 @@
     }
   },
   {
+    "title": "初音ミクの暴走",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 139
+    }
+  },
+  {
     "title": "Eureka",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26282,6 +26290,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 130
+    }
+  },
+  {
+    "title": "初音ミクの暴走",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 127
     }
   },
   {
@@ -26301,11 +26317,27 @@
     }
   },
   {
+    "title": "Let's ミクササイズ！！",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 138
+    }
+  },
+  {
     "title": "ニルヴの心臓",
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": {
       "25": 127
+    }
+  },
+  {
+    "title": "Let's ミクササイズ！！",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 124
     }
   },
   {
@@ -26325,11 +26357,27 @@
     }
   },
   {
+    "title": "ラストピースに祝福と栄光を",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 146
+    }
+  },
+  {
     "title": "Magical Paradox",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 138
+    }
+  },
+  {
+    "title": "ラストピースに祝福と栄光を",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 129
     }
   },
   {
@@ -26346,6 +26394,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 142
+    }
+  },
+  {
+    "title": "BAD∞END∞NIGHT",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 135
     }
   },
   {
@@ -26370,6 +26426,14 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "25": 130
+    }
+  },
+  {
+    "title": "僕は空気が嫁ない",
+    "type": "Standard",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 135
     }
   },
   {
