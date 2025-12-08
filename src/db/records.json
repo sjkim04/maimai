@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13567,
+    "rating": 13573,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Normal",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 100,
+    "stars": 101,
     "playCount": {
-      "total": 213,
-      "current": 34
+      "total": 214,
+      "current": 35
     }
   },
   "records": [
@@ -3204,14 +3204,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 905071,
-        "rank": "AA",
+        "achievement": 996286,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1336,
+          "score": 1704,
           "max": 1998,
-          "percentage": 66.86686686686687
+          "percentage": 85.28528528528528
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -6787,9 +6787,9 @@
         "achievement": 986910,
         "rank": "S+",
         "dxScore": {
-          "score": 1653,
+          "score": 1688,
           "max": 1920,
-          "percentage": 86.09375
+          "percentage": 87.91666666666667
         },
         "dxRank": 1,
         "combo": null,
@@ -7232,6 +7232,26 @@
           "percentage": 83.79501385041551
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "まにまに",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984956,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1854,
+          "max": 2181,
+          "percentage": 85.00687757909216
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
