@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 101,
+    "stars": 102,
     "playCount": {
-      "total": 214,
-      "current": 35
+      "total": 216,
+      "current": 37
     }
   },
   "records": [
@@ -1604,12 +1604,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 970602,
-        "rank": "S",
+        "achievement": 988845,
+        "rank": "S+",
         "dxScore": {
-          "score": 1252,
+          "score": 1325,
           "max": 1689,
-          "percentage": 74.12670219064536
+          "percentage": 78.44878626406158
         },
         "dxRank": 0,
         "combo": "FULL COMBO",
@@ -1627,11 +1627,11 @@
         "achievement": 1002265,
         "rank": "SSS",
         "dxScore": {
-          "score": 1628,
+          "score": 1681,
           "max": 1920,
-          "percentage": 84.79166666666667
+          "percentage": 87.55208333333333
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -2884,7 +2884,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 980772,
+        "achievement": 988084,
         "rank": "S+",
         "dxScore": {
           "score": 1975,
@@ -7758,6 +7758,26 @@
     },
     {
       "track": {
+        "title": "Chronomia",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 909604,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1912,
+          "max": 2766,
+          "percentage": 69.12509038322487
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ピポピポ -People People- feat. ななひら",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8552,6 +8572,26 @@
           "percentage": 85.74590526781762
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ヒバナ",
+        "type": "Standard",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979048,
+        "rank": "S",
+        "dxScore": {
+          "score": 1869,
+          "max": 2220,
+          "percentage": 84.18918918918918
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
