@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 102,
     "playCount": {
-      "total": 216,
-      "current": 37
+      "total": 217,
+      "current": 38
     }
   },
   "records": [
@@ -4724,12 +4724,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 952032,
-        "rank": "AAA",
+        "achievement": 977769,
+        "rank": "S",
         "dxScore": {
-          "score": 1923,
+          "score": 2106,
           "max": 2559,
-          "percentage": 75.14654161781947
+          "percentage": 82.29777256740914
         },
         "dxRank": 0,
         "combo": null,
@@ -5764,12 +5764,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1001401,
+        "achievement": 1002336,
         "rank": "SSS",
         "dxScore": {
-          "score": 2257,
+          "score": 2330,
           "max": 2637,
-          "percentage": 85.58968524838832
+          "percentage": 88.35798255593478
         },
         "dxRank": 1,
         "combo": "FULL COMBO",
@@ -6554,6 +6554,26 @@
         "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "初音ミクの暴走",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 919063,
+        "rank": "AA",
+        "dxScore": {
+          "score": 2273,
+          "max": 3273,
+          "percentage": 69.44699052856707
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
