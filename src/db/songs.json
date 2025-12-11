@@ -1,5 +1,5 @@
 {
-  "chartCount": 5974,
+  "chartCount": 5990,
   "availableVersions": [
     {
       "value": 0,
@@ -17590,6 +17590,54 @@
         "9",
         "12+",
         "14+",
+        null
+      ]
+    },
+    {
+      "title": "ミクマリ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "雲外蒼電 -Dreaming Voltage-",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "12",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "鬼女紅妖",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "11+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "華天月兎",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "14",
         null
       ]
     }
