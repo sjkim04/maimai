@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13573,
+    "rating": 13587,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
-      "tier": "Normal",
-      "title": "\n\t\t\t\t\tサイゴノキボウ ヲミツケテ\n\t\t\t\t"
+      "tier": "Gold",
+      "title": "\n\t\t\t\t\t★==============Σ(ﾟдﾟ；)\n\t\t\t\t"
     },
     "courseRank": 8,
     "classRank": 6,
     "stars": 102,
     "playCount": {
-      "total": 217,
-      "current": 38
+      "total": 219,
+      "current": 40
     }
   },
   "records": [
@@ -6898,6 +6898,26 @@
     },
     {
       "track": {
+        "title": "帝国少女",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 969203,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1737,
+          "max": 2091,
+          "percentage": 83.0703012912482
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "お呪い",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7818,6 +7838,26 @@
     },
     {
       "track": {
+        "title": "ベースラインやってる？笑",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 962755,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1755,
+          "max": 2076,
+          "percentage": 84.53757225433526
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "NO ONE YES MAN",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7850,6 +7890,26 @@
           "score": 1466,
           "max": 2052,
           "percentage": 71.44249512670565
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Luminescence",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 951417,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2125,
+          "max": 2646,
+          "percentage": 80.30990173847317
         },
         "dxRank": 0,
         "combo": null,
@@ -7924,12 +7984,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 978773,
-        "rank": "S",
+        "achievement": 1000582,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1538,
+          "score": 1596,
           "max": 1806,
-          "percentage": 85.16057585825027
+          "percentage": 88.37209302325581
         },
         "dxRank": 1,
         "combo": null,
@@ -8110,6 +8170,26 @@
           "score": 1717,
           "max": 2127,
           "percentage": 80.72402444757874
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ミクマリ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 956405,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1895,
+          "max": 2331,
+          "percentage": 81.2955812955813
         },
         "dxRank": 0,
         "combo": null,
