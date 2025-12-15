@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 102,
     "playCount": {
-      "total": 219,
-      "current": 40
+      "total": 220,
+      "current": 41
     }
   },
   "records": [
@@ -7198,6 +7198,26 @@
     },
     {
       "track": {
+        "title": "カーニバルハッピー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975609,
+        "rank": "S",
+        "dxScore": {
+          "score": 2607,
+          "max": 3147,
+          "percentage": 82.84080076263108
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "神っぽいな",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8304,12 +8324,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 927008,
-        "rank": "AA",
+        "achievement": 975669,
+        "rank": "S",
         "dxScore": {
-          "score": 1646,
+          "score": 1834,
           "max": 2160,
-          "percentage": 76.20370370370371
+          "percentage": 84.9074074074074
         },
         "dxRank": 0,
         "combo": null,
@@ -8690,6 +8710,26 @@
           "score": 1869,
           "max": 2220,
           "percentage": 84.18918918918918
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ロウワー",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 933094,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1672,
+          "max": 2277,
+          "percentage": 73.42995169082126
         },
         "dxRank": 0,
         "combo": null,
