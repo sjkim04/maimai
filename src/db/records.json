@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13587,
+    "rating": 13617,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 102,
     "playCount": {
-      "total": 220,
-      "current": 41
+      "total": 222,
+      "current": 43
     }
   },
   "records": [
@@ -2758,6 +2758,26 @@
     },
     {
       "track": {
+        "title": "ozma",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 974798,
+        "rank": "S",
+        "dxScore": {
+          "score": 1501,
+          "max": 1869,
+          "percentage": 80.3103263777421
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "月面基地",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5084,14 +5104,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 982243,
-        "rank": "S+",
+        "achievement": 1000770,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1992,
+          "score": 2098,
           "max": 2346,
-          "percentage": 84.91048593350384
+          "percentage": 89.42881500426257
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -5564,7 +5584,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 981347,
+        "achievement": 982181,
         "rank": "S+",
         "dxScore": {
           "score": 1501,
@@ -5704,12 +5724,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 983656,
-        "rank": "S+",
+        "achievement": 995702,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1702,
+          "score": 1755,
           "max": 1980,
-          "percentage": 85.95959595959596
+          "percentage": 88.63636363636364
         },
         "dxRank": 1,
         "combo": null,
@@ -5944,14 +5964,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 815059,
-        "rank": "A",
+        "achievement": 995635,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1331,
+          "score": 1960,
           "max": 2253,
-          "percentage": 59.07678650687972
+          "percentage": 86.99511762094984
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -6312,6 +6332,26 @@
           "percentage": 84.51225150254277
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "春を告げる",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 989353,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1725,
+          "max": 2025,
+          "percentage": 85.18518518518519
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
