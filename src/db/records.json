@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13617,
+    "rating": 13621,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 102,
     "playCount": {
-      "total": 222,
-      "current": 43
+      "total": 225,
+      "current": 46
     }
   },
   "records": [
@@ -2478,6 +2478,26 @@
     },
     {
       "track": {
+        "title": "Armageddon",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986922,
+        "rank": "S+",
+        "dxScore": {
+          "score": 2025,
+          "max": 2415,
+          "percentage": 83.85093167701864
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Unwelcome School",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3830,6 +3850,26 @@
           "score": 1343,
           "max": 1542,
           "percentage": 87.094682230869
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "雲外蒼電 -Dreaming Voltage-",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000383,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1603,
+          "max": 1791,
+          "percentage": 89.50307091010609
         },
         "dxRank": 1,
         "combo": null,
@@ -5298,6 +5338,26 @@
     },
     {
       "track": {
+        "title": "Cryptarithm",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 989177,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1772,
+          "max": 2109,
+          "percentage": 84.0208629682314
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "PANDORA PARADOXXX",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -6154,6 +6214,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "8-EM",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 999881,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1884,
+          "max": 2100,
+          "percentage": 89.71428571428571
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -7018,20 +7098,40 @@
     },
     {
       "track": {
+        "title": "ゆりかご",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977274,
+        "rank": "S",
+        "dxScore": {
+          "score": 1616,
+          "max": 1962,
+          "percentage": 82.36493374108052
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "熱異常",
         "type": "DX",
         "difficulty": "MASTER"
       },
       "score": {
         "clear": true,
-        "achievement": 987437,
-        "rank": "S+",
+        "achievement": 1000920,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1771,
+          "score": 1837,
           "max": 2109,
-          "percentage": 83.97344713134187
+          "percentage": 87.10289236605027
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -7244,14 +7344,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 975609,
-        "rank": "S",
+        "achievement": 989914,
+        "rank": "S+",
         "dxScore": {
-          "score": 2607,
+          "score": 2737,
           "max": 3147,
-          "percentage": 82.84080076263108
+          "percentage": 86.97171909755322
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -7312,6 +7412,26 @@
           "percentage": 87.12930011862396
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "マーシャル・マキシマイザー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 976892,
+        "rank": "S",
+        "dxScore": {
+          "score": 2148,
+          "max": 2601,
+          "percentage": 82.5836216839677
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -7432,6 +7552,26 @@
           "percentage": 89.56743002544529
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "シャルル",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 970695,
+        "rank": "S",
+        "dxScore": {
+          "score": 1471,
+          "max": 1767,
+          "percentage": 83.24844368986983
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
