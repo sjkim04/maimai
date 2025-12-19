@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 102,
     "playCount": {
-      "total": 225,
-      "current": 46
+      "total": 227,
+      "current": 48
     }
   },
   "records": [
@@ -3884,16 +3884,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 951812,
-        "rank": "AAA",
+        "achievement": 979050,
+        "rank": "S",
         "dxScore": {
-          "score": 1801,
+          "score": 1981,
           "max": 2424,
-          "percentage": 74.29867986798679
+          "percentage": 81.72442244224423
         },
         "dxRank": 0,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -5493,6 +5493,26 @@
         },
         "dxRank": 2,
         "combo": "FULL COMBO+",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "アポカリプスに反逆の焔を焚べろ",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 981735,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1974,
+          "max": 2268,
+          "percentage": 87.03703703703704
+        },
+        "dxRank": 1,
+        "combo": null,
         "sync": null
       }
     },
@@ -8198,6 +8218,26 @@
     },
     {
       "track": {
+        "title": "End Time",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": false,
+        "achievement": 793524,
+        "rank": "BBB",
+        "dxScore": {
+          "score": 1527,
+          "max": 2847,
+          "percentage": 53.63540569020021
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "Crush On You",
         "type": "Standard",
         "difficulty": "MASTER"
@@ -8964,12 +9004,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 828744,
+        "achievement": 844336,
         "rank": "A",
         "dxScore": {
-          "score": 2044,
+          "score": 2095,
           "max": 3543,
-          "percentage": 57.69122212814
+          "percentage": 59.13068021450748
         },
         "dxRank": 0,
         "combo": null,
@@ -9004,12 +9044,12 @@
       },
       "score": {
         "clear": false,
-        "achievement": 606312,
-        "rank": "B",
+        "achievement": 769277,
+        "rank": "BBB",
         "dxScore": {
-          "score": 1516,
+          "score": 2226,
           "max": 4200,
-          "percentage": 36.095238095238095
+          "percentage": 53
         },
         "dxRank": 0,
         "combo": null,
