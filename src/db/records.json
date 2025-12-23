@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13621,
+    "rating": 13631,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 102,
+    "stars": 103,
     "playCount": {
-      "total": 227,
-      "current": 48
+      "total": 229,
+      "current": 50
     }
   },
   "records": [
@@ -794,6 +794,26 @@
         "dxRank": 2,
         "combo": "ALL PERFECT",
         "sync": "FULL SYNC"
+      }
+    },
+    {
+      "track": {
+        "title": "モニタリング",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1009571,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1293,
+          "max": 1419,
+          "percentage": 91.12050739957716
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -2978,6 +2998,26 @@
     },
     {
       "track": {
+        "title": "Scarlet Lance",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 989856,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1779,
+          "max": 2103,
+          "percentage": 84.59343794579172
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Let you DIVE!",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -4964,8 +5004,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 974417,
-        "rank": "S",
+        "achievement": 980238,
+        "rank": "S+",
         "dxScore": {
           "score": 1753,
           "max": 2193,
@@ -5704,12 +5744,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 984401,
-        "rank": "S+",
+        "achievement": 993541,
+        "rank": "SS",
         "dxScore": {
-          "score": 1835,
+          "score": 1876,
           "max": 2226,
-          "percentage": 82.43486073674752
+          "percentage": 84.27672955974843
         },
         "dxRank": 0,
         "combo": null,
@@ -8138,6 +8178,26 @@
     },
     {
       "track": {
+        "title": "Löschen",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 899387,
+        "rank": "A",
+        "dxScore": {
+          "score": 2115,
+          "max": 2892,
+          "percentage": 73.13278008298755
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "ENERGY SYNERGY MATRIX",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8894,6 +8954,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "メズマライザー",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 932309,
+        "rank": "AA",
+        "dxScore": {
+          "score": 2341,
+          "max": 3000,
+          "percentage": 78.03333333333333
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {

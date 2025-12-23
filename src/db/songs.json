@@ -1,5 +1,5 @@
 {
-  "chartCount": 5990,
+  "chartCount": 5998,
   "availableVersions": [
     {
       "value": 0,
@@ -17631,6 +17631,30 @@
     },
     {
       "title": "華天月兎",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "スノーマン (Rerec)",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "JINGLE DEATH",
       "type": "DX",
       "version": 25,
       "displayLevel": [
