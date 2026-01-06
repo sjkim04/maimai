@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 103,
     "playCount": {
-      "total": 229,
-      "current": 50
+      "total": 231,
+      "current": 52
     }
   },
   "records": [
@@ -3918,6 +3918,26 @@
     },
     {
       "track": {
+        "title": "真空都市",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997978,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1436,
+          "max": 1662,
+          "percentage": 86.40192539109506
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5404,12 +5424,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 914108,
+        "achievement": 929983,
         "rank": "AA",
         "dxScore": {
-          "score": 1746,
+          "score": 1860,
           "max": 2565,
-          "percentage": 68.0701754385965
+          "percentage": 72.51461988304094
         },
         "dxRank": 0,
         "combo": null,
@@ -8670,6 +8690,26 @@
           "score": 1411,
           "max": 1593,
           "percentage": 88.57501569365976
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Believe the Rainbow",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 971599,
+        "rank": "S",
+        "dxScore": {
+          "score": 1138,
+          "max": 1335,
+          "percentage": 85.2434456928839
         },
         "dxRank": 1,
         "combo": null,
