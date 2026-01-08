@@ -1,5 +1,5 @@
 {
-  "chartCount": 5998,
+  "chartCount": 6018,
   "availableVersions": [
     {
       "value": 0,
@@ -17662,6 +17662,66 @@
         "8",
         "12",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "うい麦畑でつかまえて",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "勝手に生きましょ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "アイアイ傘",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "化けの花",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7",
+        "11",
+        "13",
         null
       ]
     }
