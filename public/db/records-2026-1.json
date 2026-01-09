@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13631,
+    "rating": 13640,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 103,
     "playCount": {
-      "total": 231,
-      "current": 52
+      "total": 233,
+      "current": 54
     }
   },
   "records": [
@@ -438,6 +438,26 @@
     },
     {
       "track": {
+        "title": "うい麦畑でつかまえて",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1007335,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1688,
+          "max": 1806,
+          "percentage": 93.46622369878183
+        },
+        "dxRank": 3,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "阿修羅ちゃん",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -752,6 +772,26 @@
           "percentage": 82.9656862745098
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "化けの花",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1004165,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1333,
+          "max": 1455,
+          "percentage": 91.61512027491409
+        },
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
@@ -6438,6 +6478,26 @@
     },
     {
       "track": {
+        "title": "うい麦畑でつかまえて",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 972141,
+        "rank": "S",
+        "dxScore": {
+          "score": 2462,
+          "max": 2907,
+          "percentage": 84.6921224630203
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ビビデバ",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6778,6 +6838,26 @@
     },
     {
       "track": {
+        "title": "化けの花",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 938046,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1672,
+          "max": 2226,
+          "percentage": 75.11230907457322
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "はじまりの未来",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6958,6 +7038,26 @@
     },
     {
       "track": {
+        "title": "グッバイ宣言",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 978304,
+        "rank": "S",
+        "dxScore": {
+          "score": 1725,
+          "max": 2049,
+          "percentage": 84.1874084919473
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7072,6 +7172,26 @@
           "percentage": 85.28443817583451
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "セカイはまだ始まってすらいない",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002144,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1481,
+          "max": 1608,
+          "percentage": 92.10199004975125
+        },
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
