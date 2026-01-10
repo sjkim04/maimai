@@ -26729,11 +26729,27 @@
     }
   },
   {
+    "title": "うい麦畑でつかまえて",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 132
+    }
+  },
+  {
     "title": "モニタリング",
     "type": "DX",
     "difficulty": "Re:MASTER",
     "internalLevel": {
       "25": 134
+    }
+  },
+  {
+    "title": "勝手に生きましょ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 130
     }
   },
   {
@@ -26761,6 +26777,14 @@
     }
   },
   {
+    "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 137
+    }
+  },
+  {
     "title": "テトリス",
     "type": "DX",
     "difficulty": "Re:MASTER",
@@ -26785,6 +26809,14 @@
     }
   },
   {
+    "title": "アイアイ傘",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 129
+    }
+  },
+  {
     "title": "サイエンス",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26806,6 +26838,14 @@
     "difficulty": "Re:MASTER",
     "internalLevel": {
       "25": 137
+    }
+  },
+  {
+    "title": "化けの花",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 134
     }
   },
   {
