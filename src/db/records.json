@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13640,
+    "rating": 13667,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 103,
+    "stars": 104,
     "playCount": {
-      "total": 233,
-      "current": 54
+      "total": 235,
+      "current": 56
     }
   },
   "records": [
@@ -6624,12 +6624,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 968197,
-        "rank": "AAA",
+        "achievement": 986530,
+        "rank": "S+",
         "dxScore": {
-          "score": 2115,
+          "score": 2143,
           "max": 2466,
-          "percentage": 85.76642335766424
+          "percentage": 86.90186536901865
         },
         "dxRank": 1,
         "combo": null,
@@ -7198,6 +7198,26 @@
     },
     {
       "track": {
+        "title": "アイディスマイル",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992698,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1341,
+          "max": 1530,
+          "percentage": 87.6470588235294
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "少女レイ",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7232,6 +7252,26 @@
           "percentage": 83.0703012912482
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "空回りライブラリ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000806,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1779,
+          "max": 2001,
+          "percentage": 88.9055472263868
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -7598,6 +7638,26 @@
     },
     {
       "track": {
+        "title": "エゴロック",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 985341,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1721,
+          "max": 2070,
+          "percentage": 83.14009661835749
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "テレキャスタービーボーイ",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7778,6 +7838,26 @@
     },
     {
       "track": {
+        "title": "39",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991384,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1563,
+          "max": 1806,
+          "percentage": 86.54485049833886
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "＊ハロー、プラネット。",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7812,6 +7892,26 @@
           "percentage": 75.53726566072245
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "キュートなカノジョ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 991648,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1776,
+          "max": 2040,
+          "percentage": 87.05882352941177
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
