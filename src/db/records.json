@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13667,
+    "rating": 13680,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 104,
+    "stars": 106,
     "playCount": {
-      "total": 235,
-      "current": 56
+      "total": 236,
+      "current": 57
     }
   },
   "records": [
@@ -6498,6 +6498,26 @@
     },
     {
       "track": {
+        "title": "勝手に生きましょ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 970054,
+        "rank": "S",
+        "dxScore": {
+          "score": 1866,
+          "max": 2247,
+          "percentage": 83.04405874499332
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ビビデバ",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7998,6 +8018,26 @@
     },
     {
       "track": {
+        "title": "エイリアンエイリアン",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 990886,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1957,
+          "max": 2268,
+          "percentage": 86.28747795414462
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ツギハギスタッカート",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8044,12 +8084,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 994282,
-        "rank": "SS",
+        "achievement": 1004123,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1960,
+          "score": 1983,
           "max": 2277,
-          "percentage": 86.07817303469477
+          "percentage": 87.08827404479578
         },
         "dxRank": 1,
         "combo": null,
