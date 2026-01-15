@@ -1,5 +1,5 @@
 {
-  "chartCount": 6018,
+  "chartCount": 6022,
   "availableVersions": [
     {
       "value": 0,
@@ -17721,6 +17721,18 @@
         "4",
         "7",
         "11",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
         "13",
         null
       ]

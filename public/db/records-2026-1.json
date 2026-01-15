@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13680,
+    "rating": 13698,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 106,
     "playCount": {
-      "total": 236,
-      "current": 57
+      "total": 238,
+      "current": 59
     }
   },
   "records": [
@@ -3044,14 +3044,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 989856,
-        "rank": "S+",
+        "achievement": 996205,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1779,
+          "score": 1829,
           "max": 2103,
-          "percentage": 84.59343794579172
+          "percentage": 86.97099381835474
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -3752,6 +3752,26 @@
           "percentage": 81.78506375227687
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Maxi",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995169,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1460,
+          "max": 1701,
+          "percentage": 85.83186360964139
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -6384,14 +6404,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 986075,
-        "rank": "S+",
+        "achievement": 994827,
+        "rank": "SS",
         "dxScore": {
-          "score": 2204,
+          "score": 2230,
           "max": 2616,
-          "percentage": 84.25076452599389
+          "percentage": 85.24464831804282
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -8138,6 +8158,26 @@
     },
     {
       "track": {
+        "title": "ローリンガール",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 977022,
+        "rank": "S",
+        "dxScore": {
+          "score": 1325,
+          "max": 1629,
+          "percentage": 81.33824432166973
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "エイプリルスター",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8690,6 +8730,26 @@
           "score": 1130,
           "max": 1476,
           "percentage": 76.55826558265582
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "CiRCLE CAMPAiGN",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 948323,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 2247,
+          "max": 2895,
+          "percentage": 77.61658031088083
         },
         "dxRank": 0,
         "combo": null,
@@ -9252,6 +9312,26 @@
           "percentage": 79.11025145067698
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Virtual to LIVE",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 978418,
+        "rank": "S",
+        "dxScore": {
+          "score": 1744,
+          "max": 2001,
+          "percentage": 87.15642178910544
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
