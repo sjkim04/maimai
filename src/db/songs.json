@@ -1,5 +1,5 @@
 {
-  "chartCount": 6022,
+  "chartCount": 6026,
   "availableVersions": [
     {
       "value": 0,
@@ -17637,6 +17637,18 @@
         "5",
         "8",
         "12",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "ヤミナベ!!!!",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "8",
+        "12+",
         "14",
         null
       ]

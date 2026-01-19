@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13698,
+    "rating": 13709,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 106,
     "playCount": {
-      "total": 238,
-      "current": 59
+      "total": 240,
+      "current": 61
     }
   },
   "records": [
@@ -734,6 +734,26 @@
         "dxRank": 2,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ヤミナベ!!!!",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998167,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1671,
+          "max": 1956,
+          "percentage": 85.42944785276073
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -2974,6 +2994,26 @@
         "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Leave All Behind",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002885,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1171,
+          "max": 1299,
+          "percentage": 90.14626635873749
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -6758,6 +6798,26 @@
     },
     {
       "track": {
+        "title": "",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 996700,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1572,
+          "max": 1815,
+          "percentage": 86.61157024793388
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
         "title": "ドラゴンエネルギー",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7412,6 +7472,26 @@
           "percentage": 87.10289236605027
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "1000年生きてる",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 929455,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1319,
+          "max": 1803,
+          "percentage": 73.15585135884636
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
@@ -8504,8 +8584,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 899387,
-        "rank": "A",
+        "achievement": 903610,
+        "rank": "AA",
         "dxScore": {
           "score": 2115,
           "max": 2892,
@@ -9258,6 +9338,26 @@
     },
     {
       "track": {
+        "title": "Transcend Lights",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 943259,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1361,
+          "max": 1827,
+          "percentage": 74.49370552818829
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "エータ・ベータ・イータ",
         "type": "DX",
         "difficulty": "MASTER"
@@ -9364,12 +9464,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 975870,
-        "rank": "S",
+        "achievement": 991013,
+        "rank": "SS",
         "dxScore": {
-          "score": 1937,
+          "score": 1958,
           "max": 2259,
-          "percentage": 85.74590526781762
+          "percentage": 86.67552014165561
         },
         "dxRank": 1,
         "combo": null,
