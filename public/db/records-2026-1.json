@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13709,
+    "rating": 13730,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 106,
+    "stars": 110,
     "playCount": {
-      "total": 240,
-      "current": 61
+      "total": 243,
+      "current": 64
     }
   },
   "records": [
@@ -3498,6 +3498,26 @@
     },
     {
       "track": {
+        "title": "Altale",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003590,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1073,
+          "max": 1206,
+          "percentage": 88.97180762852405
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Destr0yer",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5738,20 +5758,40 @@
     },
     {
       "track": {
+        "title": "AMAZING MIGHTYYYY!!!!",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 927960,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1849,
+          "max": 2700,
+          "percentage": 68.48148148148148
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "larva",
         "type": "Standard",
         "difficulty": "EXPERT"
       },
       "score": {
         "clear": true,
-        "achievement": 988866,
-        "rank": "S+",
+        "achievement": 998330,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1943,
+          "score": 1961,
           "max": 2301,
-          "percentage": 84.44154715341156
+          "percentage": 85.2238157322903
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -6164,14 +6204,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 979005,
-        "rank": "S",
+        "achievement": 1000167,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1881,
+          "score": 2028,
           "max": 2370,
-          "percentage": 79.36708860759494
+          "percentage": 85.56962025316456
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -7618,6 +7658,26 @@
     },
     {
       "track": {
+        "title": "弱虫モンブラン",
+        "type": "Standard",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000022,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1229,
+          "max": 1398,
+          "percentage": 87.91130185979972
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "MIRA",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8938,6 +8998,26 @@
     },
     {
       "track": {
+        "title": "Magical Paradox",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 895953,
+        "rank": "A",
+        "dxScore": {
+          "score": 2192,
+          "max": 3156,
+          "percentage": 69.45500633713561
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "概して過誤",
         "type": "DX",
         "difficulty": "MASTER"
@@ -9352,6 +9432,26 @@
           "percentage": 74.49370552818829
         },
         "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Y.Y.Y.計画!!!!",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 973084,
+        "rank": "S",
+        "dxScore": {
+          "score": 2455,
+          "max": 2841,
+          "percentage": 86.41323477648716
+        },
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
