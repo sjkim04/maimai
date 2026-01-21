@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13730,
+    "rating": 13749,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 110,
+    "stars": 116,
     "playCount": {
-      "total": 243,
-      "current": 64
+      "total": 245,
+      "current": 66
     }
   },
   "records": [
@@ -5184,12 +5184,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 969078,
-        "rank": "AAA",
+        "achievement": 995585,
+        "rank": "SS+",
         "dxScore": {
-          "score": 1644,
+          "score": 1818,
           "max": 2220,
-          "percentage": 74.05405405405405
+          "percentage": 81.89189189189189
         },
         "dxRank": 0,
         "combo": null,
@@ -5524,14 +5524,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 989177,
-        "rank": "S+",
+        "achievement": 991112,
+        "rank": "SS",
         "dxScore": {
-          "score": 1772,
+          "score": 1813,
           "max": 2109,
-          "percentage": 84.0208629682314
+          "percentage": 85.96491228070175
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -5633,6 +5633,26 @@
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "躯樹の墓守",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995431,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1877,
+          "max": 2163,
+          "percentage": 86.77762367082755
+        },
+        "dxRank": 1,
+        "combo": null,
         "sync": null
       }
     },
@@ -5924,12 +5944,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 968712,
-        "rank": "AAA",
+        "achievement": 987098,
+        "rank": "S+",
         "dxScore": {
-          "score": 1754,
+          "score": 1827,
           "max": 2199,
-          "percentage": 79.76352887676217
+          "percentage": 83.08321964529331
         },
         "dxRank": 0,
         "combo": null,
@@ -6984,12 +7004,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 938046,
-        "rank": "AA",
+        "achievement": 946590,
+        "rank": "AAA",
         "dxScore": {
-          "score": 1672,
+          "score": 1707,
           "max": 2226,
-          "percentage": 75.11230907457322
+          "percentage": 76.68463611859838
         },
         "dxRank": 0,
         "combo": null,
@@ -9554,6 +9574,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "モニタリング",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 986810,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1631,
+          "max": 1938,
+          "percentage": 84.15892672858617
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
