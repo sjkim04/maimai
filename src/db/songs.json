@@ -1,5 +1,5 @@
 {
-  "chartCount": 6026,
+  "chartCount": 6042,
   "availableVersions": [
     {
       "value": 0,
@@ -17746,6 +17746,54 @@
         "6",
         "9+",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "Paranoia",
+      "type": "Standard",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Restricted Access",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "胡蝶乃舞",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "零號車輛",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "8",
+        "12+",
+        "14+",
         null
       ]
     }
