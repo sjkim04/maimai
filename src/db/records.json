@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 119,
     "playCount": {
-      "total": 252,
-      "current": 73
+      "total": 253,
+      "current": 74
     }
   },
   "records": [
@@ -2613,6 +2613,26 @@
         },
         "dxRank": 0,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Restricted Access",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003627,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1470,
+          "max": 1605,
+          "percentage": 91.58878504672897
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -6758,6 +6778,26 @@
     },
     {
       "track": {
+        "title": "だから僕は音楽を辞めた",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 997997,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1754,
+          "max": 1929,
+          "percentage": 90.92794193882841
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "廻廻奇譚",
         "type": "DX",
         "difficulty": "MASTER"
@@ -7084,12 +7124,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 946590,
-        "rank": "AAA",
+        "achievement": 971858,
+        "rank": "S",
         "dxScore": {
-          "score": 1707,
+          "score": 1781,
           "max": 2226,
-          "percentage": 76.68463611859838
+          "percentage": 80.00898472596586
         },
         "dxRank": 0,
         "combo": null,
