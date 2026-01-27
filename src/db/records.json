@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13783,
+    "rating": 13804,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 119,
+    "stars": 123,
     "playCount": {
-      "total": 253,
-      "current": 74
+      "total": 255,
+      "current": 76
     }
   },
   "records": [
@@ -2464,16 +2464,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 994200,
-        "rank": "SS",
+        "achievement": 1006106,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1611,
+          "score": 1711,
           "max": 1896,
-          "percentage": 84.96835443037975
+          "percentage": 90.24261603375527
         },
-        "dxRank": 0,
+        "dxRank": 2,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -2634,6 +2634,26 @@
         "dxRank": 2,
         "combo": "FULL COMBO",
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "胡蝶乃舞",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1008977,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1439,
+          "max": 1578,
+          "percentage": 91.191381495564
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3224,15 +3244,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 957533,
-        "rank": "AAA",
+        "achievement": 1008653,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 969,
+          "score": 1139,
           "max": 1248,
-          "percentage": 77.64423076923077
+          "percentage": 91.26602564102564
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "ALL PERFECT",
         "sync": "SYNC PLAY"
       }
     },
@@ -6184,7 +6204,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1002336,
+        "achievement": 1003904,
         "rank": "SSS",
         "dxScore": {
           "score": 2330,
@@ -6224,8 +6244,8 @@
       },
       "score": {
         "clear": true,
-        "achievement": 990141,
-        "rank": "SS",
+        "achievement": 998572,
+        "rank": "SS+",
         "dxScore": {
           "score": 3466,
           "max": 4071,
@@ -7127,13 +7147,13 @@
         "achievement": 971858,
         "rank": "S",
         "dxScore": {
-          "score": 1781,
+          "score": 1787,
           "max": 2226,
-          "percentage": 80.00898472596586
+          "percentage": 80.2785265049416
         },
         "dxRank": 0,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -8634,6 +8654,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Restricted Access",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 932699,
+        "rank": "AA",
+        "dxScore": {
+          "score": 2114,
+          "max": 2760,
+          "percentage": 76.59420289855072
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
