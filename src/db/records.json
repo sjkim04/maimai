@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13804,
+    "rating": 13805,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 125,
+    "stars": 126,
     "playCount": {
-      "total": 256,
-      "current": 77
+      "total": 258,
+      "current": 79
     }
   },
   "records": [
@@ -2624,16 +2624,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1003627,
+        "achievement": 1004163,
         "rank": "SSS",
         "dxScore": {
-          "score": 1470,
+          "score": 1473,
           "max": 1605,
-          "percentage": 91.58878504672897
+          "percentage": 91.77570093457945
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3304,12 +3304,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1006955,
+        "achievement": 1007867,
         "rank": "SSS+",
         "dxScore": {
-          "score": 1735,
+          "score": 1748,
           "max": 1947,
-          "percentage": 89.11145351823318
+          "percentage": 89.77914740626605
         },
         "dxRank": 1,
         "combo": "FULL COMBO+",
@@ -3384,14 +3384,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 997349,
-        "rank": "SS+",
+        "achievement": 1000418,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1565,
+          "score": 1615,
           "max": 1764,
-          "percentage": 88.71882086167801
+          "percentage": 91.55328798185941
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -3764,16 +3764,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1001330,
-        "rank": "SSS",
+        "achievement": 1005756,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1715,
+          "score": 1723,
           "max": 1887,
-          "percentage": 90.88500264970854
+          "percentage": 91.30895601483837
         },
         "dxRank": 2,
-        "combo": null,
-        "sync": null
+        "combo": "FULL COMBO",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -5264,14 +5264,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 993862,
+        "achievement": 994256,
         "rank": "SS",
         "dxScore": {
-          "score": 1515,
+          "score": 1549,
           "max": 1665,
-          "percentage": 90.990990990991
+          "percentage": 93.03303303303304
         },
-        "dxRank": 2,
+        "dxRank": 3,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -6684,16 +6684,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 987687,
-        "rank": "S+",
+        "achievement": 1007651,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 985,
+          "score": 1051,
           "max": 1188,
-          "percentage": 82.91245791245791
+          "percentage": 88.46801346801347
         },
-        "dxRank": 0,
-        "combo": null,
-        "sync": null
+        "dxRank": 1,
+        "combo": "FULL COMBO+",
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -8670,6 +8670,26 @@
           "score": 2114,
           "max": 2760,
           "percentage": 76.59420289855072
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "胡蝶乃舞",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 919192,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1840,
+          "max": 2496,
+          "percentage": 73.71794871794873
         },
         "dxRank": 0,
         "combo": null,
