@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13805,
+    "rating": 13838,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 126,
+    "stars": 127,
     "playCount": {
-      "total": 258,
-      "current": 79
+      "total": 264,
+      "current": 85
     }
   },
   "records": [
@@ -2398,6 +2398,26 @@
     },
     {
       "track": {
+        "title": "拝啓ドッペルゲンガー",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 998981,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 1668,
+          "max": 1941,
+          "percentage": 85.93508500772798
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "幸せになれる隠しコマンドがあるらしい",
         "type": "Standard",
         "difficulty": "EXPERT"
@@ -2654,6 +2674,26 @@
         "dxRank": 2,
         "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "零號車輛",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006370,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1828,
+          "max": 1968,
+          "percentage": 92.88617886178862
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
       }
     },
     {
@@ -5938,6 +5978,26 @@
     },
     {
       "track": {
+        "title": "HERA",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 993972,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1757,
+          "max": 2166,
+          "percentage": 81.11726685133888
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "ViRTUS",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -6658,6 +6718,26 @@
     },
     {
       "track": {
+        "title": "エンドマークに希望と涙を添えて",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003243,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1804,
+          "max": 2106,
+          "percentage": 85.66001899335232
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "アイドル",
         "type": "DX",
         "difficulty": "MASTER"
@@ -6924,14 +7004,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 985090,
-        "rank": "S+",
+        "achievement": 1001320,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1919,
+          "score": 2007,
           "max": 2214,
-          "percentage": 86.67570009033425
+          "percentage": 90.65040650406505
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
@@ -7167,9 +7247,9 @@
         "achievement": 998991,
         "rank": "SS+",
         "dxScore": {
-          "score": 1637,
+          "score": 1651,
           "max": 1869,
-          "percentage": 87.58694489031568
+          "percentage": 88.33600856072766
         },
         "dxRank": 1,
         "combo": null,
@@ -7204,7 +7284,7 @@
       },
       "score": {
         "clear": true,
-        "achievement": 996084,
+        "achievement": 997128,
         "rank": "SS+",
         "dxScore": {
           "score": 2013,
@@ -7324,14 +7404,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 982908,
-        "rank": "S+",
+        "achievement": 1004114,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1584,
+          "score": 1718,
           "max": 1866,
-          "percentage": 84.88745980707395
+          "percentage": 92.06859592711683
         },
-        "dxRank": 0,
+        "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
       }
@@ -7404,14 +7484,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 986910,
-        "rank": "S+",
+        "achievement": 991920,
+        "rank": "SS",
         "dxScore": {
-          "score": 1688,
+          "score": 1759,
           "max": 1920,
-          "percentage": 87.91666666666667
+          "percentage": 91.61458333333333
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
         "sync": null
       }
@@ -8024,12 +8104,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 976892,
-        "rank": "S",
+        "achievement": 988004,
+        "rank": "S+",
         "dxScore": {
-          "score": 2148,
+          "score": 2200,
           "max": 2601,
-          "percentage": 82.5836216839677
+          "percentage": 84.58285274894271
         },
         "dxRank": 0,
         "combo": null,
@@ -8124,12 +8204,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 974605,
-        "rank": "S",
+        "achievement": 1000453,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1410,
+          "score": 1446,
           "max": 1644,
-          "percentage": 85.76642335766424
+          "percentage": 87.95620437956204
         },
         "dxRank": 1,
         "combo": null,
@@ -8304,14 +8384,14 @@
       },
       "score": {
         "clear": true,
-        "achievement": 965182,
-        "rank": "AAA",
+        "achievement": 984504,
+        "rank": "S+",
         "dxScore": {
-          "score": 1885,
+          "score": 1977,
           "max": 2316,
-          "percentage": 81.39032815198618
+          "percentage": 85.36269430051814
         },
-        "dxRank": 0,
+        "dxRank": 1,
         "combo": null,
         "sync": null
       }
@@ -9204,12 +9284,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 987141,
-        "rank": "S+",
+        "achievement": 992711,
+        "rank": "SS",
         "dxScore": {
-          "score": 2317,
+          "score": 2355,
           "max": 2652,
-          "percentage": 87.36802413273001
+          "percentage": 88.80090497737557
         },
         "dxRank": 1,
         "combo": null,
@@ -9892,6 +9972,26 @@
           "percentage": 86.67552014165561
         },
         "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ヴァンパイア",
+        "type": "DX",
+        "difficulty": "Re:MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 975828,
+        "rank": "S",
+        "dxScore": {
+          "score": 1798,
+          "max": 2247,
+          "percentage": 80.01780151312862
+        },
+        "dxRank": 0,
         "combo": null,
         "sync": null
       }
