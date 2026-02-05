@@ -1,5 +1,5 @@
 {
-  "chartCount": 6042,
+  "chartCount": 6058,
   "availableVersions": [
     {
       "value": 0,
@@ -17791,6 +17791,54 @@
       "version": 25,
       "displayLevel": [
         "6",
+        "8",
+        "12+",
+        "14+",
+        null
+      ]
+    },
+    {
+      "title": "スローグロー",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "ECHO,",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Phase: Theatre",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "11+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Sky Trails",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
         "8",
         "12+",
         "14+",
