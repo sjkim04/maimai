@@ -27113,11 +27113,27 @@
     }
   },
   {
+    "title": "スローグロー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 133
+    }
+  },
+  {
     "title": "Dazzle hop",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 142
+    }
+  },
+  {
+    "title": "ECHO,",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 137
     }
   },
   {
@@ -27134,6 +27150,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 137
+    }
+  },
+  {
+    "title": "Phase: Theatre",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 138
     }
   },
   {
@@ -27185,11 +27209,27 @@
     }
   },
   {
+    "title": "Sky Trails",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 147
+    }
+  },
+  {
     "title": "鬼女紅妖",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 141
+    }
+  },
+  {
+    "title": "Sky Trails",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 128
     }
   },
   {

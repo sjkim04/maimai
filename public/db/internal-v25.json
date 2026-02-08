@@ -4632,10 +4632,22 @@
     "internalLevel": 135
   },
   {
+    "title": "スローグロー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 133
+  },
+  {
     "title": "Dazzle hop",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 142
+  },
+  {
+    "title": "ECHO,",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 137
   },
   {
     "title": "Dazzle hop",
@@ -4648,6 +4660,12 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 137
+  },
+  {
+    "title": "Phase: Theatre",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 138
   },
   {
     "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
@@ -4686,10 +4704,22 @@
     "internalLevel": 122
   },
   {
+    "title": "Sky Trails",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": 147
+  },
+  {
     "title": "鬼女紅妖",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": 141
+  },
+  {
+    "title": "Sky Trails",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": 128
   },
   {
     "title": "真空都市",
