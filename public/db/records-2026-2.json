@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13838,
+    "rating": 13849,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 127,
     "playCount": {
-      "total": 264,
-      "current": 85
+      "total": 267,
+      "current": 88
     }
   },
   "records": [
@@ -3478,6 +3478,26 @@
     },
     {
       "track": {
+        "title": "ENERGY SYNERGY MATRIX",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002888,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1743,
+          "max": 1992,
+          "percentage": 87.5
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "PUPA",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -5538,6 +5558,26 @@
     },
     {
       "track": {
+        "title": "the EmpErroR",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 953426,
+        "rank": "AAA",
+        "dxScore": {
+          "score": 1717,
+          "max": 2436,
+          "percentage": 70.48440065681444
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "KHYMΞXΛ",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -7364,12 +7404,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 971563,
-        "rank": "S",
+        "achievement": 988038,
+        "rank": "S+",
         "dxScore": {
-          "score": 2163,
+          "score": 2240,
           "max": 2637,
-          "percentage": 82.0250284414107
+          "percentage": 84.94501327265831
         },
         "dxRank": 0,
         "combo": null,
@@ -8030,6 +8070,26 @@
           "score": 1305,
           "max": 1458,
           "percentage": 89.50617283950618
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "魔法少女とチョコレゐト",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 984731,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1639,
+          "max": 1860,
+          "percentage": 88.11827956989248
         },
         "dxRank": 1,
         "combo": null,
@@ -9358,6 +9418,26 @@
     },
     {
       "track": {
+        "title": "Eternal Return",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 900132,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1902,
+          "max": 2691,
+          "percentage": 70.68004459308807
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "Magical Paradox",
         "type": "DX",
         "difficulty": "MASTER"
@@ -9703,13 +9783,13 @@
         "difficulty": "MASTER"
       },
       "score": {
-        "clear": false,
-        "achievement": 758902,
-        "rank": "BBB",
+        "clear": true,
+        "achievement": 838394,
+        "rank": "A",
         "dxScore": {
-          "score": 1959,
+          "score": 2208,
           "max": 3600,
-          "percentage": 54.41666666666667
+          "percentage": 61.33333333333333
         },
         "dxRank": 0,
         "combo": null,
