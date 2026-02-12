@@ -1,5 +1,5 @@
 {
-  "chartCount": 6058,
+  "chartCount": 6062,
   "availableVersions": [
     {
       "value": 0,
@@ -17842,6 +17842,18 @@
         "8",
         "12+",
         "14+",
+        null
+      ]
+    },
+    {
+      "title": "ラプラスショコラ",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "12+",
         null
       ]
     }
