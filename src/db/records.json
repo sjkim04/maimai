@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13849,
+    "rating": 13856,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 127,
+    "stars": 129,
     "playCount": {
-      "total": 267,
-      "current": 88
+      "total": 270,
+      "current": 91
     }
   },
   "records": [
@@ -744,12 +744,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 998167,
+        "achievement": 998542,
         "rank": "SS+",
         "dxScore": {
-          "score": 1671,
+          "score": 1698,
           "max": 1956,
-          "percentage": 85.42944785276073
+          "percentage": 86.80981595092024
         },
         "dxRank": 1,
         "combo": null,
@@ -2704,15 +2704,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 983829,
-        "rank": "S+",
+        "achievement": 1004515,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1604,
+          "score": 1740,
           "max": 1935,
-          "percentage": 82.89405684754522
+          "percentage": 89.92248062015504
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -3158,6 +3158,26 @@
     },
     {
       "track": {
+        "title": "tiny tales continue",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006324,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1352,
+          "max": 1494,
+          "percentage": 90.49531459170014
+        },
+        "dxRank": 2,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "OMAKENO Stroke",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3594,6 +3614,26 @@
         "dxRank": 1,
         "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "BULK UP (GAME EXCLUSIVE EDIT)",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1003743,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1752,
+          "max": 1932,
+          "percentage": 90.6832298136646
+        },
+        "dxRank": 2,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -5818,6 +5858,26 @@
     },
     {
       "track": {
+        "title": "BLACK SWAN",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1000048,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1681,
+          "max": 1917,
+          "percentage": 87.68909754825248
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "躯樹の墓守",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -6007,9 +6067,9 @@
         "achievement": 998330,
         "rank": "SS+",
         "dxScore": {
-          "score": 1961,
+          "score": 1967,
           "max": 2301,
-          "percentage": 85.2238157322903
+          "percentage": 85.48457192524988
         },
         "dxRank": 1,
         "combo": null,
@@ -8418,6 +8478,26 @@
     },
     {
       "track": {
+        "title": "ワールドワイドワンダー",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992030,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1946,
+          "max": 2280,
+          "percentage": 85.35087719298245
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "独りんぼエンヴィー",
         "type": "DX",
         "difficulty": "MASTER"
@@ -9670,6 +9750,26 @@
           "score": 1628,
           "max": 2214,
           "percentage": 73.53206865401988
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Flashback",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 910155,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1789,
+          "max": 2439,
+          "percentage": 73.34973349733497
         },
         "dxRank": 0,
         "combo": null,
