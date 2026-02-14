@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 129,
+    "stars": 132,
     "playCount": {
-      "total": 270,
-      "current": 91
+      "total": 271,
+      "current": 92
     }
   },
   "records": [
@@ -6493,6 +6493,26 @@
         },
         "dxRank": 0,
         "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "Last Kingdom",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1002533,
+        "rank": "SSS",
+        "dxScore": {
+          "score": 1701,
+          "max": 1896,
+          "percentage": 89.71518987341773
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
