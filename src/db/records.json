@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "ＳＪＫ",
-    "rating": 13856,
+    "rating": 13884,
     "profileImageSrc": "https://maimaidx.jp/maimai-mobile/img/Icon/b3323f45669d4656.png",
     "trophy": {
       "tier": "Gold",
@@ -9,10 +9,10 @@
     },
     "courseRank": 8,
     "classRank": 6,
-    "stars": 132,
+    "stars": 134,
     "playCount": {
-      "total": 271,
-      "current": 92
+      "total": 273,
+      "current": 94
     }
   },
   "records": [
@@ -2998,6 +2998,26 @@
     },
     {
       "track": {
+        "title": "Good Bye, Mr. Jack",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 1006471,
+        "rank": "SSS+",
+        "dxScore": {
+          "score": 1710,
+          "max": 1911,
+          "percentage": 89.48194662480377
+        },
+        "dxRank": 1,
+        "combo": "FULL COMBO",
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "お願い！コンコンお稲荷さま",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -3454,6 +3474,26 @@
         "dxRank": 2,
         "combo": null,
         "sync": "SYNC PLAY"
+      }
+    },
+    {
+      "track": {
+        "title": "夜明けまであと３秒",
+        "type": "Standard",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 982971,
+        "rank": "S+",
+        "dxScore": {
+          "score": 1357,
+          "max": 1665,
+          "percentage": 81.50150150150151
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
       }
     },
     {
@@ -5658,6 +5698,26 @@
     },
     {
       "track": {
+        "title": "\"411Ψ892\"",
+        "type": "DX",
+        "difficulty": "EXPERT"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 992052,
+        "rank": "SS",
+        "dxScore": {
+          "score": 1610,
+          "max": 1893,
+          "percentage": 85.05018489170628
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "星見草",
         "type": "DX",
         "difficulty": "EXPERT"
@@ -6084,15 +6144,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 993972,
-        "rank": "SS",
+        "achievement": 1002859,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1757,
+          "score": 1852,
           "max": 2166,
-          "percentage": 81.11726685133888
+          "percentage": 85.50323176361958
         },
-        "dxRank": 0,
-        "combo": null,
+        "dxRank": 1,
+        "combo": "FULL COMBO",
         "sync": null
       }
     },
@@ -6104,12 +6164,12 @@
       },
       "score": {
         "clear": true,
-        "achievement": 970877,
+        "achievement": 979138,
         "rank": "S",
         "dxScore": {
-          "score": 1725,
+          "score": 1792,
           "max": 2139,
-          "percentage": 80.64516129032258
+          "percentage": 83.77746610565686
         },
         "dxRank": 0,
         "combo": null,
@@ -7158,6 +7218,26 @@
     },
     {
       "track": {
+        "title": "さくゆいたいそう",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 979270,
+        "rank": "S",
+        "dxScore": {
+          "score": 1727,
+          "max": 2043,
+          "percentage": 84.53255017131669
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
         "title": "シリウスの輝きのように",
         "type": "DX",
         "difficulty": "MASTER"
@@ -8130,6 +8210,26 @@
           "score": 2737,
           "max": 3147,
           "percentage": 86.97171909755322
+        },
+        "dxRank": 1,
+        "combo": null,
+        "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ベノム",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 995902,
+        "rank": "SS+",
+        "dxScore": {
+          "score": 2137,
+          "max": 2499,
+          "percentage": 85.51420568227292
         },
         "dxRank": 1,
         "combo": null,

@@ -27273,6 +27273,14 @@
     }
   },
   {
+    "title": "ラプラスショコラ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 129
+    }
+  },
+  {
     "title": "華天月兎",
     "type": "DX",
     "difficulty": "EXPERT",
