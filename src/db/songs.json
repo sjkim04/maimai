@@ -1,5 +1,5 @@
 {
-  "chartCount": 6062,
+  "chartCount": 6074,
   "availableVersions": [
     {
       "value": 0,
@@ -17854,6 +17854,42 @@
         "6",
         "9+",
         "12+",
+        null
+      ]
+    },
+    {
+      "title": "恋の氷結おてんば湯けむりチルノ温泉",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "1",
+        "5",
+        "9",
+        "12+",
+        null
+      ]
+    },
+    {
+      "title": "むしみこうにゃーのハッピッピー",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7+",
+        "11",
+        "13+",
         null
       ]
     }
