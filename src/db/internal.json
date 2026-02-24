@@ -26625,6 +26625,14 @@
     }
   },
   {
+    "title": "恋の氷結おてんば湯けむりチルノ温泉",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 133
+    }
+  },
+  {
     "title": "Bring it on",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26649,6 +26657,14 @@
     }
   },
   {
+    "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 128
+    }
+  },
+  {
     "title": "君だったから",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26670,6 +26686,14 @@
     "difficulty": "EXPERT",
     "internalLevel": {
       "25": 124
+    }
+  },
+  {
+    "title": "むしみこうにゃーのハッピッピー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 136
     }
   },
   {
