@@ -11,8 +11,8 @@
     "classRank": 6,
     "stars": 135,
     "playCount": {
-      "total": 274,
-      "current": 95
+      "total": 275,
+      "current": 96
     }
   },
   "records": [
@@ -2693,7 +2693,7 @@
         },
         "dxRank": 2,
         "combo": "FULL COMBO",
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -3624,15 +3624,15 @@
       },
       "score": {
         "clear": true,
-        "achievement": 1000880,
-        "rank": "SSS",
+        "achievement": 1008300,
+        "rank": "SSS+",
         "dxScore": {
-          "score": 1867,
+          "score": 1972,
           "max": 2136,
-          "percentage": 87.40636704119851
+          "percentage": 92.32209737827716
         },
-        "dxRank": 1,
-        "combo": null,
+        "dxRank": 2,
+        "combo": "FULL COMBO+",
         "sync": "SYNC PLAY"
       }
     },
@@ -8464,16 +8464,16 @@
       },
       "score": {
         "clear": true,
-        "achievement": 988299,
-        "rank": "S+",
+        "achievement": 1002476,
+        "rank": "SSS",
         "dxScore": {
-          "score": 1408,
+          "score": 1433,
           "max": 1572,
-          "percentage": 89.56743002544529
+          "percentage": 91.15776081424937
         },
-        "dxRank": 1,
+        "dxRank": 2,
         "combo": null,
-        "sync": null
+        "sync": "SYNC PLAY"
       }
     },
     {
@@ -9634,6 +9634,26 @@
         "dxRank": 0,
         "combo": null,
         "sync": null
+      }
+    },
+    {
+      "track": {
+        "title": "ぱぱぱらビーチ",
+        "type": "DX",
+        "difficulty": "MASTER"
+      },
+      "score": {
+        "clear": true,
+        "achievement": 927703,
+        "rank": "AA",
+        "dxScore": {
+          "score": 1904,
+          "max": 2493,
+          "percentage": 76.37384677095869
+        },
+        "dxRank": 0,
+        "combo": null,
+        "sync": "SYNC PLAY"
       }
     },
     {
