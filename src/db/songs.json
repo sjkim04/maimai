@@ -1,5 +1,5 @@
 {
-  "chartCount": 6074,
+  "chartCount": 6094,
   "availableVersions": [
     {
       "value": 0,
@@ -17890,6 +17890,66 @@
         "7+",
         "11",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "7 Wonders",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "8",
+        "12+",
+        "14+",
+        null
+      ]
+    },
+    {
+      "title": "WakeUP MakeUP FEVER!",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "2",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "give it up to you",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "ICEBURN",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "8",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Daredevil Glaive",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "7+",
+        "11+",
+        "14",
         null
       ]
     }
