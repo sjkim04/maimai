@@ -26625,11 +26625,11 @@
     }
   },
   {
-    "title": "恋の氷結おてんば湯けむりチルノ温泉",
+    "title": "7 Wonders",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
-      "25": 133
+      "25": 149
     }
   },
   {
@@ -26657,9 +26657,9 @@
     }
   },
   {
-    "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+    "title": "7 Wonders",
     "type": "DX",
-    "difficulty": "MASTER",
+    "difficulty": "EXPERT",
     "internalLevel": {
       "25": 128
     }
@@ -26689,11 +26689,11 @@
     }
   },
   {
-    "title": "むしみこうにゃーのハッピッピー",
+    "title": "WakeUP MakeUP FEVER!",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
-      "25": 136
+      "25": 133
     }
   },
   {
@@ -26718,6 +26718,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 138
+    }
+  },
+  {
+    "title": "give it up to you",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 132
     }
   },
   {
@@ -26777,6 +26785,14 @@
     }
   },
   {
+    "title": "ICEBURN",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 138
+    }
+  },
+  {
     "title": "テトリス",
     "type": "DX",
     "difficulty": "MASTER",
@@ -26806,6 +26822,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 137
+    }
+  },
+  {
+    "title": "Daredavil Glaive",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 142
     }
   },
   {
@@ -27217,6 +27241,14 @@
     }
   },
   {
+    "title": "Sky Trails",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 147
+    }
+  },
+  {
     "title": "イーヴィルガール",
     "type": "DX",
     "difficulty": "MASTER",
@@ -27235,9 +27267,9 @@
   {
     "title": "Sky Trails",
     "type": "DX",
-    "difficulty": "MASTER",
+    "difficulty": "EXPERT",
     "internalLevel": {
-      "25": 147
+      "25": 128
     }
   },
   {
@@ -27246,14 +27278,6 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 141
-    }
-  },
-  {
-    "title": "Sky Trails",
-    "type": "DX",
-    "difficulty": "EXPERT",
-    "internalLevel": {
-      "25": 128
     }
   },
   {
@@ -27281,14 +27305,6 @@
     }
   },
   {
-    "title": "ぱぱぱらビーチ",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "25": 136
-    }
-  },
-  {
     "title": "華天月兎",
     "type": "DX",
     "difficulty": "MASTER",
@@ -27302,6 +27318,14 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 129
+    }
+  },
+  {
+    "title": "ぱぱぱらビーチ",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 136
     }
   },
   {
@@ -27321,14 +27345,6 @@
     }
   },
   {
-    "title": "Hurtling Boys",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "25": 145
-    }
-  },
-  {
     "title": "Get U ♭ack",
     "type": "DX",
     "difficulty": "MASTER",
@@ -27337,11 +27353,19 @@
     }
   },
   {
+    "title": "恋の氷結おてんば湯けむりチルノ温泉",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 133
+    }
+  },
+  {
     "title": "Hurtling Boys",
     "type": "DX",
-    "difficulty": "EXPERT",
+    "difficulty": "MASTER",
     "internalLevel": {
-      "25": 128
+      "25": 145
     }
   },
   {
@@ -27358,6 +27382,38 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 145
+    }
+  },
+  {
+    "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 128
+    }
+  },
+  {
+    "title": "Hurtling Boys",
+    "type": "DX",
+    "difficulty": "EXPERT",
+    "internalLevel": {
+      "25": 128
+    }
+  },
+  {
+    "title": "むしみこうにゃーのハッピッピー",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 136
+    }
+  },
+  {
+    "title": "Daredevil Glaive",
+    "type": "DX",
+    "difficulty": "MASTER",
+    "internalLevel": {
+      "25": 142
     }
   },
   {
