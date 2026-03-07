@@ -26825,7 +26825,7 @@
     }
   },
   {
-    "title": "Daredavil Glaive",
+    "title": "Daredevil Glaive",
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
@@ -27406,14 +27406,6 @@
     "difficulty": "MASTER",
     "internalLevel": {
       "25": 136
-    }
-  },
-  {
-    "title": "Daredevil Glaive",
-    "type": "DX",
-    "difficulty": "MASTER",
-    "internalLevel": {
-      "25": 142
     }
   },
   {
