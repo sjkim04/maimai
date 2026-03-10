@@ -25440,7 +25440,8 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
-      "24": 118
+      "24": 118,
+      "25": 118
     }
   },
   {
@@ -25520,7 +25521,8 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
-      "24": 116
+      "24": 116,
+      "25": 116
     }
   },
   {
@@ -25636,7 +25638,8 @@
     "type": "DX",
     "difficulty": "MASTER",
     "internalLevel": {
-      "24": 119
+      "24": 119,
+      "25": 119
     }
   },
   {
@@ -26310,7 +26313,8 @@
     "type": "DX",
     "difficulty": "EXPERT",
     "internalLevel": {
-      "24": 117
+      "24": 117,
+      "25": 117
     }
   },
   {
