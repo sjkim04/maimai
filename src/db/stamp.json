@@ -1,6 +1,14 @@
 [
   {
     "type": "partner",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Partner/1b1133684b83890d.png",
+    "title": "しゃま（さーくる）",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "partner",
     "image": "https://maimaidx.jp/maimai-mobile/img/Partner/c12eadfdf75586f2.png",
     "title": "シフォン（さーくる）",
     "complete": true,
@@ -121,6 +129,14 @@
   },
   {
     "type": "music",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Music/d542e0accb085302.png",
+    "title": "魔理沙は大変なものを盗んでいきました",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
+  },
+  {
+    "type": "music",
     "image": "https://maimaidx.jp/maimai-mobile/img/Music/d44aee5f4b660d3d.png",
     "title": "チルノのパーフェクトさんすう教室",
     "complete": true,
@@ -136,28 +152,20 @@
     "max": 10
   },
   {
-    "type": "music",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Music/b4c2df0b003d74e2.png",
-    "title": "ゴーゴー幽霊船",
-    "complete": true,
-    "stampCount": 10,
-    "max": 10
-  },
-  {
-    "type": "music",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Music/fba94ed765e1c00b.png",
-    "title": "Endless, Sleepless Night",
-    "complete": false,
-    "stampCount": 0,
-    "max": 10
-  },
-  {
     "type": "icon",
     "image": "https://maimaidx.jp/maimai-mobile/img/Icon/a9dc639d3b536d5e.png",
     "title": "CiRCLE",
     "complete": true,
     "stampCount": 5,
     "max": 5
+  },
+  {
+    "type": "nameplate",
+    "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/dcb3d10797845353.png",
+    "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+    "complete": false,
+    "stampCount": 0,
+    "max": 10
   },
   {
     "type": "nameplate",
@@ -168,17 +176,9 @@
     "max": 10
   },
   {
-    "type": "nameplate",
-    "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/5ed598552df3b5df.png",
-    "title": "Divide et impera!（ソルト）",
-    "complete": false,
-    "stampCount": 0,
-    "max": 10
-  },
-  {
-    "type": "nameplate",
-    "image": "https://maimaidx.jp/maimai-mobile/img/NamePlate/22e00c9bfbbfda07.png",
-    "title": "Divide et impera!（みるく）",
+    "type": "frame",
+    "image": "https://maimaidx.jp/maimai-mobile/img/Frame/c17f43577224643a.png",
+    "title": "廃墟にいますキャンペーン",
     "complete": false,
     "stampCount": 0,
     "max": 10
@@ -189,14 +189,6 @@
     "title": "ATLAS RUSH",
     "complete": false,
     "stampCount": 0,
-    "max": 10
-  },
-  {
-    "type": "frame",
-    "image": "https://maimaidx.jp/maimai-mobile/img/Frame/1c2adf82c32b1428.png",
-    "title": "Cryptarithm",
-    "complete": true,
-    "stampCount": 10,
     "max": 10
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "chartCount": 6094,
+  "chartCount": 6172,
   "availableVersions": [
     {
       "value": 0,
@@ -104,6 +104,10 @@
     {
       "value": 25,
       "name": "CiRCLE"
+    },
+    {
+      "value": 26,
+      "name": "CiRCLE PLUS"
     }
   ],
   "tracks": [
@@ -5978,18 +5982,6 @@
       ]
     },
     {
-      "title": "ブリキノダンス",
-      "type": "Standard",
-      "version": 11,
-      "displayLevel": [
-        "5",
-        "7+",
-        "10+",
-        "12",
-        "13"
-      ]
-    },
-    {
       "title": "おねがいダーリン",
       "type": "Standard",
       "version": 11,
@@ -7941,7 +7933,7 @@
         "2",
         "6",
         "8+",
-        "12",
+        "12+",
         null
       ]
     },
@@ -8930,18 +8922,6 @@
       ]
     },
     {
-      "title": "絶対にチョコミントを食べるアオイチャン",
-      "type": "DX",
-      "version": 15,
-      "displayLevel": [
-        "2",
-        "6",
-        "9+",
-        "12+",
-        null
-      ]
-    },
-    {
       "title": "デリヘル呼んだら君が来た",
       "type": "DX",
       "version": 15,
@@ -8950,6 +8930,18 @@
         "7",
         "10",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "絶対にチョコミントを食べるアオイチャン",
+      "type": "DX",
+      "version": 15,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "12+",
         null
       ]
     },
@@ -16166,6 +16158,18 @@
       ]
     },
     {
+      "title": "ゴーゴー幽霊船",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "ゆりかご",
       "type": "DX",
       "version": 24,
@@ -16186,18 +16190,6 @@
         "8",
         "11",
         "13+",
-        null
-      ]
-    },
-    {
-      "title": "ゴーゴー幽霊船",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "3",
-        "7",
-        "10",
-        "13",
         null
       ]
     },
@@ -16298,18 +16290,6 @@
       ]
     },
     {
-      "title": "もういいよ",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "2",
-        "6",
-        "9+",
-        "13",
-        null
-      ]
-    },
-    {
       "title": "モエチャッカファイア",
       "type": "DX",
       "version": 24,
@@ -16318,6 +16298,18 @@
         "6",
         "10",
         "13+",
+        null
+      ]
+    },
+    {
+      "title": "もういいよ",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "13",
         null
       ]
     },
@@ -16341,7 +16333,7 @@
         "2",
         "6",
         "9+",
-        "13",
+        "13+",
         null
       ]
     },
@@ -16424,7 +16416,7 @@
       "displayLevel": [
         "3",
         "7",
-        "10",
+        "9+",
         "13",
         null
       ]
@@ -16550,18 +16542,6 @@
       ]
     },
     {
-      "title": "抜錨",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "3",
-        "6",
-        "10+",
-        "13",
-        null
-      ]
-    },
-    {
       "title": "ゼロトーキング",
       "type": "DX",
       "version": 24,
@@ -16574,6 +16554,18 @@
       ]
     },
     {
+      "title": "抜錨",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "3",
+        "6",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "Dragoon",
       "type": "DX",
       "version": 24,
@@ -16581,6 +16573,18 @@
         "4",
         "8",
         "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "ホラフキパペット",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
         "13+",
         null
       ]
@@ -16606,18 +16610,6 @@
         "6",
         "9+",
         "13",
-        null
-      ]
-    },
-    {
-      "title": "ホラフキパペット",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "4",
-        "7+",
-        "10+",
-        "13+",
         null
       ]
     },
@@ -16677,7 +16669,7 @@
         "4",
         "7+",
         "11",
-        "13+",
+        "14",
         null
       ]
     },
@@ -16898,6 +16890,18 @@
       ]
     },
     {
+      "title": "MIRA",
+      "type": "DX",
+      "version": 24,
+      "displayLevel": [
+        "2",
+        "6",
+        "9",
+        "12+",
+        null
+      ]
+    },
+    {
       "title": "空回りライブラリ",
       "type": "DX",
       "version": 24,
@@ -16934,14 +16938,14 @@
       ]
     },
     {
-      "title": "MIRA",
+      "title": "帝国少女",
       "type": "DX",
       "version": 24,
       "displayLevel": [
         "2",
         "6",
         "9",
-        "12+",
+        "13",
         null
       ]
     },
@@ -16965,18 +16969,6 @@
         "2",
         "6",
         "9+",
-        "13",
-        null
-      ]
-    },
-    {
-      "title": "帝国少女",
-      "type": "DX",
-      "version": 24,
-      "displayLevel": [
-        "2",
-        "6",
-        "9",
         "13",
         null
       ]
@@ -17042,6 +17034,18 @@
       ]
     },
     {
+      "title": "Bring it on",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "死ぬな！",
       "type": "DX",
       "version": 25,
@@ -17062,18 +17066,6 @@
         "6",
         "10",
         "13+",
-        null
-      ]
-    },
-    {
-      "title": "Bring it on",
-      "type": "DX",
-      "version": 25,
-      "displayLevel": [
-        "3",
-        "6",
-        "10",
-        "13",
         null
       ]
     },
@@ -17102,18 +17094,6 @@
       ]
     },
     {
-      "title": "モニタリング",
-      "type": "DX",
-      "version": 25,
-      "displayLevel": [
-        "3",
-        "6",
-        "10+",
-        "11+",
-        "13"
-      ]
-    },
-    {
       "title": "サイエンス",
       "type": "DX",
       "version": 25,
@@ -17123,6 +17103,18 @@
         "10",
         "13",
         null
+      ]
+    },
+    {
+      "title": "モニタリング",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "6",
+        "10+",
+        "11+",
+        "13"
       ]
     },
     {
@@ -17234,18 +17226,6 @@
       ]
     },
     {
-      "title": "イーヴィルガール",
-      "type": "DX",
-      "version": 25,
-      "displayLevel": [
-        "4",
-        "7+",
-        "11",
-        "13+",
-        null
-      ]
-    },
-    {
       "title": "Dazzle hop",
       "type": "DX",
       "version": 25,
@@ -17254,6 +17234,18 @@
         "9",
         "12+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "イーヴィルガール",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
         null
       ]
     },
@@ -17402,6 +17394,18 @@
       ]
     },
     {
+      "title": "Customized Justice",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "6",
+        "8+",
+        "13",
+        "14+",
+        null
+      ]
+    },
+    {
       "title": "ヒアソビ",
       "type": "DX",
       "version": 25,
@@ -17469,7 +17473,7 @@
         "5",
         "8+",
         "12+",
-        "14",
+        "14+",
         null
       ]
     },
@@ -17594,6 +17598,18 @@
       ]
     },
     {
+      "title": "華天月兎",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "14",
+        null
+      ]
+    },
+    {
       "title": "ミクマリ",
       "type": "DX",
       "version": 25,
@@ -17630,14 +17646,14 @@
       ]
     },
     {
-      "title": "華天月兎",
+      "title": "スノーマン (Rerec)",
       "type": "DX",
       "version": 25,
       "displayLevel": [
-        "5",
-        "8",
-        "12",
-        "14",
+        "2",
+        "6",
+        "9+",
+        "13",
         null
       ]
     },
@@ -17650,18 +17666,6 @@
         "8",
         "12+",
         "14",
-        null
-      ]
-    },
-    {
-      "title": "スノーマン (Rerec)",
-      "type": "DX",
-      "version": 25,
-      "displayLevel": [
-        "2",
-        "6",
-        "9+",
-        "13",
         null
       ]
     },
@@ -17714,18 +17718,6 @@
       ]
     },
     {
-      "title": "アイアイ傘",
-      "type": "DX",
-      "version": 25,
-      "displayLevel": [
-        "2",
-        "6",
-        "9+",
-        "12+",
-        null
-      ]
-    },
-    {
       "title": "化けの花",
       "type": "DX",
       "version": 25,
@@ -17734,6 +17726,18 @@
         "7",
         "11",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "アイアイ傘",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "2",
+        "6",
+        "9+",
+        "12+",
         null
       ]
     },
@@ -17858,18 +17862,6 @@
       ]
     },
     {
-      "title": "恋の氷結おてんば湯けむりチルノ温泉",
-      "type": "DX",
-      "version": 25,
-      "displayLevel": [
-        "3",
-        "7",
-        "10+",
-        "13",
-        null
-      ]
-    },
-    {
       "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
       "type": "DX",
       "version": 25,
@@ -17878,6 +17870,18 @@
         "5",
         "9",
         "12+",
+        null
+      ]
+    },
+    {
+      "title": "恋の氷結おてんば湯けむりチルノ温泉",
+      "type": "DX",
+      "version": 25,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13",
         null
       ]
     },
@@ -17949,6 +17953,234 @@
         "5",
         "7+",
         "11+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "BOW AND ARROW （アニメ・オープニングver.）",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "11+",
+        "13"
+      ]
+    },
+    {
+      "title": "愛♡スクリ～ム！",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "2",
+        "6",
+        "9",
+        "11",
+        "13"
+      ]
+    },
+    {
+      "title": "無敵的ハピネス！(SOS団5人Ver.)",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Chasing destiny",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Colorful Starting Line",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "テレパシ",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "ダイダイダイダイダイキライ",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "6",
+        "10",
+        "11+",
+        "13+"
+      ]
+    },
+    {
+      "title": "T氏の話を信じるな",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "オペラ！スペースオペラ！",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "超ナイト・オブ・ナイツ",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11+",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "魔理沙は大変なものを盗んでいきました",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "AiAe",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "5",
+        "8",
+        "12",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "浮世絵横丁",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "KNØCK ØUT!!",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Aides",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7+",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Treasure Chest Expedition",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "5",
+        "8+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "ソテリア",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "8",
+        "12",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "TECHNOPOLIS 2085",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "6",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Galaxy Blaster",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "5",
+        "7+",
+        "11",
         "14",
         null
       ]
