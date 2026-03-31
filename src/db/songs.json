@@ -1,5 +1,5 @@
 {
-  "chartCount": 6172,
+  "chartCount": 6176,
   "availableVersions": [
     {
       "value": 0,
@@ -18182,6 +18182,18 @@
         "7+",
         "11",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "キミは“見ていたね”？",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
         null
       ]
     }
