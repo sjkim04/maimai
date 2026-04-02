@@ -4021,6 +4021,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "ZEUS",
+      "artist": "DÉ DÉ MOUSE & KAJI",
+      "jacketKey": "1b7f907d0295f73b",
+      "chartTypeCount": 1
+    },
+    {
       "title": "ZIGG-ZAGG",
       "artist": "Junky",
       "jacketKey": "3c33f819dd33084c",
@@ -4630,6 +4636,12 @@
       "title": "お気に召すまま",
       "artist": "Eve",
       "jacketKey": "7d0987aa84615ada",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "お返事まだカナ？おじさん構文！",
+      "artist": "吉本おじさん",
+      "jacketKey": "2f80772d2f249183",
       "chartTypeCount": 1
     },
     {
@@ -5926,7 +5938,7 @@
       "title": "バッド・ダンス・ホール",
       "artist": "ぱなまん/カラスヤサボウ",
       "jacketKey": "9dfd23eb9143196f",
-      "chartTypeCount": 1
+      "chartTypeCount": 2
     },
     {
       "title": "ハッピーシンセサイザ",
@@ -7327,6 +7339,12 @@
       "chartTypeCount": 1
     },
     {
+      "title": "奇々解体",
+      "artist": "MURASAKI feat.かたたかんな",
+      "jacketKey": "4ac68a88fe9a4259",
+      "chartTypeCount": 1
+    },
+    {
       "title": "奏者はただ背中と提琴で語るのみ",
       "artist": "月鈴那知(CV:今村彩夏)",
       "jacketKey": "7fcddaf80f12d906",
@@ -8602,6 +8620,12 @@
       "title": "隠然",
       "artist": "豚乙女",
       "jacketKey": "65352a3ac1e871e3",
+      "chartTypeCount": 1
+    },
+    {
+      "title": "雑魚",
+      "artist": "柊マグネタイト",
+      "jacketKey": "e6f92fc3b0d0e053",
       "chartTypeCount": 1
     },
     {

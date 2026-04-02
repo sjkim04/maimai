@@ -1,5 +1,5 @@
 {
-  "chartCount": 6176,
+  "chartCount": 6196,
   "availableVersions": [
     {
       "value": 0,
@@ -18186,6 +18186,18 @@
       ]
     },
     {
+      "title": "奇々解体",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
       "title": "キミは“見ていたね”？",
       "type": "DX",
       "version": 26,
@@ -18194,6 +18206,54 @@
         "6",
         "10",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "お返事まだカナ？おじさん構文！",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "7+",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "雑魚",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "2",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "バッド・ダンス・ホール",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "11",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "ZEUS",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "5",
+        "8",
+        "12+",
+        "14",
         null
       ]
     }
