@@ -1,5 +1,5 @@
 {
-  "chartCount": 6196,
+  "chartCount": 6208,
   "availableVersions": [
     {
       "value": 0,
@@ -18254,6 +18254,42 @@
         "8",
         "12+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "Nine Point Eight",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "7",
+        "9+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Myosotis",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "8+",
+        "12",
+        "14",
+        null
+      ]
+    },
+    {
+      "title": "ANiMA",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "6",
+        "8",
+        "12+",
+        "14+",
         null
       ]
     }
