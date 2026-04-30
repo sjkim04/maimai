@@ -1,5 +1,5 @@
 {
-  "chartCount": 6208,
+  "chartCount": 6220,
   "availableVersions": [
     {
       "value": 0,
@@ -18290,6 +18290,42 @@
         "8",
         "12+",
         "14+",
+        null
+      ]
+    },
+    {
+      "title": "RE Aoharu",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "Usagi Flap",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "Operation☆DOTABATA!",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "11",
+        "13",
         null
       ]
     }
