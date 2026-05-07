@@ -1,5 +1,5 @@
 {
-  "chartCount": 6220,
+  "chartCount": 6232,
   "availableVersions": [
     {
       "value": 0,
@@ -18326,6 +18326,42 @@
         "6",
         "11",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "オールマスター",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "4",
+        "6",
+        "11",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "STRAY",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "クロノイデア",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "5",
+        "8",
+        "11+",
+        "14",
         null
       ]
     }
