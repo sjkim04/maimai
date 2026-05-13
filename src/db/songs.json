@@ -1,5 +1,5 @@
 {
-  "chartCount": 6232,
+  "chartCount": 6244,
   "availableVersions": [
     {
       "value": 0,
@@ -18362,6 +18362,42 @@
         "8",
         "11+",
         "14",
+        null
+      ]
+    },
+    {
+      "title": "キスキツネ",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "2",
+        "6",
+        "10",
+        "13+",
+        null
+      ]
+    },
+    {
+      "title": "WWW",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "2",
+        "6",
+        "10+",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "うたかたよいかないで",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "7",
+        "10",
+        "13",
         null
       ]
     }
