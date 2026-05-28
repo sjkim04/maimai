@@ -1,5 +1,5 @@
 {
-  "chartCount": 6244,
+  "chartCount": 6257,
   "availableVersions": [
     {
       "value": 0,
@@ -18398,6 +18398,42 @@
         "7",
         "10",
         "13",
+        null
+      ]
+    },
+    {
+      "title": "Intergalactic Bound",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "2",
+        "6",
+        "10",
+        "13",
+        null
+      ]
+    },
+    {
+      "title": "LEMON MELON COOKIE",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "7",
+        "10+",
+        "11+",
+        "13"
+      ]
+    },
+    {
+      "title": "3rd Avenue",
+      "type": "DX",
+      "version": 26,
+      "displayLevel": [
+        "3",
+        "6",
+        "11",
+        "13+",
         null
       ]
     }
