@@ -162,6 +162,21 @@ export const INTERNAL_V25: InternalFetchData = {
       "12": ABCE,
   }
 }
+
+// CiRCLE PLUS
+export const INTERNAL_V26: InternalFetchData = {
+    id: "17vd35oIHxjXPUU-6QJwYoTLPs2nneHN4hokMNLoQQLY",
+    sheets: {
+      "CiRCLE PLUS新曲": ABCE,
+      "新曲枠": ACDF,
+      "定数変動まとめ": ACDF,
+      "14以上": ACDF,
+      "13+": ABCE,
+      "13": ABCE,
+      "12+": ABCE,
+      "12": ABCE,
+  }
+}
       
 
 export const INTERNALS = {
@@ -175,5 +190,6 @@ export const INTERNALS = {
   22: INTERNAL_V22,
   23: INTERNAL_V23,
   24: INTERNAL_V24,
-  25: INTERNAL_V25
+  25: INTERNAL_V25,
+  26: INTERNAL_V26
 };
